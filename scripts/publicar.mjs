@@ -118,7 +118,15 @@ async function processarFila() {
   if (!devidos.length) { console.log('nada na hora. próximos:'); listar(); return; }
   for (const f of devidos) {
     try {
-      const link = await publicar(await carregar(f.roteiro));
+      const item = await carregar(f.roteiro);
+      /* trava contra post em dobro: se já existe post com a mesma legenda nas últimas 6 h, só marca como postado */
+      let recentes;
+      try { recentes = (await graph('GET', `${precisa('IG_USER_ID')}/media`, { fields: 'caption,timestamp,permalink', limit: '10' }, precisa('IG_TOKEN'))).data || []; }
+      catch (e) { console.error(`  ! ${f.slug}: não consegui checar posts recentes (${e.message}) — fica para a próxima rodada`); continue; }
+      const norm = t => (t || '').replace(/\s+/g, ' ').trim();
+      const dup = recentes.find(m => norm(m.caption) === norm(item.legenda) && Date.now() - new Date(m.timestamp).getTime() < 6 * 3600e3);
+      if (dup) { console.log(`  = ${f.slug}: já publicado às ${fmt(new Date(dup.timestamp))} — pulando (marcado como postado)`); f.status = 'postado'; f.link = dup.permalink; f.publicado_em = new Date(dup.timestamp).toISOString(); await salvarFila(); continue; }
+      const link = await publicar(item);
       f.status = 'postado'; f.link = link; f.publicado_em = new Date().toISOString();
     } catch (e) {
       f.status = 'erro'; f.erro = e.message; console.error('  ✗', e.message);
