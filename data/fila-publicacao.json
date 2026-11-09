@@ -22,9 +22,8 @@
   {
     "slug": "05-crescer-nao-e-vender",
     "roteiro": "roteiros/lote-01/05-crescer-nao-e-vender.json",
-    "quando": "2026-11-09T15:00:00.000Z",
-    "status": "erro",
-    "erro": "Cannot access 'espera' before initialization"
+    "quando": "2026-11-09T18:50:00.000Z",
+    "status": "agendado"
   },
   {
     "slug": "06-voce-tem-dois-segundos",
