@@ -2,7 +2,7 @@
 name: publicar-fila
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '7,22,37,52 * * * *'   # fora dos minutos cheios (:00/:15/:30/:45), onde o GitHub mais atrasa
   workflow_dispatch: {}
 concurrency:
   group: publicar

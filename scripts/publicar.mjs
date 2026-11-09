@@ -231,4 +231,4 @@ function parseData(s) {
   return d;
 }
 function fmt(d) { return d.toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short' }); }
-const espera = ms => new Promise(r => setTimeout(r, ms));
+function espera(ms) { return new Promise(r => setTimeout(r, ms)); } // declaração (içada): o topo do arquivo usa await antes de chegar aqui, e uma const ainda não existiria
