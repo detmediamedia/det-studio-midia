@@ -35,4 +35,6 @@ jobs:
           git add -A data saida || true
           git diff --cached --quiet && exit 0
           git commit -m "fila: atualização automática $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          # se o Mac enviou uma fila nova no meio tempo, traz antes de empurrar (3 tentativas); falhar aqui deixa a run vermelha de propósito
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 15; done
+          exit 1
