@@ -1,0 +1,77 @@
+{
+  "slug": "02-sistema-de-conteudo",
+  "funil": "fundo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.2,
+      "etiqueta": "Método",
+      "texto": "Todo post nosso tem um *papel*",
+      "sub": "Atrair ou converter. Nunca os dois.",
+      "fala": "[calm] Todo post nosso tem um papel.",
+      "fala_audio": "assets/voz/02-sistema-de-conteudo/fala-01.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 6.2,
+      "rotulo": "Dois tipos de post",
+      "esquerda": {
+        "titulo": "Topo",
+        "itens": [
+          "Atrai quem ainda não te conhece",
+          "Bastidor, erro comum, insight",
+          "Pede para salvar ou seguir"
+        ]
+      },
+      "direita": {
+        "titulo": "Fundo",
+        "cor": "positivo",
+        "itens": [
+          "Converte quem já confia",
+          "Método, processo, resultado",
+          "Pede para comentar"
+        ]
+      },
+      "fala": "Topo atrai quem ainda não te conhece. Fundo converte quem já confia.",
+      "fala_audio": "assets/voz/02-sistema-de-conteudo/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 7.6,
+      "rotulo": "Na semana",
+      "titulo": "Cadência, não volume.",
+      "itens": [
+        "Três posts de topo",
+        "Dois posts de fundo",
+        "Um de posicionamento"
+      ],
+      "fala": "Na semana: três de topo, dois de fundo… e um de posicionamento.",
+      "fala_audio": "assets/voz/02-sistema-de-conteudo/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 4.2,
+      "texto": "Consistência é cadência, não quantidade.",
+      "fala": "Consistência é cadência. Não quantidade.",
+      "fala_audio": "assets/voz/02-sistema-de-conteudo/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.4,
+      "texto": "Quer esse sistema no *seu* perfil?",
+      "botao": "Comenta DET",
+      "fala": "Quer esse sistema no seu perfil? Comenta DET.",
+      "fala_audio": "assets/voz/02-sistema-de-conteudo/fala-05.mp3"
+    }
+  ],
+  "legenda": "Todo post nosso tem um papel: atrair ou converter. Nunca os dois.\n\nTopo atrai quem ainda não te conhece: bastidor, erro comum, insight.\nFundo converte quem já confia: método, processo, resultado.\n\nNa semana: três de topo, dois de fundo, um de posicionamento.\n\nQuer esse sistema no seu perfil? Comenta DET.",
+  "hashtags": [
+    "#detmedia",
+    "#funildevendas",
+    "#marketingdeconteudo",
+    "#instagramparanegocios",
+    "#estrategia"
+  ]
+}

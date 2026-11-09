@@ -1,0 +1,75 @@
+{
+  "slug": "07-a-capa-decide",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.9,
+      "etiqueta": "Perfil",
+      "texto": "A capa decide se alguém *volta.*",
+      "sub": "O perfil é a segunda impressão.",
+      "fala": "[calm] A capa… decide se alguém volta.",
+      "fala_audio": "assets/voz/07-a-capa-decide/fala-01.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 4.8,
+      "texto": "Quem gostou do vídeo abre o perfil. E decide ali.",
+      "fala": "Quem gostou do vídeo abre o perfil… e decide ali.",
+      "fala_audio": "assets/voz/07-a-capa-decide/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 7.8,
+      "rotulo": "Uma capa que trabalha",
+      "titulo": "Três critérios.",
+      "itens": [
+        "Título legível em tamanho pequeno",
+        "Uma ideia por capa",
+        "Visual reconhecível na grade"
+      ],
+      "fala": "Uma capa que trabalha… título legível, uma ideia só, e um visual que se reconhece.",
+      "fala_audio": "assets/voz/07-a-capa-decide/fala-03.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 7.2,
+      "rotulo": "Na grade",
+      "esquerda": {
+        "titulo": "Capas soltas",
+        "itens": [
+          "Cada uma de um jeito",
+          "Ninguém entende o que você faz"
+        ]
+      },
+      "direita": {
+        "titulo": "Capas com padrão",
+        "cor": "positivo",
+        "itens": [
+          "Assunto claro de longe",
+          "Vontade de abrir mais um"
+        ]
+      },
+      "fala": "Capas soltas confundem. Com padrão… o assunto fica claro de longe.",
+      "fala_audio": "assets/voz/07-a-capa-decide/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.6,
+      "texto": "Salva e revisa sua *grade* hoje.",
+      "botao": "Salva este post",
+      "fala": "Salva… e revisa sua grade hoje.",
+      "fala_audio": "assets/voz/07-a-capa-decide/fala-05.mp3"
+    }
+  ],
+  "legenda": "A capa decide se alguém volta.\n\nQuem gostou de um vídeo abre o perfil e decide ali. Uma capa que trabalha tem título legível em tamanho pequeno, uma ideia só e visual reconhecível na grade.\n\nCapas com padrão deixam o assunto claro de longe.",
+  "hashtags": [
+    "#perfilprofissional",
+    "#instagramparanegocios",
+    "#marketingorganico",
+    "#identidadevisual",
+    "#detmedia"
+  ]
+}

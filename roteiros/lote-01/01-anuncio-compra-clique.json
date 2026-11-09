@@ -1,0 +1,77 @@
+{
+  "slug": "01-anuncio-compra-clique",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 4.9,
+      "etiqueta": "Tráfego pago × orgânico",
+      "texto": "Anúncio compra *clique.*",
+      "sub": "Orgânico compra confiança.",
+      "fala": "[calm] Anúncio compra clique… Orgânico compra confiança.",
+      "fala_audio": "assets/voz/01-anuncio-compra-clique/fala-01.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 9.4,
+      "rotulo": "O que cada um entrega",
+      "esquerda": {
+        "titulo": "Pago",
+        "itens": [
+          "Alcance enquanto você paga",
+          "Público alugado",
+          "Para quando o orçamento para"
+        ]
+      },
+      "direita": {
+        "titulo": "Orgânico",
+        "cor": "positivo",
+        "itens": [
+          "Alcance que fica",
+          "Público que escolheu seguir",
+          "Continua enquanto você dorme"
+        ]
+      },
+      "fala": "O pago? Te dá alcance… enquanto você paga. O orgânico… te dá gente que escolheu ficar.",
+      "fala_audio": "assets/voz/01-anuncio-compra-clique/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 8.6,
+      "rotulo": "Na prática",
+      "titulo": "Os dois têm papel.",
+      "itens": [
+        "Orgânico constrói a lembrança",
+        "Pago acelera quem já confia",
+        "A ordem importa: primeiro confiança"
+      ],
+      "fala": "Os dois têm papel. Mas a ordem importa… primeiro, confiança. Depois, acelera.",
+      "fala_audio": "assets/voz/01-anuncio-compra-clique/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 5.4,
+      "texto": "Menos alcance comprado. Mais presença conquistada.",
+      "fala": "Menos alcance comprado… mais presença conquistada.",
+      "fala_audio": "assets/voz/01-anuncio-compra-clique/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 5.6,
+      "texto": "Salva para rever antes do *próximo* anúncio.",
+      "botao": "Salva este post",
+      "fala": "[exhales] Salva esse post… pra rever antes do próximo anúncio.",
+      "fala_audio": "assets/voz/01-anuncio-compra-clique/fala-05.mp3"
+    }
+  ],
+  "legenda": "Anúncio compra clique. Orgânico compra confiança.\n\nOs dois têm papel, mas a ordem importa. Quem anuncia para um público que nunca ouviu falar da marca paga caro por atenção que vai embora. Quem constrói presença primeiro anuncia para quem já confia.\n\nPago acelera. Orgânico sustenta.\n\nSalva para rever antes do próximo anúncio.",
+  "hashtags": [
+    "#marketingorganico",
+    "#trafegopago",
+    "#instagramparanegocios",
+    "#engajamento",
+    "#detmedia"
+  ]
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "slug": "02-seguidores-sao-metrica",
+    "roteiro": "roteiros/lote-01/02-seguidores-sao-metrica.json",
+    "quando": "2026-11-06T18:15:00.000Z",
+    "status": "postado",
+    "link": "https://www.instagram.com/reel/DfaO-p_AIJM/",
+    "publicado_em": "2026-11-06T18:19:37.485Z"
+  },
+  {
+    "slug": "03-erro-do-primeiro-reels",
+    "roteiro": "roteiros/lote-01/03-erro-do-primeiro-reels.json",
+    "quando": "2026-11-20T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "04-postar-todo-dia",
+    "roteiro": "roteiros/lote-01/04-postar-todo-dia.json",
+    "quando": "2026-11-21T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "05-crescer-nao-e-vender",
+    "roteiro": "roteiros/lote-01/05-crescer-nao-e-vender.json",
+    "quando": "2026-11-09T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "06-voce-tem-dois-segundos",
+    "roteiro": "roteiros/lote-01/06-voce-tem-dois-segundos.json",
+    "quando": "2026-11-10T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "07-o-que-agencia-nao-promete",
+    "roteiro": "roteiros/lote-01/07-o-que-agencia-nao-promete.json",
+    "quando": "2026-11-11T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "08-primeira-hora",
+    "roteiro": "roteiros/lote-01/08-primeira-hora.json",
+    "quando": "2026-11-12T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "01-salvamento-e-intencao",
+    "roteiro": "roteiros/lote-02/01-salvamento-e-intencao.json",
+    "quando": "2026-11-13T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "02-quem-fala-com-todos",
+    "roteiro": "roteiros/lote-02/02-quem-fala-com-todos.json",
+    "quando": "2026-11-14T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "03-legenda-nao-e-resumo",
+    "roteiro": "roteiros/lote-02/03-legenda-nao-e-resumo.json",
+    "quando": "2026-11-15T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "04-trend-com-criterio",
+    "roteiro": "roteiros/lote-02/04-trend-com-criterio.json",
+    "quando": "2026-11-16T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "05-reels-e-carrossel",
+    "roteiro": "roteiros/lote-02/05-reels-e-carrossel.json",
+    "quando": "2026-11-17T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "06-referencia-nao-e-estilo",
+    "roteiro": "roteiros/lote-02/06-referencia-nao-e-estilo.json",
+    "quando": "2026-11-18T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "07-a-capa-decide",
+    "roteiro": "roteiros/lote-02/07-a-capa-decide.json",
+    "quando": "2026-11-19T15:00:00.000Z",
+    "status": "agendado"
+  }
+]

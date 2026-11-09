@@ -1,0 +1,75 @@
+{
+  "slug": "08-primeira-hora",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.7,
+      "etiqueta": "Bastidores",
+      "texto": "A primeira hora decide o *resto.*",
+      "sub": "E quase ninguém está lá.",
+      "fala": "[calm] A primeira hora… decide o resto.",
+      "fala_audio": "assets/voz/08-primeira-hora/fala-01.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.9,
+      "texto": "Publicar é só metade do post.",
+      "fala": "Publicar é só metade do post.",
+      "fala_audio": "assets/voz/08-primeira-hora/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 6.8,
+      "rotulo": "Na primeira hora",
+      "titulo": "O que fazemos.",
+      "itens": [
+        "Respondemos cada comentário",
+        "Devolvemos com uma pergunta",
+        "Levamos a conversa para os stories"
+      ],
+      "fala": "Na primeira hora, a gente responde cada comentário… e devolve com uma pergunta.",
+      "fala_audio": "assets/voz/08-primeira-hora/fala-03.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 8.1,
+      "rotulo": "Depois de publicar",
+      "esquerda": {
+        "titulo": "Publica e some",
+        "itens": [
+          "Comentário sem resposta",
+          "A conversa morre ali"
+        ]
+      },
+      "direita": {
+        "titulo": "Publica e fica",
+        "cor": "positivo",
+        "itens": [
+          "Cada resposta reabre o post",
+          "Quem comentou volta no próximo"
+        ]
+      },
+      "fala": "Quem publica e some… deixa a conversa morrer. Quem fica… reabre o post.",
+      "fala_audio": "assets/voz/08-primeira-hora/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.6,
+      "texto": "Salva para lembrar *depois* de publicar.",
+      "botao": "Salva este post",
+      "fala": "Salva esse post… pra lembrar depois de publicar.",
+      "fala_audio": "assets/voz/08-primeira-hora/fala-05.mp3"
+    }
+  ],
+  "legenda": "A primeira hora decide o resto.\n\nPublicar é só metade do post. A outra metade é estar lá quando as pessoas chegam: responder cada comentário, devolver com uma pergunta, levar a conversa para os stories.\n\nQuem publica e some deixa a conversa morrer ali. Quem fica transforma um comentário em relação.\n\nSalva para lembrar depois de publicar.",
+  "hashtags": [
+    "#marketingorganico",
+    "#engajamento",
+    "#instagramparanegocios",
+    "#estrategiadeconteudo",
+    "#detmedia"
+  ]
+}

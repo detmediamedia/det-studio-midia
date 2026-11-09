@@ -1,0 +1,66 @@
+{
+  "slug": "06-voce-tem-dois-segundos",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.2,
+      "etiqueta": "Retenção",
+      "texto": "Você tem *dois* segundos.",
+      "sub": "Depois disso, ninguém está mais ali.",
+      "fala": "[calm] Você tem dois segundos.",
+      "fala_audio": "assets/voz/06-voce-tem-dois-segundos/fala-01.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 8.7,
+      "rotulo": "Três ganchos que funcionam",
+      "titulo": "Sem gritar.",
+      "itens": [
+        "Contraste: \"Parei de postar. O alcance subiu.\"",
+        "Bastidor: \"O que fizemos quando o alcance caiu.\"",
+        "Pergunta: \"Seu perfil vende ou só existe?\""
+      ],
+      "fala": "Três ganchos que funcionam sem gritar… um contraste, um bastidor, uma pergunta.",
+      "fala_audio": "assets/voz/06-voce-tem-dois-segundos/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 7.8,
+      "rotulo": "E três que afastam",
+      "titulo": "O que evitar.",
+      "itens": [
+        "Apresentação da empresa",
+        "Promessa de viralizar",
+        "Caixa alta e três exclamações"
+      ],
+      "fala": "E três que afastam… apresentação da empresa, promessa de viralizar, caixa alta.",
+      "fala_audio": "assets/voz/06-voce-tem-dois-segundos/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 5,
+      "texto": "Elegância está no que deixamos de dizer.",
+      "fala": "Elegância está… no que deixamos de dizer.",
+      "fala_audio": "assets/voz/06-voce-tem-dois-segundos/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.4,
+      "texto": "Salva e testa no *próximo* vídeo.",
+      "botao": "Salva este post",
+      "fala": "Salva… e testa no próximo vídeo.",
+      "fala_audio": "assets/voz/06-voce-tem-dois-segundos/fala-05.mp3"
+    }
+  ],
+  "legenda": "Você tem dois segundos. Depois disso, ninguém está mais ali.\n\nTrês ganchos que funcionam sem gritar:\n01 Contraste: \"Parei de postar. O alcance subiu.\"\n02 Bastidor: \"O que fizemos quando o alcance caiu.\"\n03 Pergunta: \"Seu perfil vende ou só existe?\"\n\nE três que afastam: apresentação da empresa, promessa de viralizar, caixa alta com três exclamações.\n\nSalva e testa no próximo vídeo.",
+  "hashtags": [
+    "#gancho",
+    "#retencao",
+    "#reels",
+    "#marketingdeconteudo",
+    "#detmedia"
+  ]
+}

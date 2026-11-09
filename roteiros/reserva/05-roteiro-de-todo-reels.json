@@ -1,0 +1,67 @@
+{
+  "slug": "05-roteiro-de-todo-reels",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.6,
+      "etiqueta": "Método",
+      "texto": "O roteiro que usamos em *todo* reels",
+      "sub": "Cabe em trinta segundos.",
+      "fala": "[calm] O roteiro que usamos em todo reels.",
+      "fala_audio": "assets/voz/05-roteiro-de-todo-reels/fala-01.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5.9,
+      "rotulo": "Quatro tempos",
+      "titulo": "Da abertura ao fecho.",
+      "itens": [
+        "Gancho: até dois segundos",
+        "Tensão: o problema, sem rodeio",
+        "Virada: o que muda",
+        "Fecho: uma ação só"
+      ],
+      "fala": "Gancho. Tensão. Virada… e uma ação só no final.",
+      "fala_audio": "assets/voz/05-roteiro-de-todo-reels/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5.4,
+      "rotulo": "O erro comum",
+      "titulo": "Três pedidos no fim.",
+      "itens": [
+        "Curte, comenta e compartilha",
+        "Ninguém faz nenhum dos três",
+        "Um pedido só é atendido"
+      ],
+      "fala": "O erro comum? Pedir três coisas no fim. Ninguém faz nenhuma.",
+      "fala_audio": "assets/voz/05-roteiro-de-todo-reels/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.4,
+      "texto": "Uma ideia. Uma ação.",
+      "fala": "Uma ideia. Uma ação.",
+      "fala_audio": "assets/voz/05-roteiro-de-todo-reels/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.8,
+      "texto": "Salva para usar no *próximo* reels",
+      "botao": "Salva este post",
+      "fala": "Salva pra usar no próximo reels.",
+      "fala_audio": "assets/voz/05-roteiro-de-todo-reels/fala-05.mp3"
+    }
+  ],
+  "legenda": "O roteiro que usamos em todo reels cabe em quatro tempos:\n\n01 Gancho: até dois segundos.\n02 Tensão: o problema, sem rodeio.\n03 Virada: o que muda.\n04 Fecho: uma ação só.\n\nPedir curte, comenta e compartilha no fim é pedir três coisas. Ninguém faz nenhuma.\n\nSalva para usar no próximo reels.",
+  "hashtags": [
+    "#detmedia",
+    "#reels",
+    "#roteiro",
+    "#marketingdeconteudo",
+    "#instagramparanegocios"
+  ]
+}

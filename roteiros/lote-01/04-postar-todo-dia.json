@@ -1,0 +1,77 @@
+{
+  "slug": "04-postar-todo-dia",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 4.1,
+      "etiqueta": "Contraintuitivo",
+      "texto": "Postar todo dia pode estar te *atrapalhando.*",
+      "tamanho": 118,
+      "fala": "[calm] Postar todo dia… pode estar te atrapalhando.",
+      "fala_audio": "assets/voz/04-postar-todo-dia/fala-01.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 8.7,
+      "rotulo": "O que o algoritmo lê",
+      "esquerda": {
+        "titulo": "Volume",
+        "itens": [
+          "Sete posts fracos",
+          "Retenção baixa em todos",
+          "A conta inteira perde alcance"
+        ]
+      },
+      "direita": {
+        "titulo": "Intenção",
+        "cor": "positivo",
+        "itens": [
+          "Quatro posts com papel",
+          "Cada um segura até o fim",
+          "O próximo sai com mais força"
+        ]
+      },
+      "fala": "Sete posts fracos derrubam a conta inteira. Quatro posts com papel… seguram até o fim.",
+      "fala_audio": "assets/voz/04-postar-todo-dia/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 7.7,
+      "rotulo": "A regra",
+      "titulo": "Cada post tem um papel.",
+      "itens": [
+        "Atrair, nutrir ou converter",
+        "Se não tem papel, não é publicado",
+        "Consistência é cadência, não quantidade"
+      ],
+      "fala": "A regra é simples. Cada post tem um papel… atrair, nutrir ou converter.",
+      "fala_audio": "assets/voz/04-postar-todo-dia/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.3,
+      "texto": "Nada é publicado por publicar.",
+      "fala": "Nada é publicado… por publicar.",
+      "fala_audio": "assets/voz/04-postar-todo-dia/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.5,
+      "texto": "Salva e revisa seu *calendário.*",
+      "botao": "Salva este post",
+      "fala": "Salva… e revisa seu calendário.",
+      "fala_audio": "assets/voz/04-postar-todo-dia/fala-05.mp3"
+    }
+  ],
+  "legenda": "Postar todo dia pode estar te atrapalhando.\n\nO algoritmo não lê volume. Lê retenção. Sete posts fracos ensinam a plataforma que sua conta não segura atenção, e o próximo post nasce com menos alcance.\n\nQuatro posts com papel claro (atrair, nutrir ou converter) fazem o contrário.\n\nConsistência é cadência, não quantidade. Nada é publicado por publicar.",
+  "hashtags": [
+    "#algoritmo",
+    "#instagramparanegocios",
+    "#marketingdeconteudo",
+    "#engajamento",
+    "#detmedia"
+  ]
+}

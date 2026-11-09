@@ -1,0 +1,75 @@
+{
+  "slug": "03-legenda-nao-e-resumo",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.8,
+      "etiqueta": "Legenda",
+      "texto": "A legenda não é *resumo* do vídeo.",
+      "sub": "Ela é a segunda chance.",
+      "fala": "[calm] A legenda… não é resumo do vídeo.",
+      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-01.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.6,
+      "texto": "Quem chegou à legenda já ficou.",
+      "fala": "Quem chegou na legenda… já ficou.",
+      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 6.9,
+      "rotulo": "O que a legenda faz",
+      "titulo": "Três funções.",
+      "itens": [
+        "Abre com uma frase que prende",
+        "Aprofunda o que o vídeo só tocou",
+        "Termina com um pedido só"
+      ],
+      "fala": "Ela abre com uma frase que prende… aprofunda… e termina com um pedido só.",
+      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-03.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 6,
+      "rotulo": "Na prática",
+      "esquerda": {
+        "titulo": "Resumo",
+        "itens": [
+          "Repete o que já foi dito",
+          "Ninguém lê até o fim"
+        ]
+      },
+      "direita": {
+        "titulo": "Continuação",
+        "cor": "positivo",
+        "itens": [
+          "Acrescenta o que faltou",
+          "Puxa a conversa nos comentários"
+        ]
+      },
+      "fala": "Resumo repete. Continuação… acrescenta o que faltou.",
+      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.6,
+      "texto": "Salva e reescreve sua *próxima* legenda.",
+      "botao": "Salva este post",
+      "fala": "Salva… e reescreve sua próxima legenda.",
+      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-05.mp3"
+    }
+  ],
+  "legenda": "A legenda não é resumo do vídeo.\n\nQuem chegou até aqui já ficou. A legenda abre com uma frase que prende, aprofunda o que o vídeo só tocou e termina com um pedido só.\n\nResumo repete. Continuação acrescenta.",
+  "hashtags": [
+    "#copywriting",
+    "#marketingorganico",
+    "#instagramparanegocios",
+    "#estrategiadeconteudo",
+    "#detmedia"
+  ]
+}

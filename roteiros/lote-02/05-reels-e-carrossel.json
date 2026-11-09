@@ -1,0 +1,75 @@
+{
+  "slug": "05-reels-e-carrossel",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.8,
+      "etiqueta": "Formatos",
+      "texto": "Reels atrai. *Carrossel* convence.",
+      "sub": "Cada formato tem um trabalho.",
+      "fala": "[calm] Reels atrai… carrossel convence.",
+      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-01.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 6.8,
+      "rotulo": "O papel de cada um",
+      "esquerda": {
+        "titulo": "Reels",
+        "itens": [
+          "Chega em quem não te conhece",
+          "Decide em segundos"
+        ]
+      },
+      "direita": {
+        "titulo": "Carrossel",
+        "cor": "positivo",
+        "itens": [
+          "Segura quem já parou",
+          "Explica com calma, slide a slide"
+        ]
+      },
+      "fala": "O reels chega em quem não te conhece. O carrossel… segura quem já parou.",
+      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 8.8,
+      "rotulo": "Na mesma semana",
+      "titulo": "Como combinar.",
+      "itens": [
+        "Reels abre o assunto",
+        "Carrossel aprofunda",
+        "Stories puxa a conversa"
+      ],
+      "fala": "Na mesma semana… reels abre, carrossel aprofunda, stories conversa.",
+      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.4,
+      "texto": "Formato é escolha. Não é moda.",
+      "fala": "Formato é escolha… não é moda.",
+      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.2,
+      "texto": "Segue para ver os dois em *ação.*",
+      "botao": "Segue a Det",
+      "fala": "Segue a Det… pra ver os dois em ação.",
+      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-05.mp3"
+    }
+  ],
+  "legenda": "Reels atrai. Carrossel convence.\n\nO reels chega em quem ainda não te conhece. O carrossel segura quem já parou e explica com calma.\n\nNa mesma semana: reels abre o assunto, carrossel aprofunda, stories puxa a conversa.",
+  "hashtags": [
+    "#reels",
+    "#carrossel",
+    "#marketingorganico",
+    "#estrategiadeconteudo",
+    "#detmedia"
+  ]
+}

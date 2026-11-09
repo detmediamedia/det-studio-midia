@@ -1,0 +1,59 @@
+{
+  "slug": "07-marcas-que-escolhem-seguir",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.1,
+      "etiqueta": "Posicionamento",
+      "texto": "Ninguém segue uma marca por *acaso*",
+      "fala": "[calm] Ninguém segue uma marca por acaso.",
+      "fala_audio": "assets/voz/07-marcas-que-escolhem-seguir/fala-01.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.8,
+      "texto": "Segue porque reconhece algo de si nela.",
+      "fala": "Segue porque reconhece algo de si nela.",
+      "fala_audio": "assets/voz/07-marcas-que-escolhem-seguir/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 7,
+      "rotulo": "O que faz escolher",
+      "titulo": "Três sinais de marca.",
+      "itens": [
+        "Uma voz que se reconhece sem o logo",
+        "Um ritmo que a pessoa espera",
+        "Uma imagem que não pede atenção"
+      ],
+      "fala": "Uma voz que se reconhece. Um ritmo que se espera… e uma imagem que não pede atenção.",
+      "fala_audio": "assets/voz/07-marcas-que-escolhem-seguir/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.1,
+      "texto": "Marcas que as pessoas escolhem seguir.",
+      "fala": "Marcas que as pessoas escolhem seguir.",
+      "fala_audio": "assets/voz/07-marcas-que-escolhem-seguir/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.2,
+      "texto": "Segue a Det para *construir* a sua",
+      "botao": "Segue a Det",
+      "fala": "Segue a Det.",
+      "fala_audio": "assets/voz/07-marcas-que-escolhem-seguir/fala-05.mp3"
+    }
+  ],
+  "legenda": "Ninguém segue uma marca por acaso. Segue porque reconhece algo de si nela.\n\nTrês sinais: uma voz que se reconhece sem o logo, um ritmo que a pessoa espera, uma imagem que não pede atenção.\n\nMarcas que as pessoas escolhem seguir.",
+  "hashtags": [
+    "#detmedia",
+    "#posicionamento",
+    "#branding",
+    "#marcapessoal",
+    "#marketingorganico"
+  ]
+}

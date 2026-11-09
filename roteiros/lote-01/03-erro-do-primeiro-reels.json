@@ -1,0 +1,66 @@
+{
+  "slug": "03-erro-do-primeiro-reels",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 4.4,
+      "etiqueta": "Erro comum",
+      "texto": "O erro no *primeiro* reels das empresas",
+      "tamanho": 118,
+      "fala": "[calm] O erro no primeiro reels… das empresas.",
+      "fala_audio": "assets/voz/03-erro-do-primeiro-reels/fala-01.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.8,
+      "texto": "Começar se apresentando.",
+      "fala": "Começar o vídeo… se apresentando.",
+      "fala_audio": "assets/voz/03-erro-do-primeiro-reels/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 8.8,
+      "rotulo": "Por quê",
+      "titulo": "Ninguém chegou para te conhecer.",
+      "itens": [
+        "Chegou para resolver algo",
+        "Decide em dois segundos se fica",
+        "\"Olá, somos a…\" é o momento de sair"
+      ],
+      "fala": "Ninguém chegou pra te conhecer… chegou pra resolver algo. E decide em dois segundos.",
+      "fala_audio": "assets/voz/03-erro-do-primeiro-reels/fala-03.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5,
+      "rotulo": "Em vez disso",
+      "titulo": "Abra com o problema dele.",
+      "itens": [
+        "Uma pergunta que ele já se fez",
+        "Um número que ele não esperava",
+        "Uma afirmação que contraria o óbvio"
+      ],
+      "fala": "Em vez disso… abra com a pergunta que ele já se fez.",
+      "fala_audio": "assets/voz/03-erro-do-primeiro-reels/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.3,
+      "texto": "Salva antes de gravar o *próximo.*",
+      "botao": "Salva este post",
+      "fala": "Salva esse post… antes de gravar o próximo.",
+      "fala_audio": "assets/voz/03-erro-do-primeiro-reels/fala-05.mp3"
+    }
+  ],
+  "legenda": "O erro do primeiro reels de quase toda empresa: começar se apresentando.\n\nNinguém chegou para te conhecer. Chegou para resolver algo, e decide em dois segundos se fica. \"Olá, somos a…\" é exatamente o momento em que a pessoa sai.\n\nAbra com o problema dela: uma pergunta que ela já se fez, um número que ela não esperava, uma afirmação que contraria o óbvio. A apresentação vem depois, se vier.\n\nSalva antes de gravar o próximo.",
+  "hashtags": [
+    "#reels",
+    "#gancho",
+    "#instagramparanegocios",
+    "#marketingdeconteudo",
+    "#detmedia"
+  ]
+}

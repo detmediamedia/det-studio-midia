@@ -1,0 +1,66 @@
+{
+  "slug": "03-agentes-de-ia",
+  "funil": "fundo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 4.2,
+      "etiqueta": "Bastidores",
+      "texto": "Agentes de IA no seu negócio. *Na prática.*",
+      "sub": "Sem promessa futurista.",
+      "fala": "[calm] Agentes de IA no seu negócio… na prática.",
+      "fala_audio": "assets/voz/03-agentes-de-ia/fala-01.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 6.3,
+      "rotulo": "O que fazem",
+      "titulo": "O trabalho que ninguém quer fazer.",
+      "itens": [
+        "Respondem dúvidas frequentes no direct",
+        "Organizam contatos e pedidos",
+        "Lembram o cliente do próximo passo"
+      ],
+      "fala": "Respondem o direct, organizam os contatos… e lembram o cliente do próximo passo.",
+      "fala_audio": "assets/voz/03-agentes-de-ia/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5.6,
+      "rotulo": "O que não fazem",
+      "titulo": "Não substituem relação.",
+      "itens": [
+        "Não falam pela marca sem revisão",
+        "Não inventam resposta",
+        "Não tiram você da conversa importante"
+      ],
+      "fala": "Mas não substituem você. A conversa importante continua sua.",
+      "fala_audio": "assets/voz/03-agentes-de-ia/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3,
+      "texto": "Tecnologia que devolve tempo.",
+      "fala": "Tecnologia que devolve tempo.",
+      "fala_audio": "assets/voz/03-agentes-de-ia/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.4,
+      "texto": "Quer ver o que dá para *automatizar?*",
+      "botao": "Comenta DET",
+      "fala": "Quer ver o que dá pra automatizar? Comenta DET.",
+      "fala_audio": "assets/voz/03-agentes-de-ia/fala-05.mp3"
+    }
+  ],
+  "legenda": "Agentes de IA no seu negócio, na prática. Sem promessa futurista.\n\nO que fazem: respondem dúvidas frequentes no direct, organizam contatos e pedidos, lembram o cliente do próximo passo.\nO que não fazem: falar pela marca sem revisão, inventar resposta, tirar você da conversa importante.\n\nTecnologia que devolve tempo.\n\nQuer ver o que dá para automatizar? Comenta DET.",
+  "hashtags": [
+    "#detmedia",
+    "#inteligenciaartificial",
+    "#automacao",
+    "#atendimento",
+    "#instagramparanegocios"
+  ]
+}

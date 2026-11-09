@@ -1,0 +1,77 @@
+{
+  "slug": "04-producao-foto-video",
+  "funil": "fundo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.2,
+      "etiqueta": "Produção",
+      "texto": "Seu perfil fala antes de *você*",
+      "sub": "Em menos de dois segundos.",
+      "fala": "[calm] Seu perfil fala antes de você.",
+      "fala_audio": "assets/voz/04-producao-foto-video/fala-01.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 6,
+      "rotulo": "O que a pessoa vê",
+      "esquerda": {
+        "titulo": "Sem produção",
+        "itens": [
+          "Luz diferente em cada foto",
+          "Grade sem identidade",
+          "Parece improviso"
+        ]
+      },
+      "direita": {
+        "titulo": "Com produção",
+        "cor": "positivo",
+        "itens": [
+          "Luz, cor e enquadramento consistentes",
+          "Grade que se reconhece de longe",
+          "Parece marca"
+        ]
+      },
+      "fala": "Sem produção, parece improviso. Com produção… parece marca.",
+      "fala_audio": "assets/voz/04-producao-foto-video/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5.1,
+      "rotulo": "O que entregamos",
+      "titulo": "Imagem com método.",
+      "itens": [
+        "Fotos e vídeos no seu espaço",
+        "Edição no padrão da sua marca",
+        "Material pensado para cada post do funil"
+      ],
+      "fala": "Fotos e vídeos no seu espaço. Editados no padrão da sua marca.",
+      "fala_audio": "assets/voz/04-producao-foto-video/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 4.5,
+      "texto": "Antes de ler, as pessoas olham.",
+      "fala": "Antes de ler… as pessoas olham.",
+      "fala_audio": "assets/voz/04-producao-foto-video/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.2,
+      "texto": "Quer ver como ficaria o *seu?*",
+      "botao": "Comenta DET",
+      "fala": "Quer ver como ficaria o seu? Comenta DET.",
+      "fala_audio": "assets/voz/04-producao-foto-video/fala-05.mp3"
+    }
+  ],
+  "legenda": "Seu perfil fala antes de você. Em menos de dois segundos.\n\nSem produção: luz diferente em cada foto, grade sem identidade. Parece improviso.\nCom produção: luz, cor e enquadramento consistentes. Parece marca.\n\nFotos e vídeos no seu espaço, editados no padrão da sua marca, pensados para cada post do funil.\n\nQuer ver como ficaria o seu? Comenta DET.",
+  "hashtags": [
+    "#detmedia",
+    "#fotografiaprofissional",
+    "#producaodeconteudo",
+    "#identidadevisual",
+    "#instagramparanegocios"
+  ]
+}

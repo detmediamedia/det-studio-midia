@@ -1,0 +1,38 @@
+# Roda na nuvem do GitHub (grátis em repositório público): a cada 15 min confere a fila e publica o que estiver na hora.
+name: publicar-fila
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  fila:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Publicar o que estiver na hora
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          HOSPEDAGEM: github
+          GITHUB_REPO: ${{ github.repository }}
+          GH_TOKEN: ${{ github.token }}
+          NUVEM: '1'
+          TZ: America/Sao_Paulo
+        run: node scripts/publicar.mjs --fila
+      - name: Salvar estado da fila
+        run: |
+          git config user.name "det-studio bot"
+          git config user.email "bot@detmedia.local"
+          git add -A data saida || true
+          git diff --cached --quiet && exit 0
+          git commit -m "fila: atualização automática $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

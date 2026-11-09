@@ -1,0 +1,537 @@
+{
+  "slug": "exemplo-motion",
+  "formato": "motion",
+  "funil": "topo",
+  "titulo": "Por que o seu reels *morre* em dois segundos",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "abertura": true,
+  "capitulos": [
+    {
+      "nome": "O problema",
+      "cenas": [
+        {
+          "fala": "[excited] Seu reels morre… nos dois primeiros segundos. E quase ninguém te avisa disso.",
+          "bloco": {
+            "tipo": "icones",
+            "itens": [
+              {
+                "icone": "Eye",
+                "rotulo": "a pessoa olha"
+              },
+              {
+                "icone": "Timer",
+                "rotulo": "dois segundos"
+              },
+              {
+                "icone": "LogOut",
+                "rotulo": "e vai embora"
+              }
+            ]
+          },
+          "adesivo": {
+            "texto": "sem som",
+            "pos": "topo-direita",
+            "atraso": 1.2
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Seu",
+              "inicio": 0.139,
+              "fim": 0.4
+            },
+            {
+              "w": "reels",
+              "inicio": 0.44,
+              "fim": 0.64
+            },
+            {
+              "w": "morre…",
+              "inicio": 0.8,
+              "fim": 1.92
+            },
+            {
+              "w": "nos",
+              "inicio": 2,
+              "fim": 2.24
+            },
+            {
+              "w": "dois",
+              "inicio": 2.304,
+              "fim": 2.56
+            },
+            {
+              "w": "primeiros",
+              "inicio": 2.613,
+              "fim": 3.12
+            },
+            {
+              "w": "segundos.",
+              "inicio": 3.191,
+              "fim": 3.84
+            },
+            {
+              "w": "E",
+              "inicio": 4.16,
+              "fim": 4.48
+            },
+            {
+              "w": "quase",
+              "inicio": 4.533,
+              "fim": 4.96
+            },
+            {
+              "w": "ninguém",
+              "inicio": 5.04,
+              "fim": 5.44
+            },
+            {
+              "w": "te",
+              "inicio": 5.493,
+              "fim": 5.6
+            },
+            {
+              "w": "avisa",
+              "inicio": 5.653,
+              "fim": 6
+            },
+            {
+              "w": "disso.",
+              "inicio": 6.08,
+              "fim": 6.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O que a plataforma lê",
+      "cenas": [
+        {
+          "fala": "[confident] A plataforma não lê o seu esforço. Ela lê quanto tempo a pessoa ficou.",
+          "bloco": {
+            "tipo": "terminal",
+            "titulo": "~/det-media/reels",
+            "linhas": [
+              {
+                "prefixo": ">",
+                "texto": "publicando reels…"
+              },
+              {
+                "prefixo": "→",
+                "texto": "medindo retenção nos primeiros segundos",
+                "atraso": 0.6
+              },
+              {
+                "prefixo": "→",
+                "texto": "comparando com a média da conta",
+                "atraso": 0.5
+              },
+              {
+                "prefixo": "✓",
+                "texto": "decidindo para quantas pessoas mostrar",
+                "atraso": 0.6
+              }
+            ]
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "A",
+              "inicio": 7.43,
+              "fim": 7.44
+            },
+            {
+              "w": "plataforma",
+              "inicio": 7.513,
+              "fim": 8.24
+            },
+            {
+              "w": "não",
+              "inicio": 8.3,
+              "fim": 8.48
+            },
+            {
+              "w": "lê",
+              "inicio": 8.56,
+              "fim": 8.72
+            },
+            {
+              "w": "o",
+              "inicio": 8.76,
+              "fim": 8.8
+            },
+            {
+              "w": "seu",
+              "inicio": 8.84,
+              "fim": 8.96
+            },
+            {
+              "w": "esforço.",
+              "inicio": 9.04,
+              "fim": 10
+            },
+            {
+              "w": "Ela",
+              "inicio": 10.107,
+              "fim": 10.4
+            },
+            {
+              "w": "lê",
+              "inicio": 10.44,
+              "fim": 10.64
+            },
+            {
+              "w": "quanto",
+              "inicio": 10.72,
+              "fim": 11.2
+            },
+            {
+              "w": "tempo",
+              "inicio": 11.293,
+              "fim": 11.76
+            },
+            {
+              "w": "a",
+              "inicio": 11.8,
+              "fim": 11.84
+            },
+            {
+              "w": "pessoa",
+              "inicio": 11.897,
+              "fim": 12.24
+            },
+            {
+              "w": "ficou.",
+              "inicio": 12.3,
+              "fim": 12.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O erro",
+      "cenas": [
+        {
+          "fala": "[confident] O erro mais comum é começar se apresentando.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Olá, somos a…",
+            "troca": "Abra com o problema dela."
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "O",
+              "inicio": 13.75,
+              "fim": 13.76
+            },
+            {
+              "w": "erro",
+              "inicio": 13.808,
+              "fim": 14
+            },
+            {
+              "w": "mais",
+              "inicio": 14.064,
+              "fim": 14.32
+            },
+            {
+              "w": "comum",
+              "inicio": 14.4,
+              "fim": 14.72
+            },
+            {
+              "w": "é",
+              "inicio": 14.88,
+              "fim": 15.04
+            },
+            {
+              "w": "começar",
+              "inicio": 15.093,
+              "fim": 15.52
+            },
+            {
+              "w": "se",
+              "inicio": 15.573,
+              "fim": 15.68
+            },
+            {
+              "w": "apresentando.",
+              "inicio": 15.733,
+              "fim": 16.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O que funciona",
+      "cenas": [
+        {
+          "fala": "[confident] Três aberturas que seguram sem gritar. Contraste, bastidor, e pergunta.",
+          "bloco": {
+            "tipo": "cartoes",
+            "itens": [
+              {
+                "icone": "Zap",
+                "titulo": "Contraste",
+                "linha": "Parei de postar. O alcance subiu."
+              },
+              {
+                "icone": "Clapperboard",
+                "titulo": "Bastidor",
+                "linha": "O que fizemos quando caiu."
+              },
+              {
+                "icone": "MessageCircleQuestion",
+                "titulo": "Pergunta",
+                "linha": "Seu perfil vende ou só existe?"
+              }
+            ]
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Três",
+              "inicio": 17.326,
+              "fim": 17.442
+            },
+            {
+              "w": "aberturas",
+              "inicio": 17.495,
+              "fim": 18.162
+            },
+            {
+              "w": "que",
+              "inicio": 18.202,
+              "fim": 18.322
+            },
+            {
+              "w": "seguram",
+              "inicio": 18.402,
+              "fim": 18.882
+            },
+            {
+              "w": "sem",
+              "inicio": 18.962,
+              "fim": 19.202
+            },
+            {
+              "w": "gritar.",
+              "inicio": 19.266,
+              "fim": 19.842
+            },
+            {
+              "w": "Contraste,",
+              "inicio": 20.015,
+              "fim": 21.362
+            },
+            {
+              "w": "bastidor,",
+              "inicio": 21.522,
+              "fim": 22.642
+            },
+            {
+              "w": "e",
+              "inicio": 22.882,
+              "fim": 23.122
+            },
+            {
+              "w": "pergunta.",
+              "inicio": 23.202,
+              "fim": 23.922
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O teste",
+      "cenas": [
+        {
+          "fala": "[confident] Antes de publicar, assiste os dois primeiros segundos no mudo. Se você não ficaria, ninguém fica.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "person watching phone vertical video dark room close up",
+              "pixabay": {
+                "id": 125314,
+                "autor": "Marsel_beijing",
+                "url": "https://pixabay.com/videos/id-125314/",
+                "vertical": true
+              },
+              "arquivo": "assets/clips/exemplo-motion/cena-05.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "no mudo",
+            "pos": "base-esquerda",
+            "atraso": 2
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Antes",
+              "inicio": 24.852,
+              "fim": 24.962
+            },
+            {
+              "w": "de",
+              "inicio": 25.015,
+              "fim": 25.122
+            },
+            {
+              "w": "publicar,",
+              "inicio": 25.179,
+              "fim": 25.842
+            },
+            {
+              "w": "assiste",
+              "inicio": 25.945,
+              "fim": 26.642
+            },
+            {
+              "w": "os",
+              "inicio": 26.695,
+              "fim": 26.802
+            },
+            {
+              "w": "dois",
+              "inicio": 26.866,
+              "fim": 27.122
+            },
+            {
+              "w": "primeiros",
+              "inicio": 27.175,
+              "fim": 27.602
+            },
+            {
+              "w": "segundos",
+              "inicio": 27.664,
+              "fim": 28.162
+            },
+            {
+              "w": "no",
+              "inicio": 28.242,
+              "fim": 28.402
+            },
+            {
+              "w": "mudo.",
+              "inicio": 28.482,
+              "fim": 28.882
+            },
+            {
+              "w": "Se",
+              "inicio": 29.122,
+              "fim": 29.602
+            },
+            {
+              "w": "você",
+              "inicio": 29.666,
+              "fim": 29.922
+            },
+            {
+              "w": "não",
+              "inicio": 29.962,
+              "fim": 30.082
+            },
+            {
+              "w": "ficaria,",
+              "inicio": 30.142,
+              "fim": 30.802
+            },
+            {
+              "w": "ninguém",
+              "inicio": 31.002,
+              "fim": 31.522
+            },
+            {
+              "w": "fica.",
+              "inicio": 31.634,
+              "fim": 32.162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Salva esse vídeo, e testa no próximo reels.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Salva este post",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "Bookmark",
+                "rotulo": "salva"
+              },
+              {
+                "icone": "RefreshCw",
+                "rotulo": "testa"
+              },
+              {
+                "icone": "MessageCircle",
+                "rotulo": "comenta DET"
+              }
+            ]
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Salva",
+              "inicio": 33.069,
+              "fim": 33.209
+            },
+            {
+              "w": "esse",
+              "inicio": 33.257,
+              "fim": 33.449
+            },
+            {
+              "w": "vídeo,",
+              "inicio": 33.529,
+              "fim": 34.089
+            },
+            {
+              "w": "e",
+              "inicio": 34.169,
+              "fim": 34.249
+            },
+            {
+              "w": "testa",
+              "inicio": 34.329,
+              "fim": 34.729
+            },
+            {
+              "w": "no",
+              "inicio": 34.782,
+              "fim": 34.889
+            },
+            {
+              "w": "próximo",
+              "inicio": 34.949,
+              "fim": 35.369
+            },
+            {
+              "w": "reels.",
+              "inicio": 35.462,
+              "fim": 36.089
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "legenda": "Seu reels morre nos dois primeiros segundos, e quase ninguém te avisa.\n\nA plataforma não lê o seu esforço: lê quanto tempo a pessoa ficou. O erro mais comum é começar se apresentando. Abra com o problema dela.\n\nTrês aberturas que seguram sem gritar: contraste, bastidor, pergunta.\n\nAntes de publicar, assiste os dois primeiros segundos no mudo. Se você não ficaria, ninguém fica.",
+  "hashtags": [
+    "#reels",
+    "#retencao",
+    "#marketingorganico",
+    "#instagramparanegocios",
+    "#detmedia"
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/exemplo-motion/narracao.mp3",
+    "duracao": 36.08
+  }
+}

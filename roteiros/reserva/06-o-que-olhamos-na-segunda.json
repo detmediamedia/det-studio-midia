@@ -1,0 +1,75 @@
+{
+  "slug": "06-o-que-olhamos-na-segunda",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.4,
+      "etiqueta": "Bastidores",
+      "texto": "O que olhamos *toda* segunda",
+      "sub": "Antes de planejar a semana.",
+      "fala": "[calm] O que a gente olha toda segunda.",
+      "fala_audio": "assets/voz/06-o-que-olhamos-na-segunda/fala-01.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5.4,
+      "rotulo": "Três números",
+      "titulo": "Nenhum deles é seguidor.",
+      "itens": [
+        "Retenção nos primeiros três segundos",
+        "Salvamentos por post",
+        "Respostas nos comentários e no direct"
+      ],
+      "fala": "Retenção no começo do vídeo. Salvamentos. E respostas.",
+      "fala_audio": "assets/voz/06-o-que-olhamos-na-segunda/fala-02.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 5.5,
+      "rotulo": "O que muda",
+      "esquerda": {
+        "titulo": "Olhar curtidas",
+        "itens": [
+          "Repete o que agradou",
+          "Conta parada no mesmo lugar"
+        ]
+      },
+      "direita": {
+        "titulo": "Olhar retenção",
+        "cor": "positivo",
+        "itens": [
+          "Repete o que segurou",
+          "Cada semana um pouco melhor"
+        ]
+      },
+      "fala": "Curtida diz o que agradou. Retenção diz o que funcionou.",
+      "fala_audio": "assets/voz/06-o-que-olhamos-na-segunda/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.8,
+      "texto": "Números lidos toda semana. E ajuste.",
+      "fala": "Números lidos toda semana… e ajuste.",
+      "fala_audio": "assets/voz/06-o-que-olhamos-na-segunda/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.2,
+      "texto": "Segue para ver os *bastidores*",
+      "botao": "Segue a Det",
+      "fala": "Segue pra acompanhar os bastidores.",
+      "fala_audio": "assets/voz/06-o-que-olhamos-na-segunda/fala-05.mp3"
+    }
+  ],
+  "legenda": "O que olhamos toda segunda, antes de planejar a semana. Nenhum deles é seguidor:\n\n01 Retenção nos primeiros três segundos.\n02 Salvamentos por post.\n03 Respostas nos comentários e no direct.\n\nCurtida diz o que agradou. Retenção diz o que funcionou.\n\nSegue para ver os bastidores.",
+  "hashtags": [
+    "#detmedia",
+    "#metricas",
+    "#instagramparanegocios",
+    "#marketingorganico",
+    "#bastidores"
+  ]
+}

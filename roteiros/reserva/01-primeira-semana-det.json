@@ -1,0 +1,66 @@
+{
+  "slug": "01-primeira-semana-det",
+  "funil": "fundo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 4.9,
+      "etiqueta": "Como trabalhamos",
+      "texto": "Sua *primeira* semana com a Det",
+      "sub": "Antes de postar qualquer coisa.",
+      "fala": "[calm] Sua primeira semana com a Det… começa sem postar nada.",
+      "fala_audio": "assets/voz/01-primeira-semana-det/fala-01.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5.6,
+      "rotulo": "Dias 1 a 3",
+      "titulo": "Primeiro, ouvir.",
+      "itens": [
+        "Leitura do perfil e dos números atuais",
+        "Conversa sobre quem você quer atrair",
+        "Mapa do que já funciona e do que sobra"
+      ],
+      "fala": "Primeiro, a gente lê o perfil. E entende quem você quer atrair.",
+      "fala_audio": "assets/voz/01-primeira-semana-det/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5,
+      "rotulo": "Dias 4 a 7",
+      "titulo": "Depois, desenhar.",
+      "itens": [
+        "Um papel para cada post no funil",
+        "Cadência que cabe na sua rotina",
+        "Primeiros roteiros para aprovação"
+      ],
+      "fala": "Depois, desenhamos o sistema. Cada post com um papel.",
+      "fala_audio": "assets/voz/01-primeira-semana-det/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.2,
+      "texto": "Nada é publicado por publicar.",
+      "fala": "Nada é publicado por publicar.",
+      "fala_audio": "assets/voz/01-primeira-semana-det/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.2,
+      "texto": "Quer começar a *sua?*",
+      "botao": "Comenta DET",
+      "fala": "Quer começar a sua? Comenta DET.",
+      "fala_audio": "assets/voz/01-primeira-semana-det/fala-05.mp3"
+    }
+  ],
+  "legenda": "A primeira semana com a Det começa sem postar nada.\n\nDias 1 a 3: leitura do perfil, conversa sobre quem você quer atrair, mapa do que já funciona.\nDias 4 a 7: um papel para cada post, uma cadência que cabe na sua rotina e os primeiros roteiros para aprovação.\n\nNada é publicado por publicar.\n\nQuer começar a sua? Comenta DET.",
+  "hashtags": [
+    "#detmedia",
+    "#marketingorganico",
+    "#instagramparanegocios",
+    "#agenciademarketing",
+    "#processo"
+  ]
+}

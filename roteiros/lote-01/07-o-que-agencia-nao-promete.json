@@ -1,0 +1,66 @@
+{
+  "slug": "07-o-que-agencia-nao-promete",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 4.2,
+      "etiqueta": "Transparência",
+      "texto": "O que uma agência *não* deveria te prometer",
+      "tamanho": 118,
+      "fala": "[calm] O que uma agência… não deveria te prometer.",
+      "fala_audio": "assets/voz/07-o-que-agencia-nao-promete/fala-01.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 6.8,
+      "rotulo": "Desconfie de",
+      "titulo": "Três promessas.",
+      "itens": [
+        "\"Viralizar em sete dias\"",
+        "\"Mil seguidores por semana, garantido\"",
+        "\"Fórmula que funciona para qualquer nicho\""
+      ],
+      "fala": "Desconfie de quem promete viralizar em sete dias… ou mil seguidores por semana.",
+      "fala_audio": "assets/voz/07-o-que-agencia-nao-promete/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 8.5,
+      "rotulo": "O que dá para prometer",
+      "titulo": "Método, cadência e leitura.",
+      "itens": [
+        "Um sistema de conteúdo com papel por post",
+        "Consistência que a plataforma reconhece",
+        "Números lidos toda semana, e ajuste"
+      ],
+      "fala": "O que dá pra prometer é outra coisa… método, cadência… e leitura dos números.",
+      "fala_audio": "assets/voz/07-o-que-agencia-nao-promete/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.9,
+      "texto": "Crescimento que não se compra. Se constrói.",
+      "fala": "Crescimento não se compra… se constrói.",
+      "fala_audio": "assets/voz/07-o-que-agencia-nao-promete/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.5,
+      "texto": "Segue para acompanhar o *processo.*",
+      "botao": "Segue a Det",
+      "fala": "Segue a Det… pra acompanhar o processo.",
+      "fala_audio": "assets/voz/07-o-que-agencia-nao-promete/fala-05.mp3"
+    }
+  ],
+  "legenda": "O que uma agência não deveria te prometer: viralizar em sete dias, mil seguidores por semana garantidos, uma fórmula que funciona para qualquer nicho.\n\nO que dá para prometer é menos vistoso e mais raro: um sistema de conteúdo com papel por post, cadência que a plataforma reconhece e números lidos toda semana, com ajuste.\n\nCrescimento que não se compra. Se constrói.",
+  "hashtags": [
+    "#agenciademarketing",
+    "#marketingorganico",
+    "#transparencia",
+    "#instagramparanegocios",
+    "#detmedia"
+  ]
+}

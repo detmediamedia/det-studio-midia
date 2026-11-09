@@ -1,0 +1,20 @@
+{
+  "slug": "02-seguidores-sao-metrica",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    { "tipo": "hook", "duracao": 3.4, "etiqueta": "Insight",
+      "texto": "Seguidores são *métrica.*", "sub": "Respostas são relação." },
+    { "tipo": "lista", "duracao": 5.5, "rotulo": "Três sinais",
+      "titulo": "Sua conta cresce, mas não constrói.",
+      "itens": ["Muitos seguidores, poucos comentários", "Stories sem nenhuma resposta", "Ninguém marca a marca em nada"] },
+    { "tipo": "lista", "duracao": 5.2, "rotulo": "O que muda isso",
+      "titulo": "Conversa antes de audiência.",
+      "itens": ["Pergunte algo que dê vontade de responder", "Responda tudo, nas primeiras horas", "Traga quem comentou para o próximo post"] },
+    { "tipo": "frase", "duracao": 3.0, "texto": "Comunidade antes de audiência." },
+    { "tipo": "cta", "duracao": 3.2, "texto": "Segue para o *próximo* insight.", "botao": "Segue a Det" }
+  ],
+  "legenda": "Seguidores são métrica. Respostas são relação.\n\nUma conta pode crescer todo mês e continuar sem comunidade: muitos seguidores, poucos comentários, stories em silêncio.\n\nO que muda isso não é postar mais. É perguntar algo que dê vontade de responder, responder tudo nas primeiras horas e trazer quem comentou para o próximo post.\n\nComunidade antes de audiência.",
+  "hashtags": ["#engajamento", "#comunidade", "#instagramparanegocios", "#marketingorganico", "#detmedia"]
+}

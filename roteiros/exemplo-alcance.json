@@ -1,0 +1,38 @@
+{
+  "slug": "exemplo-alcance",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    { "tipo": "hook", "duracao": 3.2,
+      "etiqueta": "Bastidores",
+      "texto": "O que fizemos quando o alcance *caiu*",
+      "sub": "Sem impulsionar um único post." },
+
+    { "tipo": "frase", "duracao": 3.0,
+      "texto": "Não postamos mais. Postamos com intenção." },
+
+    { "tipo": "lista", "duracao": 5.2,
+      "rotulo": "Três ajustes",
+      "titulo": "Nada de truque. Método.",
+      "itens": [
+        "Um gancho por vídeo, nos primeiros 2 segundos",
+        "Respondemos todo comentário nas primeiras 2 horas",
+        "Cortamos posts sem papel claro no funil"
+      ] },
+
+    { "tipo": "comparacao", "duracao": 4.6,
+      "rotulo": "O que mudou",
+      "esquerda": { "titulo": "Antes", "itens": ["Posts diários, sem intenção", "Alcance em queda"] },
+      "direita":  { "titulo": "Depois", "cor": "positivo", "itens": ["Cinco posts por semana, com papel", "Conversa nos comentários"] } },
+
+    { "tipo": "frase", "duracao": 3.0,
+      "texto": "Crescimento que não se compra. Se constrói." },
+
+    { "tipo": "cta", "duracao": 3.4,
+      "texto": "Salva para aplicar no *seu* perfil",
+      "botao": "Salva este post" }
+  ],
+  "legenda": "Quando o alcance cai, a reação comum é postar mais. Fizemos o contrário.\n\nO que mudamos, em três linhas:\n01 Um gancho por vídeo.\n02 Toda resposta nas primeiras duas horas.\n03 Nenhum post sem papel no funil.\n\nSalva para revisar o seu perfil com calma.",
+  "hashtags": ["#marketingorganico", "#engajamento", "#instagramparanegocios", "#detmedia"]
+}

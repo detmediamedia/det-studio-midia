@@ -1,0 +1,50 @@
+{
+  "slug": "exemplo-narrado",
+  "formato": "narrado",
+  "funil": "topo",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "fala": "[excited] Seu perfil cresceu… e nada mudou no caixa.",
+      "visual": {
+        "tipo": "pexels",
+        "busca": "person scrolling phone in dark room cinematic"
+      }
+    },
+    {
+      "fala": "[confident] Seguidor é número. Cliente é relação, e relação começa numa resposta.",
+      "visual": {
+        "tipo": "pexels",
+        "busca": "hands typing message on phone close up warm light"
+      }
+    },
+    {
+      "fala": "[confident] Quem responde na primeira hora transforma um comentário em conversa. E conversa, em lembrança.",
+      "visual": {
+        "tipo": "ia",
+        "prompt": "slow dolly across a dark marble desk, a single phone glowing, warm side light, shallow depth of field"
+      }
+    },
+    {
+      "fala": "[confident] Crescimento que não se compra, se constrói.",
+      "visual": {
+        "tipo": "pexels",
+        "busca": "city skyline golden hour slow aerial"
+      }
+    },
+    {
+      "fala": "[confident] Salva esse vídeo e responde o próximo comentário em menos de uma hora.",
+      "visual": {
+        "tipo": "pexels",
+        "busca": "minimal workspace dark aesthetic slow pan"
+      }
+    }
+  ],
+  "legenda": "Seu perfil cresceu e nada mudou no caixa.\n\nSeguidor é número. Cliente é relação, e relação começa numa resposta. Quem responde na primeira hora transforma comentário em conversa, e conversa em lembrança.\n\nCrescimento que não se compra. Se constrói.",
+  "hashtags": [
+    "#marketingorganico",
+    "#engajamento",
+    "#instagramparanegocios",
+    "#detmedia"
+  ]
+}

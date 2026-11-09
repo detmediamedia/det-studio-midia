@@ -1,0 +1,75 @@
+{
+  "slug": "05-crescer-nao-e-vender",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 4.2,
+      "etiqueta": "A tese",
+      "texto": "Crescer no Instagram *não* garante vendas.",
+      "tamanho": 118,
+      "fala": "[calm] Crescer no Instagram… não garante vendas.",
+      "fala_audio": "assets/voz/05-crescer-nao-e-vender/fala-01.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3,
+      "texto": "E tudo bem. Não é para isso.",
+      "fala": "E tudo bem. Não é pra isso.",
+      "fala_audio": "assets/voz/05-crescer-nao-e-vender/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 9.3,
+      "rotulo": "O que o orgânico garante",
+      "titulo": "Três coisas que anúncio nenhum compra.",
+      "itens": [
+        "Autoridade: ser referência antes da venda",
+        "Contatos: gente que chega por indicação",
+        "Lembrança: ser o primeiro nome quando decidem"
+      ],
+      "fala": "O orgânico garante o que anúncio nenhum compra… autoridade, indicação… e lembrança.",
+      "fala_audio": "assets/voz/05-crescer-nao-e-vender/fala-03.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 6.7,
+      "rotulo": "Quando a venda vem",
+      "esquerda": {
+        "titulo": "Sem base",
+        "itens": [
+          "Anúncio para estranhos",
+          "Preço é o único argumento"
+        ]
+      },
+      "direita": {
+        "titulo": "Com base",
+        "cor": "positivo",
+        "itens": [
+          "Oferta para quem já confia",
+          "O nome é o argumento"
+        ]
+      },
+      "fala": "Sem base, você disputa preço. Com base… o argumento é o seu nome.",
+      "fala_audio": "assets/voz/05-crescer-nao-e-vender/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.2,
+      "texto": "Segue para construir a *base.*",
+      "botao": "Segue a Det",
+      "fala": "Segue a Det… pra construir a base.",
+      "fala_audio": "assets/voz/05-crescer-nao-e-vender/fala-05.mp3"
+    }
+  ],
+  "legenda": "Crescer no Instagram não garante vendas. E tudo bem: não é para isso.\n\nO orgânico garante três coisas que anúncio nenhum compra: autoridade (ser referência antes da venda), contatos (gente que chega por indicação) e lembrança (ser o primeiro nome quando decidem).\n\nA venda vem depois, e vem diferente: oferta para quem já confia, não anúncio para estranhos.\n\nPrimeiro a base.",
+  "hashtags": [
+    "#marketingorganico",
+    "#autoridade",
+    "#posicionamento",
+    "#instagramparanegocios",
+    "#detmedia"
+  ]
+}
