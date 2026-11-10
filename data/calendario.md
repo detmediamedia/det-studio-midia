@@ -9,7 +9,7 @@ Status: ideia → roteiro → preview → pronto → agendado → postado
 | 2026-11-06 | sex | animação | topo | Anúncio compra clique. | postado | roteiros/lote-01/01-anuncio-compra-clique.json | https://www.instagram.com/reel/DfaNxvAGaAC/
 | 2026-11-06 15:15 | sex | animação | topo | Seguidores são métrica. | postado | roteiros/lote-01/02-seguidores-sao-metrica.json | https://www.instagram.com/reel/DfaO-p_AIJM/
 | 2026-11-09 12:00 | seg | animação | topo | Crescer no Instagram não garante vendas. | agendado | roteiros/lote-01/05-crescer-nao-e-vender.json | https://www.instagram.com/reel/DfiECEyggdT/
-| 2026-11-10 12:00 | ter | animação | topo | Você tem dois segundos. | agendado | roteiros/lote-01/06-voce-tem-dois-segundos.json |
+| 2026-11-10 12:00 | ter | animação | topo | Você tem dois segundos. | agendado | roteiros/lote-01/06-voce-tem-dois-segundos.json | https://www.instagram.com/reel/DfkN9PQGUX3/
 | 2026-11-11 12:00 | qua | animação | topo | O que uma agência não deveria te prometer | agendado | roteiros/lote-01/07-o-que-agencia-nao-promete.json |
 | 2026-11-12 12:00 | qui | animação | topo | A primeira hora decide o resto. | agendado | roteiros/lote-01/08-primeira-hora.json |
 | 2026-11-13 12:00 | sex | animação | topo | Salvamento × curtida · "Curtida é educação. Salvamento é intenção." | agendado | roteiros/lote-02/01-salvamento-e-intencao.json |
