@@ -1,70 +1,164 @@
 {
   "slug": "07-a-capa-decide",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "A capa decide se alguém *volta*",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "abstract gold particles black background",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 14556,
+      "autor": "jeremiah7",
+      "url": "https://pixabay.com/videos/id-14556/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/07-a-capa-decide/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 3.9,
-      "etiqueta": "Perfil",
-      "texto": "A capa decide se alguém *volta.*",
-      "sub": "O perfil é a segunda impressão.",
-      "fala": "[calm] A capa… decide se alguém volta.",
-      "fala_audio": "assets/voz/07-a-capa-decide/fala-01.mp3"
+      "nome": "O erro",
+      "cenas": [
+        {
+          "fala": "[excited] Gostaram do seu vídeo. Abriram o perfil. E foram embora.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "scrolling instagram profile grid phone",
+              "pixabay": {
+                "id": 1110,
+                "autor": "DistillVideos",
+                "url": "https://pixabay.com/videos/id-1110/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/07-a-capa-decide/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "foram embora",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 4.8,
-      "texto": "Quem gostou do vídeo abre o perfil. E decide ali.",
-      "fala": "Quem gostou do vídeo abre o perfil… e decide ali.",
-      "fala_audio": "assets/voz/07-a-capa-decide/fala-02.mp3"
+      "nome": "A virada",
+      "cenas": [
+        {
+          "fala": "[confident] O vídeo fez a pessoa chegar. A grade decide se ela fica.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "O vídeo convenceu.",
+            "troca": "A grade decide."
+          }
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 7.8,
-      "rotulo": "Uma capa que trabalha",
-      "titulo": "Três critérios.",
-      "itens": [
-        "Título legível em tamanho pequeno",
-        "Uma ideia por capa",
-        "Visual reconhecível na grade"
-      ],
-      "fala": "Uma capa que trabalha… título legível, uma ideia só, e um visual que se reconhece.",
-      "fala_audio": "assets/voz/07-a-capa-decide/fala-03.mp3"
+      "nome": "Uma capa que trabalha",
+      "cenas": [
+        {
+          "fala": "[confident] Título grande e legível. Uma ideia por capa. Um padrão sempre igual.",
+          "bloco": {
+            "tipo": "cartoes",
+            "itens": [
+              {
+                "icone": "Type",
+                "titulo": "Título legível",
+                "linha": "Lê em tamanho pequeno."
+              },
+              {
+                "icone": "Target",
+                "titulo": "Uma ideia",
+                "linha": "Por capa, sem disputa."
+              },
+              {
+                "icone": "Grid",
+                "titulo": "Padrão",
+                "linha": "Reconhecível de longe."
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "comparacao",
-      "duracao": 7.2,
-      "rotulo": "Na grade",
-      "esquerda": {
-        "titulo": "Capas soltas",
-        "itens": [
-          "Cada uma de um jeito",
-          "Ninguém entende o que você faz"
-        ]
-      },
-      "direita": {
-        "titulo": "Capas com padrão",
-        "cor": "positivo",
-        "itens": [
-          "Assunto claro de longe",
-          "Vontade de abrir mais um"
-        ]
-      },
-      "fala": "Capas soltas confundem. Com padrão… o assunto fica claro de longe.",
-      "fala_audio": "assets/voz/07-a-capa-decide/fala-04.mp3"
+      "nome": "Na grade",
+      "cenas": [
+        {
+          "fala": "[confident] Capa solta confunde. Com padrão, o assunto fica claro de longe.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hand scrolling photo gallery tablet close up",
+              "pixabay": {
+                "id": 2294,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-2294/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/07-a-capa-decide/cena-04.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "de longe",
+            "pos": "base-esquerda",
+            "atraso": 1.2
+          }
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 3.6,
-      "texto": "Salva e revisa sua *grade* hoje.",
-      "botao": "Salva este post",
-      "fala": "Salva… e revisa sua grade hoje.",
-      "fala_audio": "assets/voz/07-a-capa-decide/fala-05.mp3"
+      "nome": "O teste",
+      "cenas": [
+        {
+          "fala": "[confident] Abre seu perfil agora. Entende o que faz? Não? Ajusta as capas.",
+          "bloco": {
+            "tipo": "terminal",
+            "titulo": "~/det-media/perfil",
+            "linhas": [
+              {
+                "prefixo": ">",
+                "texto": "abrindo seu perfil"
+              },
+              {
+                "prefixo": "→",
+                "texto": "entende o que faz?"
+              },
+              {
+                "prefixo": "✓",
+                "texto": "não? ajusta as capas"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Salva esse vídeo e revisa sua grade hoje.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Salva este post",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "RefreshCw",
+                "rotulo": "revisa"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
-  "legenda": "A capa decide se alguém volta.\n\nQuem gostou de um vídeo abre o perfil e decide ali. Uma capa que trabalha tem título legível em tamanho pequeno, uma ideia só e visual reconhecível na grade.\n\nCapas com padrão deixam o assunto claro de longe.",
+  "legenda": "A capa decide se alguém volta.\n\nQuem gostou do vídeo abre o perfil e decide ali. Uma capa que trabalha tem título legível em tamanho pequeno, uma ideia só e um padrão que se reconhece na grade.\n\nCapa solta confunde. Com padrão, o assunto fica claro de longe.\n\nSalva e revisa sua grade hoje.",
   "hashtags": [
     "#perfilprofissional",
     "#instagramparanegocios",

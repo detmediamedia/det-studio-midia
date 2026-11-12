@@ -1,72 +1,165 @@
 {
   "slug": "04-postar-todo-dia",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "Postar todo dia pode te *atrapalhar*",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "dark city lights bokeh night",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 6456,
+      "autor": "FindingFootage",
+      "url": "https://pixabay.com/videos/id-6456/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/04-postar-todo-dia/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 4.1,
-      "etiqueta": "Contraintuitivo",
-      "texto": "Postar todo dia pode estar te *atrapalhando.*",
-      "tamanho": 118,
-      "fala": "[calm] Postar todo dia… pode estar te atrapalhando.",
-      "fala_audio": "assets/voz/04-postar-todo-dia/fala-01.mp3"
+      "nome": "O erro",
+      "cenas": [
+        {
+          "fala": "[excited] Postar todo dia pode estar te atrapalhando. Volume não é estratégia.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hand scrolling instagram feed phone fast",
+              "pixabay": {
+                "id": 88686,
+                "autor": "Firmbee",
+                "url": "https://pixabay.com/videos/id-88686/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/04-postar-todo-dia/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "todo dia",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          }
+        }
+      ]
     },
     {
-      "tipo": "comparacao",
-      "duracao": 8.7,
-      "rotulo": "O que o algoritmo lê",
-      "esquerda": {
-        "titulo": "Volume",
-        "itens": [
-          "Sete posts fracos",
-          "Retenção baixa em todos",
-          "A conta inteira perde alcance"
-        ]
-      },
-      "direita": {
-        "titulo": "Intenção",
-        "cor": "positivo",
-        "itens": [
-          "Quatro posts com papel",
-          "Cada um segura até o fim",
-          "O próximo sai com mais força"
-        ]
-      },
-      "fala": "Sete posts fracos derrubam a conta inteira. Quatro posts com papel… seguram até o fim.",
-      "fala_audio": "assets/voz/04-postar-todo-dia/fala-02.mp3"
+      "nome": "O que conta",
+      "cenas": [
+        {
+          "fala": "[confident] A plataforma não conta quantos posts você fez. Conta quantos seguraram atenção.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Mais posts, mais alcance.",
+            "troca": "Post que segura atenção."
+          }
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 7.7,
-      "rotulo": "A regra",
-      "titulo": "Cada post tem um papel.",
-      "itens": [
-        "Atrair, nutrir ou converter",
-        "Se não tem papel, não é publicado",
-        "Consistência é cadência, não quantidade"
-      ],
-      "fala": "A regra é simples. Cada post tem um papel… atrair, nutrir ou converter.",
-      "fala_audio": "assets/voz/04-postar-todo-dia/fala-03.mp3"
+      "nome": "A regra",
+      "cenas": [
+        {
+          "fala": "[confident] Atrai quem não conhece. Nutre quem já segue. Converte quem já confia.",
+          "bloco": {
+            "tipo": "icones",
+            "itens": [
+              {
+                "icone": "Eye",
+                "rotulo": "atrai"
+              },
+              {
+                "icone": "MessageCircle",
+                "rotulo": "nutre"
+              },
+              {
+                "icone": "Target",
+                "rotulo": "converte"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 3.3,
-      "texto": "Nada é publicado por publicar.",
-      "fala": "Nada é publicado… por publicar.",
-      "fala_audio": "assets/voz/04-postar-todo-dia/fala-04.mp3"
+      "nome": "Cadência",
+      "cenas": [
+        {
+          "fala": "[confident] Se o post não tem papel, ele não sai. Consistência é cadência, não quantidade.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hand writing in planner notebook close up",
+              "pixabay": {
+                "id": 10822,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-10822/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/04-postar-todo-dia/cena-04.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "cadência",
+            "pos": "base-esquerda",
+            "atraso": 1.4
+          }
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 3.5,
-      "texto": "Salva e revisa seu *calendário.*",
-      "botao": "Salva este post",
-      "fala": "Salva… e revisa seu calendário.",
-      "fala_audio": "assets/voz/04-postar-todo-dia/fala-05.mp3"
+      "nome": "O teste",
+      "cenas": [
+        {
+          "fala": "[confident] Abre seu calendário. Post sem papel, corta. O resto ganha espaço.",
+          "bloco": {
+            "tipo": "terminal",
+            "titulo": "~/det-media/calendario",
+            "linhas": [
+              {
+                "prefixo": ">",
+                "texto": "abrindo calendário"
+              },
+              {
+                "prefixo": "→",
+                "texto": "post sem papel: corta"
+              },
+              {
+                "prefixo": "✓",
+                "texto": "o resto ganha espaço"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Salva esse vídeo. Revisa seu calendário. Corta o que sobra.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Salva este post",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "Calendar",
+                "rotulo": "revisa"
+              },
+              {
+                "icone": "Filter",
+                "rotulo": "corta o que sobra"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
-  "legenda": "Postar todo dia pode estar te atrapalhando.\n\nO algoritmo não lê volume. Lê retenção. Sete posts fracos ensinam a plataforma que sua conta não segura atenção, e o próximo post nasce com menos alcance.\n\nQuatro posts com papel claro (atrair, nutrir ou converter) fazem o contrário.\n\nConsistência é cadência, não quantidade. Nada é publicado por publicar.",
+  "legenda": "Postar todo dia pode estar te atrapalhando.\n\nA plataforma não conta quantos posts você fez. Conta quantos seguraram atenção. Post sem papel ensina que sua conta não segura ninguém.\n\nCada post tem um papel: atrair quem não conhece, nutrir quem já segue, converter quem já confia. Consistência é cadência, não quantidade.\n\nSalva e revisa seu calendário.",
   "hashtags": [
     "#algoritmo",
     "#instagramparanegocios",

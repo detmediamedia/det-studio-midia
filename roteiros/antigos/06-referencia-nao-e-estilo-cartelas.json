@@ -1,0 +1,75 @@
+{
+  "slug": "06-referencia-nao-e-estilo",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 4.2,
+      "etiqueta": "Identidade",
+      "texto": "Copiar referência não é ter *estilo.*",
+      "sub": "Referência inspira. Identidade decide.",
+      "fala": "[calm] Copiar referência… não é ter estilo.",
+      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-01.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 5.3,
+      "texto": "Perfis parecidos são esquecidos juntos.",
+      "fala": "Perfis parecidos… são esquecidos juntos.",
+      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 5.9,
+      "rotulo": "Usar bem uma referência",
+      "titulo": "Pegue o porquê.",
+      "itens": [
+        "Entenda por que aquilo funciona",
+        "Traduza para o seu tom",
+        "Deixe algo seu em cada post"
+      ],
+      "fala": "Da referência, pegue o porquê… e traduza pro seu tom.",
+      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-03.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 9.2,
+      "rotulo": "No feed",
+      "esquerda": {
+        "titulo": "Cópia",
+        "itens": [
+          "Bonito, mas genérico",
+          "Ninguém lembra de quem era"
+        ]
+      },
+      "direita": {
+        "titulo": "Identidade",
+        "cor": "positivo",
+        "itens": [
+          "Reconhecível sem o logo",
+          "Lembrado pelo jeito de falar"
+        ]
+      },
+      "fala": "Cópia é bonita, mas genérica. Identidade… é ser reconhecido sem o logo.",
+      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 3.8,
+      "texto": "Salva antes da *próxima* referência.",
+      "botao": "Salva este post",
+      "fala": "Salva… antes da próxima referência.",
+      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-05.mp3"
+    }
+  ],
+  "legenda": "Copiar referência não é ter estilo.\n\nPerfis parecidos são esquecidos juntos. Da referência, pegue o porquê: entenda o que funciona, traduza para o seu tom, deixe algo seu em cada post.\n\nIdentidade é ser reconhecido sem o logo.",
+  "hashtags": [
+    "#identidadevisual",
+    "#branding",
+    "#marketingorganico",
+    "#instagramparanegocios",
+    "#detmedia"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "04-trend-com-criterio",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.6,
+      "etiqueta": "Critério",
+      "texto": "Nem toda trend é para a sua *marca.*",
+      "sub": "Alcance emprestado também cobra.",
+      "fala": "[calm] Nem toda trend… é pra sua marca.",
+      "fala_audio": "assets/voz/04-trend-com-criterio/fala-01.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 7.5,
+      "rotulo": "Antes de entrar",
+      "titulo": "Três filtros.",
+      "itens": [
+        "Combina com o tom da marca?",
+        "Fala com o público certo?",
+        "Dá para dizer algo seu nela?"
+      ],
+      "fala": "Antes de entrar… combina com seu tom? Fala com seu público? Dá pra dizer algo seu?",
+      "fala_audio": "assets/voz/04-trend-com-criterio/fala-02.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 8.6,
+      "rotulo": "O resultado",
+      "esquerda": {
+        "titulo": "Sem filtro",
+        "itens": [
+          "Alcance de quem não fica",
+          "Marca parecida com todas"
+        ]
+      },
+      "direita": {
+        "titulo": "Com critério",
+        "cor": "positivo",
+        "itens": [
+          "Alcance de quem combina",
+          "A marca continua reconhecível"
+        ]
+      },
+      "fala": "Sem filtro, vem alcance de quem não fica. Com critério… a marca continua sua.",
+      "fala_audio": "assets/voz/04-trend-com-criterio/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 3.4,
+      "texto": "Seguir a onda não é ter direção.",
+      "fala": "Seguir a onda… não é ter direção.",
+      "fala_audio": "assets/voz/04-trend-com-criterio/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4,
+      "texto": "Salva para filtrar a *próxima* trend.",
+      "botao": "Salva este post",
+      "fala": "Salva… pra filtrar a próxima trend.",
+      "fala_audio": "assets/voz/04-trend-com-criterio/fala-05.mp3"
+    }
+  ],
+  "legenda": "Nem toda trend é para a sua marca.\n\nAntes de entrar, três filtros: combina com o tom da marca, fala com o público certo, dá para dizer algo seu nela.\n\nTrend sem critério traz alcance de quem não fica. Com critério, a marca continua reconhecível.",
+  "hashtags": [
+    "#trendsinstagram",
+    "#marketingorganico",
+    "#instagramparanegocios",
+    "#branding",
+    "#detmedia"
+  ]
+}

@@ -1,70 +1,162 @@
 {
   "slug": "01-salvamento-e-intencao",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "Curtida é educação. *Salvamento* é intenção",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "abstract gold particles black background",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 204888,
+      "autor": "visualhub",
+      "url": "https://pixabay.com/videos/id-204888/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/01-salvamento-e-intencao/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 5.9,
-      "etiqueta": "Sinais",
-      "texto": "Curtida é educação. *Salvamento* é intenção.",
-      "sub": "Um custa um toque. O outro, uma decisão.",
-      "fala": "[calm] Curtida é educação… salvamento é intenção.",
-      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-01.mp3"
+      "nome": "O sinal",
+      "cenas": [
+        {
+          "fala": "[excited] Curtida é educação. Salvamento é intenção. Um custa um toque. O outro, uma decisão.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "finger tapping smartphone screen close up dark",
+              "pixabay": {
+                "id": 4948,
+                "autor": "klimkin",
+                "url": "https://pixabay.com/videos/id-4948/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/01-salvamento-e-intencao/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "um toque",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          }
+        }
+      ]
     },
     {
-      "tipo": "comparacao",
-      "duracao": 5.4,
-      "rotulo": "O que cada sinal diz",
-      "esquerda": {
-        "titulo": "Curtida",
-        "itens": [
-          "Gostei de passar por aqui",
-          "Some no próximo scroll"
-        ]
-      },
-      "direita": {
-        "titulo": "Salvamento",
-        "cor": "positivo",
-        "itens": [
-          "Quero voltar a isso",
-          "Vira referência guardada"
-        ]
-      },
-      "fala": "Quem curte… passou por ali. Quem salva… quer voltar.",
-      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-02.mp3"
+      "nome": "O que cada um diz",
+      "cenas": [
+        {
+          "fala": "[confident] Quem curte passou por ali. Quem salva quer voltar.",
+          "bloco": {
+            "tipo": "cartoes",
+            "itens": [
+              {
+                "icone": "Heart",
+                "titulo": "Curtida",
+                "linha": "Gostei de passar por aqui."
+              },
+              {
+                "icone": "Bookmark",
+                "titulo": "Salvamento",
+                "linha": "Quero voltar a isso."
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 8.1,
-      "rotulo": "Posts que se salvam",
-      "titulo": "Feitos para voltar.",
-      "itens": [
-        "Um passo a passo curto",
-        "Uma lista que dá para aplicar",
-        "Uma ideia que vale reler"
-      ],
-      "fala": "Posts que se salvam são feitos pra voltar… um passo a passo, uma lista, uma ideia.",
-      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-03.mp3"
+      "nome": "A virada",
+      "cenas": [
+        {
+          "fala": "[confident] Bonito não basta. Post salvo é o post que ainda serve amanhã.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Post bonito.",
+            "troca": "Post que serve amanhã."
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 4.4,
-      "texto": "Escreva para ser guardado. Não só visto.",
-      "fala": "Escreva pra ser guardado… não só visto.",
-      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-04.mp3"
+      "nome": "O que se salva",
+      "cenas": [
+        {
+          "fala": "[confident] Um passo a passo. Uma lista aplicável. Uma ideia que vale reler.",
+          "bloco": {
+            "tipo": "icones",
+            "itens": [
+              {
+                "icone": "Layers",
+                "rotulo": "passo a passo"
+              },
+              {
+                "icone": "Check",
+                "rotulo": "lista"
+              },
+              {
+                "icone": "Zap",
+                "rotulo": "ideia"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 4.2,
-      "texto": "Salva este. E veja se você *volta.*",
-      "botao": "Salva este post",
-      "fala": "Salva este… e veja se você volta.",
-      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-05.mp3"
+      "nome": "O teste",
+      "cenas": [
+        {
+          "fala": "[confident] Antes de publicar, pergunta: alguém guardaria isso? Se não, ajusta.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hand holding phone reading at night",
+              "pixabay": {
+                "id": 101795,
+                "autor": "Nick_the_Photographer",
+                "url": "https://pixabay.com/videos/id-101795/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/01-salvamento-e-intencao/cena-05.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "guardaria?",
+            "pos": "base-esquerda",
+            "atraso": 1.2
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Salva esse vídeo. E repara se você volta nele.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Salva este post",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "Bookmark",
+                "rotulo": "salva"
+              },
+              {
+                "icone": "RefreshCw",
+                "rotulo": "volta"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
-  "legenda": "Curtida é educação. Salvamento é intenção.\n\nQuem curte passou por ali. Quem salva quer voltar. Posts que se salvam têm algo em comum: um passo a passo curto, uma lista aplicável, uma ideia que vale reler.\n\nEscreva para ser guardado, não só visto.",
+  "legenda": "Curtida é educação. Salvamento é intenção.\n\nQuem curte passou por ali. Quem salva quer voltar.\n\nPosts que se salvam têm algo em comum: um passo a passo curto, uma lista aplicável, uma ideia que vale reler. Antes de publicar, pergunta: alguém guardaria isso para usar amanhã?\n\nSalva este. E repara se você volta.",
   "hashtags": [
     "#marketingorganico",
     "#instagramparanegocios",

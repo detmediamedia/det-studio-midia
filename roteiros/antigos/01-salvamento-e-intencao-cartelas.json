@@ -1,0 +1,75 @@
+{
+  "slug": "01-salvamento-e-intencao",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 5.9,
+      "etiqueta": "Sinais",
+      "texto": "Curtida é educação. *Salvamento* é intenção.",
+      "sub": "Um custa um toque. O outro, uma decisão.",
+      "fala": "[calm] Curtida é educação… salvamento é intenção.",
+      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-01.mp3"
+    },
+    {
+      "tipo": "comparacao",
+      "duracao": 5.4,
+      "rotulo": "O que cada sinal diz",
+      "esquerda": {
+        "titulo": "Curtida",
+        "itens": [
+          "Gostei de passar por aqui",
+          "Some no próximo scroll"
+        ]
+      },
+      "direita": {
+        "titulo": "Salvamento",
+        "cor": "positivo",
+        "itens": [
+          "Quero voltar a isso",
+          "Vira referência guardada"
+        ]
+      },
+      "fala": "Quem curte… passou por ali. Quem salva… quer voltar.",
+      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 8.1,
+      "rotulo": "Posts que se salvam",
+      "titulo": "Feitos para voltar.",
+      "itens": [
+        "Um passo a passo curto",
+        "Uma lista que dá para aplicar",
+        "Uma ideia que vale reler"
+      ],
+      "fala": "Posts que se salvam são feitos pra voltar… um passo a passo, uma lista, uma ideia.",
+      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 4.4,
+      "texto": "Escreva para ser guardado. Não só visto.",
+      "fala": "Escreva pra ser guardado… não só visto.",
+      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.2,
+      "texto": "Salva este. E veja se você *volta.*",
+      "botao": "Salva este post",
+      "fala": "Salva este… e veja se você volta.",
+      "fala_audio": "assets/voz/01-salvamento-e-intencao/fala-05.mp3"
+    }
+  ],
+  "legenda": "Curtida é educação. Salvamento é intenção.\n\nQuem curte passou por ali. Quem salva quer voltar. Posts que se salvam têm algo em comum: um passo a passo curto, uma lista aplicável, uma ideia que vale reler.\n\nEscreva para ser guardado, não só visto.",
+  "hashtags": [
+    "#marketingorganico",
+    "#instagramparanegocios",
+    "#estrategiadeconteudo",
+    "#engajamento",
+    "#detmedia"
+  ]
+}

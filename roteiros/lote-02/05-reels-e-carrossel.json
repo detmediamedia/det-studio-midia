@@ -1,70 +1,158 @@
 {
   "slug": "05-reels-e-carrossel",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "Reels atrai. *Carrossel* convence",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "abstract gold particles black background",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 26007,
+      "autor": "motionstock",
+      "url": "https://pixabay.com/videos/id-26007/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/05-reels-e-carrossel/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 3.8,
-      "etiqueta": "Formatos",
-      "texto": "Reels atrai. *Carrossel* convence.",
-      "sub": "Cada formato tem um trabalho.",
-      "fala": "[calm] Reels atrai… carrossel convence.",
-      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-01.mp3"
+      "nome": "Os formatos",
+      "cenas": [
+        {
+          "fala": "[excited] Reels atrai. Carrossel convence. Cada um tem um trabalho.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "thumb scrolling vertical video feed phone",
+              "pixabay": {
+                "id": 131824,
+                "autor": "Marsel_beijing",
+                "url": "https://pixabay.com/videos/id-131824/",
+                "vertical": true
+              },
+              "arquivo": "assets/clips/05-reels-e-carrossel/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "cada um",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          }
+        }
+      ]
     },
     {
-      "tipo": "comparacao",
-      "duracao": 6.8,
-      "rotulo": "O papel de cada um",
-      "esquerda": {
-        "titulo": "Reels",
-        "itens": [
-          "Chega em quem não te conhece",
-          "Decide em segundos"
-        ]
-      },
-      "direita": {
-        "titulo": "Carrossel",
-        "cor": "positivo",
-        "itens": [
-          "Segura quem já parou",
-          "Explica com calma, slide a slide"
-        ]
-      },
-      "fala": "O reels chega em quem não te conhece. O carrossel… segura quem já parou.",
-      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-02.mp3"
+      "nome": "O papel",
+      "cenas": [
+        {
+          "fala": "[confident] O reels chega em quem não conhece. O carrossel segura quem já parou.",
+          "bloco": {
+            "tipo": "cartoes",
+            "itens": [
+              {
+                "icone": "Clapperboard",
+                "titulo": "Reels",
+                "linha": "Chega em quem não te conhece."
+              },
+              {
+                "icone": "Layers",
+                "titulo": "Carrossel",
+                "linha": "Segura quem já parou."
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 8.8,
-      "rotulo": "Na mesma semana",
-      "titulo": "Como combinar.",
-      "itens": [
-        "Reels abre o assunto",
-        "Carrossel aprofunda",
-        "Stories puxa a conversa"
-      ],
-      "fala": "Na mesma semana… reels abre, carrossel aprofunda, stories conversa.",
-      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-03.mp3"
+      "nome": "A virada",
+      "cenas": [
+        {
+          "fala": "[confident] Formato é escolha, não é moda. Cada um entra numa hora.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Um formato para tudo.",
+            "troca": "Um formato para cada trabalho."
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 3.4,
-      "texto": "Formato é escolha. Não é moda.",
-      "fala": "Formato é escolha… não é moda.",
-      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-04.mp3"
+      "nome": "Na prática",
+      "cenas": [
+        {
+          "fala": "[confident] Quem parou no reels quer mais. O carrossel explica com calma, slide a slide.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hand swiping through photos on smartphone",
+              "pixabay": {
+                "id": 83865,
+                "autor": "SYG_Anime",
+                "url": "https://pixabay.com/videos/id-83865/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/05-reels-e-carrossel/cena-04.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "slide a slide",
+            "pos": "base-esquerda",
+            "atraso": 1.4
+          }
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 3.2,
-      "texto": "Segue para ver os dois em *ação.*",
-      "botao": "Segue a Det",
-      "fala": "Segue a Det… pra ver os dois em ação.",
-      "fala_audio": "assets/voz/05-reels-e-carrossel/fala-05.mp3"
+      "nome": "A semana",
+      "cenas": [
+        {
+          "fala": "[confident] Reels abre o assunto. Carrossel aprofunda o assunto. Stories puxa a conversa.",
+          "bloco": {
+            "tipo": "icones",
+            "itens": [
+              {
+                "icone": "Clapperboard",
+                "rotulo": "reels abre"
+              },
+              {
+                "icone": "Layers",
+                "rotulo": "carrossel aprofunda"
+              },
+              {
+                "icone": "MessageCircle",
+                "rotulo": "stories conversa"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Segue a Det pra ver os dois em ação.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Segue a Det",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "UserPlus",
+                "rotulo": "segue"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
-  "legenda": "Reels atrai. Carrossel convence.\n\nO reels chega em quem ainda não te conhece. O carrossel segura quem já parou e explica com calma.\n\nNa mesma semana: reels abre o assunto, carrossel aprofunda, stories puxa a conversa.",
+  "legenda": "Reels atrai. Carrossel convence.\n\nO reels chega em quem ainda não te conhece. O carrossel segura quem já parou e explica com calma, slide a slide.\n\nNa mesma semana: reels abre o assunto, carrossel aprofunda, stories puxa a conversa. Formato é escolha, não é moda.\n\nSegue a Det para ver os dois em ação.",
   "hashtags": [
     "#reels",
     "#carrossel",

@@ -44,58 +44,58 @@
           "fala_tempos_globais": [
             {
               "w": "Você",
-              "inicio": 0.4,
-              "fim": 0.48
+              "inicio": 0.202,
+              "fim": 0.24
             },
             {
               "w": "publica",
-              "inicio": 0.571,
-              "fim": 1.2
+              "inicio": 0.32,
+              "fim": 0.88
             },
             {
               "w": "e",
-              "inicio": 1.6,
-              "fim": 2
+              "inicio": 1.04,
+              "fim": 1.2
             },
             {
               "w": "some.",
-              "inicio": 2.128,
-              "fim": 3.12
+              "inicio": 1.28,
+              "fim": 1.88
             },
             {
               "w": "É",
-              "inicio": 3.36,
-              "fim": 3.6
+              "inicio": 2.02,
+              "fim": 2.16
             },
             {
               "w": "exatamente",
-              "inicio": 3.653,
-              "fim": 4.32
+              "inicio": 2.24,
+              "fim": 2.8
             },
             {
               "w": "aí",
-              "inicio": 4.36,
-              "fim": 4.56
+              "inicio": 2.88,
+              "fim": 3.04
             },
             {
               "w": "que",
-              "inicio": 4.64,
-              "fim": 4.88
+              "inicio": 3.08,
+              "fim": 3.2
             },
             {
               "w": "o",
-              "inicio": 4.92,
-              "fim": 4.96
+              "inicio": 3.24,
+              "fim": 3.28
             },
             {
               "w": "post",
-              "inicio": 5.04,
-              "fim": 5.36
+              "inicio": 3.36,
+              "fim": 3.68
             },
             {
               "w": "morre.",
-              "inicio": 5.44,
-              "fim": 5.92
+              "inicio": 3.76,
+              "fim": 4.081
             }
           ]
         }
@@ -114,73 +114,73 @@
           "fala_tempos_globais": [
             {
               "w": "Publicar",
-              "inicio": 7.114,
-              "fim": 7.36
+              "inicio": 4.811,
+              "fim": 5.12
             },
             {
               "w": "não",
-              "inicio": 7.4,
-              "fim": 7.52
+              "inicio": 5.16,
+              "fim": 5.28
             },
             {
               "w": "é",
-              "inicio": 7.56,
-              "fim": 7.6
+              "inicio": 5.32,
+              "fim": 5.36
             },
             {
               "w": "o",
-              "inicio": 7.64,
-              "fim": 7.68
+              "inicio": 5.4,
+              "fim": 5.44
             },
             {
               "w": "fim.",
-              "inicio": 7.78,
-              "fim": 8.081
+              "inicio": 5.5,
+              "fim": 5.681
             },
             {
               "w": "É",
-              "inicio": 8.32,
-              "fim": 8.56
+              "inicio": 5.8,
+              "fim": 5.92
             },
             {
               "w": "o",
-              "inicio": 8.66,
-              "fim": 8.76
+              "inicio": 5.96,
+              "fim": 6
             },
             {
               "w": "começo.",
-              "inicio": 8.8,
-              "fim": 9.36
+              "inicio": 6.064,
+              "fim": 6.72
             },
             {
               "w": "A",
-              "inicio": 9.64,
-              "fim": 9.92
+              "inicio": 6.8,
+              "fim": 6.88
             },
             {
               "w": "primeira",
-              "inicio": 9.982,
-              "fim": 10.48
+              "inicio": 6.933,
+              "fim": 7.36
             },
             {
               "w": "hora",
-              "inicio": 10.544,
-              "fim": 10.8
+              "inicio": 7.456,
+              "fim": 7.84
             },
             {
               "w": "decide",
-              "inicio": 10.914,
-              "fim": 11.6
+              "inicio": 7.909,
+              "fim": 8.32
             },
             {
               "w": "o",
-              "inicio": 11.64,
-              "fim": 11.68
+              "inicio": 8.36,
+              "fim": 8.4
             },
             {
               "w": "resto.",
-              "inicio": 11.76,
-              "fim": 12.24
+              "inicio": 8.467,
+              "fim": 9.12
             }
           ]
         }
@@ -212,73 +212,73 @@
           "fala_tempos_globais": [
             {
               "w": "O",
-              "inicio": 13.11,
-              "fim": 13.12
+              "inicio": 9.51,
+              "fim": 9.52
             },
             {
               "w": "post",
-              "inicio": 13.2,
-              "fim": 13.52
+              "inicio": 9.6,
+              "fim": 9.92
             },
             {
               "w": "entra",
-              "inicio": 13.573,
-              "fim": 13.84
+              "inicio": 9.987,
+              "fim": 10.32
             },
             {
               "w": "no",
-              "inicio": 13.893,
-              "fim": 14
+              "inicio": 10.373,
+              "fim": 10.48
             },
             {
               "w": "ar.",
-              "inicio": 14.08,
-              "fim": 14.24
+              "inicio": 10.533,
+              "fim": 10.641
             },
             {
               "w": "Chegam",
-              "inicio": 14.46,
-              "fim": 15.28
+              "inicio": 10.74,
+              "fim": 11.2
             },
             {
               "w": "os",
-              "inicio": 15.333,
-              "fim": 15.44
+              "inicio": 11.253,
+              "fim": 11.36
             },
             {
               "w": "primeiros",
-              "inicio": 15.48,
-              "fim": 15.84
+              "inicio": 11.4,
+              "fim": 11.76
             },
             {
               "w": "comentários.",
-              "inicio": 15.897,
-              "fim": 17.08
+              "inicio": 11.806,
+              "fim": 12.56
             },
             {
               "w": "Quem",
-              "inicio": 17.2,
-              "fim": 17.52
+              "inicio": 12.613,
+              "fim": 12.8
             },
             {
               "w": "responde",
-              "inicio": 17.6,
-              "fim": 18.24
+              "inicio": 12.86,
+              "fim": 13.36
             },
             {
               "w": "segura",
-              "inicio": 18.38,
-              "fim": 18.96
+              "inicio": 13.46,
+              "fim": 13.92
             },
             {
               "w": "a",
-              "inicio": 19,
-              "fim": 19.04
+              "inicio": 13.96,
+              "fim": 14
             },
             {
               "w": "conversa.",
-              "inicio": 19.11,
-              "fim": 19.84
+              "inicio": 14.05,
+              "fim": 14.84
             }
           ]
         }
@@ -309,48 +309,48 @@
           "fala_tempos_globais": [
             {
               "w": "Lê",
-              "inicio": 20.861,
-              "fim": 20.968
+              "inicio": 15.181,
+              "fim": 15.288
             },
             {
               "w": "cada",
-              "inicio": 21.032,
-              "fim": 21.288
+              "inicio": 15.384,
+              "fim": 15.768
             },
             {
               "w": "comentário,",
-              "inicio": 21.345,
-              "fim": 22.088
+              "inicio": 15.825,
+              "fim": 16.488
             },
             {
               "w": "responde",
-              "inicio": 22.248,
-              "fim": 22.968
+              "inicio": 16.588,
+              "fim": 17.128
             },
             {
               "w": "pelo",
-              "inicio": 23.016,
-              "fim": 23.208
+              "inicio": 17.176,
+              "fim": 17.368
             },
             {
               "w": "nome,",
-              "inicio": 23.288,
-              "fim": 24.088
+              "inicio": 17.432,
+              "fim": 17.848
             },
             {
               "w": "devolve",
-              "inicio": 24.148,
-              "fim": 24.648
+              "inicio": 17.928,
+              "fim": 18.408
             },
             {
               "w": "uma",
-              "inicio": 24.668,
-              "fim": 24.728
+              "inicio": 18.428,
+              "fim": 18.488
             },
             {
               "w": "pergunta.",
-              "inicio": 24.808,
-              "fim": 25.528
+              "inicio": 18.568,
+              "fim": 19.128
             }
           ]
         }
@@ -383,58 +383,58 @@
           "fala_tempos_globais": [
             {
               "w": "Cada",
-              "inicio": 26.44,
-              "fim": 26.488
+              "inicio": 19.598,
+              "fim": 19.848
             },
             {
               "w": "resposta",
-              "inicio": 26.577,
-              "fim": 27.288
+              "inicio": 19.919,
+              "fim": 20.488
             },
             {
               "w": "reabre",
-              "inicio": 27.421,
-              "fim": 28.008
+              "inicio": 20.568,
+              "fim": 20.968
             },
             {
               "w": "o",
-              "inicio": 28.048,
-              "fim": 28.088
+              "inicio": 21.048,
+              "fim": 21.128
             },
             {
               "w": "post.",
-              "inicio": 28.2,
-              "fim": 28.728
+              "inicio": 21.208,
+              "fim": 21.648
             },
             {
               "w": "E",
-              "inicio": 29.008,
-              "fim": 29.288
+              "inicio": 21.708,
+              "fim": 21.768
             },
             {
               "w": "quem",
-              "inicio": 29.336,
-              "fim": 29.528
+              "inicio": 21.816,
+              "fim": 22.008
             },
             {
               "w": "comentou",
-              "inicio": 29.597,
-              "fim": 30.168
+              "inicio": 22.065,
+              "fim": 22.568
             },
             {
               "w": "volta",
-              "inicio": 30.301,
-              "fim": 30.968
+              "inicio": 22.648,
+              "fim": 23.048
             },
             {
               "w": "no",
-              "inicio": 30.995,
-              "fim": 31.048
+              "inicio": 23.101,
+              "fim": 23.208
             },
             {
               "w": "próximo.",
-              "inicio": 31.128,
-              "fim": 31.768
+              "inicio": 23.268,
+              "fim": 24.088
             }
           ]
         }
@@ -463,53 +463,53 @@
           "fala_tempos_globais": [
             {
               "w": "Salva",
-              "inicio": 32.778,
-              "fim": 32.888
+              "inicio": 24.618,
+              "fim": 24.728
             },
             {
               "w": "esse",
-              "inicio": 32.936,
-              "fim": 33.128
+              "inicio": 24.776,
+              "fim": 24.968
             },
             {
               "w": "vídeo.",
-              "inicio": 33.208,
-              "fim": 33.928
+              "inicio": 25.035,
+              "fim": 25.528
             },
             {
               "w": "No",
-              "inicio": 34.035,
-              "fim": 34.248
+              "inicio": 25.581,
+              "fim": 25.688
             },
             {
               "w": "próximo",
-              "inicio": 34.298,
-              "fim": 34.648
+              "inicio": 25.738,
+              "fim": 26.088
             },
             {
               "w": "post,",
-              "inicio": 34.76,
-              "fim": 35.608
+              "inicio": 26.168,
+              "fim": 26.648
             },
             {
               "w": "fica",
-              "inicio": 35.688,
-              "fim": 36.008
+              "inicio": 26.712,
+              "fim": 26.968
             },
             {
               "w": "uma",
-              "inicio": 36.068,
-              "fim": 36.248
+              "inicio": 27.028,
+              "fim": 27.208
             },
             {
               "w": "hora",
-              "inicio": 36.312,
-              "fim": 36.568
+              "inicio": 27.272,
+              "fim": 27.528
             },
             {
               "w": "lá.",
-              "inicio": 36.675,
-              "fim": 36.968
+              "inicio": 27.608,
+              "fim": 27.848
             }
           ]
         }
@@ -526,6 +526,6 @@
   ],
   "narracao": {
     "arquivo": "assets/voz/08-primeira-hora/narracao.mp3",
-    "duracao": 36.96
+    "duracao": 27.84
   }
 }

@@ -1,70 +1,158 @@
 {
   "slug": "06-referencia-nao-e-estilo",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "Copiar referência não é ter *estilo*",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "dark city lights bokeh night",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 15493,
+      "autor": "drphuc",
+      "url": "https://pixabay.com/videos/id-15493/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/06-referencia-nao-e-estilo/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 4.2,
-      "etiqueta": "Identidade",
-      "texto": "Copiar referência não é ter *estilo.*",
-      "sub": "Referência inspira. Identidade decide.",
-      "fala": "[calm] Copiar referência… não é ter estilo.",
-      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-01.mp3"
+      "nome": "O erro",
+      "cenas": [
+        {
+          "fala": "[excited] Copiar referência não é ter estilo. Perfis parecidos são esquecidos juntos.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "scrolling photo grid on phone close up",
+              "pixabay": {
+                "id": 189018,
+                "autor": "choxyltd",
+                "url": "https://pixabay.com/videos/id-189018/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/06-referencia-nao-e-estilo/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "parecidos",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 5.3,
-      "texto": "Perfis parecidos são esquecidos juntos.",
-      "fala": "Perfis parecidos… são esquecidos juntos.",
-      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-02.mp3"
+      "nome": "A virada",
+      "cenas": [
+        {
+          "fala": "[confident] Da referência, não copia o formato. Pega o porquê por trás dele.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Copia o que funciona.",
+            "troca": "Entende por que funciona."
+          }
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 5.9,
-      "rotulo": "Usar bem uma referência",
-      "titulo": "Pegue o porquê.",
-      "itens": [
-        "Entenda por que aquilo funciona",
-        "Traduza para o seu tom",
-        "Deixe algo seu em cada post"
-      ],
-      "fala": "Da referência, pegue o porquê… e traduza pro seu tom.",
-      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-03.mp3"
+      "nome": "Usar bem",
+      "cenas": [
+        {
+          "fala": "[confident] Entende por que funciona. Traduz pro seu tom. Deixa algo só seu.",
+          "bloco": {
+            "tipo": "icones",
+            "itens": [
+              {
+                "icone": "Eye",
+                "rotulo": "entende"
+              },
+              {
+                "icone": "RefreshCw",
+                "rotulo": "traduz"
+              },
+              {
+                "icone": "Zap",
+                "rotulo": "algo seu"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "comparacao",
-      "duracao": 9.2,
-      "rotulo": "No feed",
-      "esquerda": {
-        "titulo": "Cópia",
-        "itens": [
-          "Bonito, mas genérico",
-          "Ninguém lembra de quem era"
-        ]
-      },
-      "direita": {
-        "titulo": "Identidade",
-        "cor": "positivo",
-        "itens": [
-          "Reconhecível sem o logo",
-          "Lembrado pelo jeito de falar"
-        ]
-      },
-      "fala": "Cópia é bonita, mas genérica. Identidade… é ser reconhecido sem o logo.",
-      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-04.mp3"
+      "nome": "O que fica",
+      "cenas": [
+        {
+          "fala": "[confident] Ninguém lembra do filtro que você usou. Lembra do seu jeito de falar.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hands sketching drawing in notebook close up",
+              "pixabay": {
+                "id": 10824,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-10824/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/06-referencia-nao-e-estilo/cena-04.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "seu jeito",
+            "pos": "base-esquerda",
+            "atraso": 1
+          }
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 3.8,
-      "texto": "Salva antes da *próxima* referência.",
-      "botao": "Salva este post",
-      "fala": "Salva… antes da próxima referência.",
-      "fala_audio": "assets/voz/06-referencia-nao-e-estilo/fala-05.mp3"
+      "nome": "No feed",
+      "cenas": [
+        {
+          "fala": "[confident] Cópia é bonita, mas é genérica. Identidade é reconhecida sem logo.",
+          "bloco": {
+            "tipo": "cartoes",
+            "itens": [
+              {
+                "icone": "RefreshCw",
+                "titulo": "Cópia",
+                "linha": "Bonito, mas genérico."
+              },
+              {
+                "icone": "Eye",
+                "titulo": "Identidade",
+                "linha": "Reconhecível sem o logo."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Salva esse vídeo antes de abrir a próxima referência.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Salva este post",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "Bookmark",
+                "rotulo": "salva"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
-  "legenda": "Copiar referência não é ter estilo.\n\nPerfis parecidos são esquecidos juntos. Da referência, pegue o porquê: entenda o que funciona, traduza para o seu tom, deixe algo seu em cada post.\n\nIdentidade é ser reconhecido sem o logo.",
+  "legenda": "Copiar referência não é ter estilo. Perfis parecidos são esquecidos juntos.\n\nDa referência, pegue o porquê: entenda o que funciona, traduza para o seu tom, deixe algo seu em cada post.\n\nNinguém lembra do filtro. Lembra do jeito de falar. Identidade é ser reconhecido sem o logo.\n\nSalva antes da próxima referência.",
   "hashtags": [
     "#identidadevisual",
     "#branding",

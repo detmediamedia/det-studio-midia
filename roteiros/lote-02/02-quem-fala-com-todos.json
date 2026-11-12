@@ -1,55 +1,165 @@
 {
   "slug": "02-quem-fala-com-todos",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "Quem fala com todos não é *ouvido*",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "dark city lights bokeh night",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 6455,
+      "autor": "FindingFootage",
+      "url": "https://pixabay.com/videos/id-6455/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/02-quem-fala-com-todos/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 3.5,
-      "etiqueta": "Posicionamento",
-      "texto": "Quem fala com todos não é *ouvido.*",
-      "sub": "Falar com alguém é uma escolha.",
-      "fala": "[calm] Quem fala com todos… não é ouvido.",
-      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-01.mp3"
+      "nome": "O erro",
+      "cenas": [
+        {
+          "fala": "[excited] Quem fala com todos não é ouvido. Público amplo parece seguro.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "crowd of people walking city aerial view",
+              "pixabay": {
+                "id": 3627,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-3627/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/02-quem-fala-com-todos/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "todo mundo",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 4.2,
-      "texto": "Público amplo parece seguro. Não é.",
-      "fala": "Público amplo parece seguro. Não é.",
-      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-02.mp3"
+      "nome": "A virada",
+      "cenas": [
+        {
+          "fala": "[confident] Não é seguro. Mensagem pra todo mundo não chega em ninguém.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Fala com todo mundo.",
+            "troca": "Fala com uma pessoa."
+          }
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 6.6,
-      "rotulo": "Antes de cada post",
-      "titulo": "Três perguntas.",
-      "itens": [
-        "Quem exatamente vai ler isso?",
-        "Que problema essa pessoa tem hoje?",
-        "Ela se reconhece na primeira frase?"
-      ],
-      "fala": "Antes de cada post… pra quem é isso? Que problema essa pessoa tem hoje?",
-      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-03.mp3"
+      "nome": "Antes do post",
+      "cenas": [
+        {
+          "fala": "[confident] Pra quem é isso? Qual problema ela tem? Ela se reconhece logo?",
+          "bloco": {
+            "tipo": "terminal",
+            "titulo": "~/det-media/antes-do-post",
+            "linhas": [
+              {
+                "prefixo": ">",
+                "texto": "pra quem é isso?"
+              },
+              {
+                "prefixo": "→",
+                "texto": "qual problema ela tem?"
+              },
+              {
+                "prefixo": "✓",
+                "texto": "ela se reconhece logo?"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 4.6,
-      "texto": "Escolher para quem falar é escolher quem lembra de você.",
-      "fala": "Escolher pra quem falar… é escolher quem lembra de você.",
-      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-04.mp3"
+      "nome": "Na prática",
+      "cenas": [
+        {
+          "fala": "[confident] Escreve pra uma pessoa só. Quem se reconhece, para e lê.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hands writing in notebook coffee close up",
+              "pixabay": {
+                "id": 1046,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-1046/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/02-quem-fala-com-todos/cena-04.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "uma pessoa",
+            "pos": "base-esquerda",
+            "atraso": 1.2
+          }
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 4.3,
-      "texto": "Segue para mais *posicionamento.*",
-      "botao": "Segue a Det",
-      "fala": "Segue a Det… pra mais posicionamento.",
-      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-05.mp3"
+      "nome": "O efeito",
+      "cenas": [
+        {
+          "fala": "[confident] Escolhe pra quem falar. Fala só com ela. E ela lembra de você.",
+          "bloco": {
+            "tipo": "icones",
+            "itens": [
+              {
+                "icone": "Target",
+                "rotulo": "escolhe"
+              },
+              {
+                "icone": "MessageCircle",
+                "rotulo": "fala com ela"
+              },
+              {
+                "icone": "Bookmark",
+                "rotulo": "ela lembra"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Segue a Det. Toda semana, uma ideia de posicionamento.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Segue a Det",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "Calendar",
+                "rotulo": "toda semana"
+              },
+              {
+                "icone": "Target",
+                "rotulo": "posicionamento"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
-  "legenda": "Quem fala com todos não é ouvido.\n\nPúblico amplo parece seguro, mas dilui a mensagem. Antes de cada post: quem exatamente vai ler, que problema essa pessoa tem hoje, ela se reconhece na primeira frase.\n\nEscolher para quem falar é escolher quem lembra de você.",
+  "legenda": "Quem fala com todos não é ouvido.\n\nPúblico amplo parece seguro, mas mensagem para todo mundo não chega em ninguém.\n\nAntes de cada post: para quem é isso? Qual problema essa pessoa tem hoje? Ela se reconhece na primeira frase?\n\nEscolher para quem falar é escolher quem lembra de você.",
   "hashtags": [
     "#posicionamentodemarca",
     "#marketingorganico",

@@ -1,0 +1,60 @@
+{
+  "slug": "02-quem-fala-com-todos",
+  "funil": "topo",
+  "formato": "animacao",
+  "musica": "assets/sons/trilha-ambiente.wav",
+  "cenas": [
+    {
+      "tipo": "hook",
+      "duracao": 3.5,
+      "etiqueta": "Posicionamento",
+      "texto": "Quem fala com todos não é *ouvido.*",
+      "sub": "Falar com alguém é uma escolha.",
+      "fala": "[calm] Quem fala com todos… não é ouvido.",
+      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-01.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 4.2,
+      "texto": "Público amplo parece seguro. Não é.",
+      "fala": "Público amplo parece seguro. Não é.",
+      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-02.mp3"
+    },
+    {
+      "tipo": "lista",
+      "duracao": 6.6,
+      "rotulo": "Antes de cada post",
+      "titulo": "Três perguntas.",
+      "itens": [
+        "Quem exatamente vai ler isso?",
+        "Que problema essa pessoa tem hoje?",
+        "Ela se reconhece na primeira frase?"
+      ],
+      "fala": "Antes de cada post… pra quem é isso? Que problema essa pessoa tem hoje?",
+      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-03.mp3"
+    },
+    {
+      "tipo": "frase",
+      "duracao": 4.6,
+      "texto": "Escolher para quem falar é escolher quem lembra de você.",
+      "fala": "Escolher pra quem falar… é escolher quem lembra de você.",
+      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-04.mp3"
+    },
+    {
+      "tipo": "cta",
+      "duracao": 4.3,
+      "texto": "Segue para mais *posicionamento.*",
+      "botao": "Segue a Det",
+      "fala": "Segue a Det… pra mais posicionamento.",
+      "fala_audio": "assets/voz/02-quem-fala-com-todos/fala-05.mp3"
+    }
+  ],
+  "legenda": "Quem fala com todos não é ouvido.\n\nPúblico amplo parece seguro, mas dilui a mensagem. Antes de cada post: quem exatamente vai ler, que problema essa pessoa tem hoje, ela se reconhece na primeira frase.\n\nEscolher para quem falar é escolher quem lembra de você.",
+  "hashtags": [
+    "#posicionamentodemarca",
+    "#marketingorganico",
+    "#instagramparanegocios",
+    "#branding",
+    "#detmedia"
+  ]
+}

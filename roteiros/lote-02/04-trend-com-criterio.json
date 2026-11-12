@@ -1,70 +1,159 @@
 {
   "slug": "04-trend-com-criterio",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "Nem toda trend é para a sua *marca*",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "dark city lights bokeh night",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 6457,
+      "autor": "FindingFootage",
+      "url": "https://pixabay.com/videos/id-6457/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/04-trend-com-criterio/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 3.6,
-      "etiqueta": "Critério",
-      "texto": "Nem toda trend é para a sua *marca.*",
-      "sub": "Alcance emprestado também cobra.",
-      "fala": "[calm] Nem toda trend… é pra sua marca.",
-      "fala_audio": "assets/voz/04-trend-com-criterio/fala-01.mp3"
+      "nome": "O erro",
+      "cenas": [
+        {
+          "fala": "[excited] Nem toda trend é pra sua marca. Alcance emprestado também cobra.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "neon lights dancing silhouette night",
+              "pixabay": {
+                "id": 21116,
+                "autor": "RafterJr72",
+                "url": "https://pixabay.com/videos/id-21116/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/04-trend-com-criterio/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "trend",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          }
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 7.5,
-      "rotulo": "Antes de entrar",
-      "titulo": "Três filtros.",
-      "itens": [
-        "Combina com o tom da marca?",
-        "Fala com o público certo?",
-        "Dá para dizer algo seu nela?"
-      ],
-      "fala": "Antes de entrar… combina com seu tom? Fala com seu público? Dá pra dizer algo seu?",
-      "fala_audio": "assets/voz/04-trend-com-criterio/fala-02.mp3"
+      "nome": "A virada",
+      "cenas": [
+        {
+          "fala": "[confident] Entrar em tudo parece crescer. Mas traz gente que não fica.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Entra em todas.",
+            "troca": "Entra nas que são suas."
+          }
+        }
+      ]
     },
     {
-      "tipo": "comparacao",
-      "duracao": 8.6,
-      "rotulo": "O resultado",
-      "esquerda": {
-        "titulo": "Sem filtro",
-        "itens": [
-          "Alcance de quem não fica",
-          "Marca parecida com todas"
-        ]
-      },
-      "direita": {
-        "titulo": "Com critério",
-        "cor": "positivo",
-        "itens": [
-          "Alcance de quem combina",
-          "A marca continua reconhecível"
-        ]
-      },
-      "fala": "Sem filtro, vem alcance de quem não fica. Com critério… a marca continua sua.",
-      "fala_audio": "assets/voz/04-trend-com-criterio/fala-03.mp3"
+      "nome": "Três filtros",
+      "cenas": [
+        {
+          "fala": "[confident] Combina com seu tom? Fala com seu público? Tem algo seu nela?",
+          "bloco": {
+            "tipo": "terminal",
+            "titulo": "~/det-media/trend",
+            "linhas": [
+              {
+                "prefixo": ">",
+                "texto": "combina com seu tom?"
+              },
+              {
+                "prefixo": "→",
+                "texto": "fala com seu público?"
+              },
+              {
+                "prefixo": "✓",
+                "texto": "tem algo seu nela?"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 3.4,
-      "texto": "Seguir a onda não é ter direção.",
-      "fala": "Seguir a onda… não é ter direção.",
-      "fala_audio": "assets/voz/04-trend-com-criterio/fala-04.mp3"
+      "nome": "A decisão",
+      "cenas": [
+        {
+          "fala": "[confident] Passou nos três filtros? Grava. Não passou? Deixa a trend passar.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "smartphone on tripod filming video",
+              "pixabay": {
+                "id": 142641,
+                "autor": "u_etjkkdz15b",
+                "url": "https://pixabay.com/videos/id-142641/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/04-trend-com-criterio/cena-04.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "deixa passar",
+            "pos": "base-esquerda",
+            "atraso": 1
+          }
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 4,
-      "texto": "Salva para filtrar a *próxima* trend.",
-      "botao": "Salva este post",
-      "fala": "Salva… pra filtrar a próxima trend.",
-      "fala_audio": "assets/voz/04-trend-com-criterio/fala-05.mp3"
+      "nome": "O resultado",
+      "cenas": [
+        {
+          "fala": "[confident] Sem filtro, vem gente que não fica. Com critério, a marca continua sua.",
+          "bloco": {
+            "tipo": "cartoes",
+            "itens": [
+              {
+                "icone": "LogOut",
+                "titulo": "Sem filtro",
+                "linha": "Alcance de quem não fica."
+              },
+              {
+                "icone": "Target",
+                "titulo": "Com critério",
+                "linha": "A marca continua sua."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Salva esse vídeo pra filtrar a próxima trend.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Salva este post",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "Filter",
+                "rotulo": "filtra"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
-  "legenda": "Nem toda trend é para a sua marca.\n\nAntes de entrar, três filtros: combina com o tom da marca, fala com o público certo, dá para dizer algo seu nela.\n\nTrend sem critério traz alcance de quem não fica. Com critério, a marca continua reconhecível.",
+  "legenda": "Nem toda trend é para a sua marca. Alcance emprestado também cobra.\n\nAntes de entrar, três filtros: combina com o seu tom? Fala com o seu público? Tem algo seu nela?\n\nSem filtro, vem gente que não fica. Com critério, a marca continua sua.\n\nSalva para filtrar a próxima trend.",
   "hashtags": [
     "#trendsinstagram",
     "#marketingorganico",

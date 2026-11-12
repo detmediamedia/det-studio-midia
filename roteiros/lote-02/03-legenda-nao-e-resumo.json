@@ -1,70 +1,164 @@
 {
   "slug": "03-legenda-nao-e-resumo",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "A legenda não é *resumo* do vídeo",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "abstract gold particles black background",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 7955,
+      "autor": "MilanWulf",
+      "url": "https://pixabay.com/videos/id-7955/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/03-legenda-nao-e-resumo/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 3.8,
-      "etiqueta": "Legenda",
-      "texto": "A legenda não é *resumo* do vídeo.",
-      "sub": "Ela é a segunda chance.",
-      "fala": "[calm] A legenda… não é resumo do vídeo.",
-      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-01.mp3"
+      "nome": "O erro",
+      "cenas": [
+        {
+          "fala": "[excited] Sua legenda repete o vídeo. Aí ninguém lê até o fim.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "scrolling text on smartphone screen close up",
+              "pixabay": {
+                "id": 736,
+                "autor": "elchao",
+                "url": "https://pixabay.com/videos/id-736/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/03-legenda-nao-e-resumo/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "repete",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          }
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 3.6,
-      "texto": "Quem chegou à legenda já ficou.",
-      "fala": "Quem chegou na legenda… já ficou.",
-      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-02.mp3"
+      "nome": "A virada",
+      "cenas": [
+        {
+          "fala": "[confident] Quem chegou na legenda já ficou. Ela é sua segunda chance.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Resumo do vídeo.",
+            "troca": "Segunda chance."
+          }
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 6.9,
-      "rotulo": "O que a legenda faz",
-      "titulo": "Três funções.",
-      "itens": [
-        "Abre com uma frase que prende",
-        "Aprofunda o que o vídeo só tocou",
-        "Termina com um pedido só"
-      ],
-      "fala": "Ela abre com uma frase que prende… aprofunda… e termina com um pedido só.",
-      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-03.mp3"
+      "nome": "Três funções",
+      "cenas": [
+        {
+          "fala": "[confident] Abre com uma frase forte. Aprofunda o que faltou ali. Termina com um pedido só.",
+          "bloco": {
+            "tipo": "cartoes",
+            "itens": [
+              {
+                "icone": "Zap",
+                "titulo": "Abre",
+                "linha": "Uma frase que prende."
+              },
+              {
+                "icone": "Layers",
+                "titulo": "Aprofunda",
+                "linha": "O que o vídeo só tocou."
+              },
+              {
+                "icone": "Target",
+                "titulo": "Termina",
+                "linha": "Com um pedido só."
+              }
+            ]
+          }
+        }
+      ]
     },
     {
-      "tipo": "comparacao",
-      "duracao": 6,
-      "rotulo": "Na prática",
-      "esquerda": {
-        "titulo": "Resumo",
-        "itens": [
-          "Repete o que já foi dito",
-          "Ninguém lê até o fim"
-        ]
-      },
-      "direita": {
-        "titulo": "Continuação",
-        "cor": "positivo",
-        "itens": [
-          "Acrescenta o que faltou",
-          "Puxa a conversa nos comentários"
-        ]
-      },
-      "fala": "Resumo repete. Continuação… acrescenta o que faltou.",
-      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-04.mp3"
+      "nome": "Na prática",
+      "cenas": [
+        {
+          "fala": "[confident] Resumo repete. Continuação acrescenta. E puxa a conversa pros comentários.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "typing on laptop keyboard close up dark",
+              "pixabay": {
+                "id": 180776,
+                "autor": "Darioguzben",
+                "url": "https://pixabay.com/videos/id-180776/",
+                "vertical": true
+              },
+              "arquivo": "assets/clips/03-legenda-nao-e-resumo/cena-04.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "continua",
+            "pos": "base-esquerda",
+            "atraso": 1
+          }
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 4.6,
-      "texto": "Salva e reescreve sua *próxima* legenda.",
-      "botao": "Salva este post",
-      "fala": "Salva… e reescreve sua próxima legenda.",
-      "fala_audio": "assets/voz/03-legenda-nao-e-resumo/fala-05.mp3"
+      "nome": "O teste",
+      "cenas": [
+        {
+          "fala": "[confident] Lê sua última legenda. Ela repete o vídeo? Então reescreve ainda hoje.",
+          "bloco": {
+            "tipo": "terminal",
+            "titulo": "~/det-media/legenda",
+            "linhas": [
+              {
+                "prefixo": ">",
+                "texto": "lendo última legenda"
+              },
+              {
+                "prefixo": "→",
+                "texto": "repete o vídeo?"
+              },
+              {
+                "prefixo": "✓",
+                "texto": "reescreve ainda hoje"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Salva esse vídeo e reescreve a próxima legenda.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Salva este post",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "RefreshCw",
+                "rotulo": "reescreve"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
-  "legenda": "A legenda não é resumo do vídeo.\n\nQuem chegou até aqui já ficou. A legenda abre com uma frase que prende, aprofunda o que o vídeo só tocou e termina com um pedido só.\n\nResumo repete. Continuação acrescenta.",
+  "legenda": "A legenda não é resumo do vídeo.\n\nQuem chegou até aqui já ficou. A legenda é a segunda chance: abre com uma frase forte, aprofunda o que o vídeo só tocou e termina com um pedido só.\n\nResumo repete. Continuação acrescenta e puxa a conversa para os comentários.\n\nSalva e reescreve sua próxima legenda.",
   "hashtags": [
     "#copywriting",
     "#marketingorganico",
