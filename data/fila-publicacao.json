@@ -44,12 +44,6 @@
     "publicado_em": "2026-11-11T15:51:55.639Z"
   },
   {
-    "slug": "08-primeira-hora",
-    "roteiro": "roteiros/lote-01/08-primeira-hora.json",
-    "quando": "2026-11-12T15:00:00.000Z",
-    "status": "agendado"
-  },
-  {
     "slug": "01-salvamento-e-intencao",
     "roteiro": "roteiros/lote-02/01-salvamento-e-intencao.json",
     "quando": "2026-11-13T15:00:00.000Z",
@@ -89,6 +83,12 @@
     "slug": "07-a-capa-decide",
     "roteiro": "roteiros/lote-02/07-a-capa-decide.json",
     "quando": "2026-11-19T15:00:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "08-primeira-hora",
+    "roteiro": "roteiros/lote-01/08-primeira-hora.json",
+    "quando": "2026-11-12T14:45:00.000Z",
     "status": "agendado"
   }
 ]

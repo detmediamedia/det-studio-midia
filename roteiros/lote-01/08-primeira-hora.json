@@ -1,75 +1,531 @@
 {
   "slug": "08-primeira-hora",
+  "formato": "motion",
   "funil": "topo",
-  "formato": "animacao",
-  "musica": "assets/sons/trilha-ambiente.wav",
-  "cenas": [
+  "titulo": "A primeira hora decide o *resto*",
+  "abertura": false,
+  "fundo": {
+    "tipo": "pixabay",
+    "busca": "dark city lights bokeh night",
+    "opacidade": 0.2,
+    "pixabay": {
+      "id": 28860,
+      "autor": "FreeCreativeStuff",
+      "url": "https://pixabay.com/videos/id-28860/",
+      "vertical": false
+    },
+    "arquivo": "assets/clips/08-primeira-hora/cena-fundo.mp4"
+  },
+  "capitulos": [
     {
-      "tipo": "hook",
-      "duracao": 3.7,
-      "etiqueta": "Bastidores",
-      "texto": "A primeira hora decide o *resto.*",
-      "sub": "E quase ninguém está lá.",
-      "fala": "[calm] A primeira hora… decide o resto.",
-      "fala_audio": "assets/voz/08-primeira-hora/fala-01.mp3"
+      "nome": "O erro",
+      "cenas": [
+        {
+          "fala": "[excited] Você publica e some. É exatamente aí que o post morre.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "smartphone lying on table screen lighting up notifications",
+              "pixabay": {
+                "id": 202987,
+                "autor": "Natures_Embrace",
+                "url": "https://pixabay.com/videos/id-202987/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/08-primeira-hora/cena-01.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "publica e some",
+            "pos": "topo-direita",
+            "atraso": 0.6
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Você",
+              "inicio": 0.4,
+              "fim": 0.48
+            },
+            {
+              "w": "publica",
+              "inicio": 0.571,
+              "fim": 1.2
+            },
+            {
+              "w": "e",
+              "inicio": 1.6,
+              "fim": 2
+            },
+            {
+              "w": "some.",
+              "inicio": 2.128,
+              "fim": 3.12
+            },
+            {
+              "w": "É",
+              "inicio": 3.36,
+              "fim": 3.6
+            },
+            {
+              "w": "exatamente",
+              "inicio": 3.653,
+              "fim": 4.32
+            },
+            {
+              "w": "aí",
+              "inicio": 4.36,
+              "fim": 4.56
+            },
+            {
+              "w": "que",
+              "inicio": 4.64,
+              "fim": 4.88
+            },
+            {
+              "w": "o",
+              "inicio": 4.92,
+              "fim": 4.96
+            },
+            {
+              "w": "post",
+              "inicio": 5.04,
+              "fim": 5.36
+            },
+            {
+              "w": "morre.",
+              "inicio": 5.44,
+              "fim": 5.92
+            }
+          ]
+        }
+      ]
     },
     {
-      "tipo": "frase",
-      "duracao": 3.9,
-      "texto": "Publicar é só metade do post.",
-      "fala": "Publicar é só metade do post.",
-      "fala_audio": "assets/voz/08-primeira-hora/fala-02.mp3"
+      "nome": "A virada",
+      "cenas": [
+        {
+          "fala": "[confident] Publicar não é o fim. É o começo. A primeira hora decide o resto.",
+          "bloco": {
+            "tipo": "risco",
+            "texto": "Publicou, acabou.",
+            "troca": "Publicou, começou."
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Publicar",
+              "inicio": 7.114,
+              "fim": 7.36
+            },
+            {
+              "w": "não",
+              "inicio": 7.4,
+              "fim": 7.52
+            },
+            {
+              "w": "é",
+              "inicio": 7.56,
+              "fim": 7.6
+            },
+            {
+              "w": "o",
+              "inicio": 7.64,
+              "fim": 7.68
+            },
+            {
+              "w": "fim.",
+              "inicio": 7.78,
+              "fim": 8.081
+            },
+            {
+              "w": "É",
+              "inicio": 8.32,
+              "fim": 8.56
+            },
+            {
+              "w": "o",
+              "inicio": 8.66,
+              "fim": 8.76
+            },
+            {
+              "w": "começo.",
+              "inicio": 8.8,
+              "fim": 9.36
+            },
+            {
+              "w": "A",
+              "inicio": 9.64,
+              "fim": 9.92
+            },
+            {
+              "w": "primeira",
+              "inicio": 9.982,
+              "fim": 10.48
+            },
+            {
+              "w": "hora",
+              "inicio": 10.544,
+              "fim": 10.8
+            },
+            {
+              "w": "decide",
+              "inicio": 10.914,
+              "fim": 11.6
+            },
+            {
+              "w": "o",
+              "inicio": 11.64,
+              "fim": 11.68
+            },
+            {
+              "w": "resto.",
+              "inicio": 11.76,
+              "fim": 12.24
+            }
+          ]
+        }
+      ]
     },
     {
-      "tipo": "lista",
-      "duracao": 6.8,
-      "rotulo": "Na primeira hora",
-      "titulo": "O que fazemos.",
-      "itens": [
-        "Respondemos cada comentário",
-        "Devolvemos com uma pergunta",
-        "Levamos a conversa para os stories"
-      ],
-      "fala": "Na primeira hora, a gente responde cada comentário… e devolve com uma pergunta.",
-      "fala_audio": "assets/voz/08-primeira-hora/fala-03.mp3"
+      "nome": "O que acontece",
+      "cenas": [
+        {
+          "fala": "[confident] O post entra no ar. Chegam os primeiros comentários. Quem responde segura a conversa.",
+          "bloco": {
+            "tipo": "terminal",
+            "titulo": "~/det-media/primeira-hora",
+            "linhas": [
+              {
+                "prefixo": ">",
+                "texto": "post no ar"
+              },
+              {
+                "prefixo": "→",
+                "texto": "primeiros comentários chegando"
+              },
+              {
+                "prefixo": "✓",
+                "texto": "quem responde segura a conversa"
+              }
+            ]
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "O",
+              "inicio": 13.11,
+              "fim": 13.12
+            },
+            {
+              "w": "post",
+              "inicio": 13.2,
+              "fim": 13.52
+            },
+            {
+              "w": "entra",
+              "inicio": 13.573,
+              "fim": 13.84
+            },
+            {
+              "w": "no",
+              "inicio": 13.893,
+              "fim": 14
+            },
+            {
+              "w": "ar.",
+              "inicio": 14.08,
+              "fim": 14.24
+            },
+            {
+              "w": "Chegam",
+              "inicio": 14.46,
+              "fim": 15.28
+            },
+            {
+              "w": "os",
+              "inicio": 15.333,
+              "fim": 15.44
+            },
+            {
+              "w": "primeiros",
+              "inicio": 15.48,
+              "fim": 15.84
+            },
+            {
+              "w": "comentários.",
+              "inicio": 15.897,
+              "fim": 17.08
+            },
+            {
+              "w": "Quem",
+              "inicio": 17.2,
+              "fim": 17.52
+            },
+            {
+              "w": "responde",
+              "inicio": 17.6,
+              "fim": 18.24
+            },
+            {
+              "w": "segura",
+              "inicio": 18.38,
+              "fim": 18.96
+            },
+            {
+              "w": "a",
+              "inicio": 19,
+              "fim": 19.04
+            },
+            {
+              "w": "conversa.",
+              "inicio": 19.11,
+              "fim": 19.84
+            }
+          ]
+        }
+      ]
     },
     {
-      "tipo": "comparacao",
-      "duracao": 8.1,
-      "rotulo": "Depois de publicar",
-      "esquerda": {
-        "titulo": "Publica e some",
-        "itens": [
-          "Comentário sem resposta",
-          "A conversa morre ali"
-        ]
-      },
-      "direita": {
-        "titulo": "Publica e fica",
-        "cor": "positivo",
-        "itens": [
-          "Cada resposta reabre o post",
-          "Quem comentou volta no próximo"
-        ]
-      },
-      "fala": "Quem publica e some… deixa a conversa morrer. Quem fica… reabre o post.",
-      "fala_audio": "assets/voz/08-primeira-hora/fala-04.mp3"
+      "nome": "Na prática",
+      "cenas": [
+        {
+          "fala": "[confident] Lê cada comentário, responde pelo nome, devolve uma pergunta.",
+          "bloco": {
+            "tipo": "icones",
+            "itens": [
+              {
+                "icone": "Eye",
+                "rotulo": "lê"
+              },
+              {
+                "icone": "MessageCircle",
+                "rotulo": "responde"
+              },
+              {
+                "icone": "MessageCircleQuestion",
+                "rotulo": "pergunta"
+              }
+            ]
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Lê",
+              "inicio": 20.861,
+              "fim": 20.968
+            },
+            {
+              "w": "cada",
+              "inicio": 21.032,
+              "fim": 21.288
+            },
+            {
+              "w": "comentário,",
+              "inicio": 21.345,
+              "fim": 22.088
+            },
+            {
+              "w": "responde",
+              "inicio": 22.248,
+              "fim": 22.968
+            },
+            {
+              "w": "pelo",
+              "inicio": 23.016,
+              "fim": 23.208
+            },
+            {
+              "w": "nome,",
+              "inicio": 23.288,
+              "fim": 24.088
+            },
+            {
+              "w": "devolve",
+              "inicio": 24.148,
+              "fim": 24.648
+            },
+            {
+              "w": "uma",
+              "inicio": 24.668,
+              "fim": 24.728
+            },
+            {
+              "w": "pergunta.",
+              "inicio": 24.808,
+              "fim": 25.528
+            }
+          ]
+        }
+      ]
     },
     {
-      "tipo": "cta",
-      "duracao": 4.6,
-      "texto": "Salva para lembrar *depois* de publicar.",
-      "botao": "Salva este post",
-      "fala": "Salva esse post… pra lembrar depois de publicar.",
-      "fala_audio": "assets/voz/08-primeira-hora/fala-05.mp3"
+      "nome": "O efeito",
+      "cenas": [
+        {
+          "fala": "[confident] Cada resposta reabre o post. E quem comentou volta no próximo.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hands typing message on smartphone close up dark",
+              "pixabay": {
+                "id": 3176,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-3176/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/08-primeira-hora/cena-05.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "primeira hora",
+            "pos": "base-esquerda",
+            "atraso": 1.2
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Cada",
+              "inicio": 26.44,
+              "fim": 26.488
+            },
+            {
+              "w": "resposta",
+              "inicio": 26.577,
+              "fim": 27.288
+            },
+            {
+              "w": "reabre",
+              "inicio": 27.421,
+              "fim": 28.008
+            },
+            {
+              "w": "o",
+              "inicio": 28.048,
+              "fim": 28.088
+            },
+            {
+              "w": "post.",
+              "inicio": 28.2,
+              "fim": 28.728
+            },
+            {
+              "w": "E",
+              "inicio": 29.008,
+              "fim": 29.288
+            },
+            {
+              "w": "quem",
+              "inicio": 29.336,
+              "fim": 29.528
+            },
+            {
+              "w": "comentou",
+              "inicio": 29.597,
+              "fim": 30.168
+            },
+            {
+              "w": "volta",
+              "inicio": 30.301,
+              "fim": 30.968
+            },
+            {
+              "w": "no",
+              "inicio": 30.995,
+              "fim": 31.048
+            },
+            {
+              "w": "próximo.",
+              "inicio": 31.128,
+              "fim": 31.768
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Fecho",
+      "cenas": [
+        {
+          "fala": "[confident] Salva esse vídeo. No próximo post, fica uma hora lá.",
+          "bloco": {
+            "tipo": "fecho",
+            "cta": "Salva este post",
+            "linha": "Engajamento orgânico com assinatura de luxo.",
+            "itens": [
+              {
+                "icone": "Bookmark",
+                "rotulo": "salva"
+              },
+              {
+                "icone": "Timer",
+                "rotulo": "fica uma hora"
+              }
+            ]
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Salva",
+              "inicio": 32.778,
+              "fim": 32.888
+            },
+            {
+              "w": "esse",
+              "inicio": 32.936,
+              "fim": 33.128
+            },
+            {
+              "w": "vídeo.",
+              "inicio": 33.208,
+              "fim": 33.928
+            },
+            {
+              "w": "No",
+              "inicio": 34.035,
+              "fim": 34.248
+            },
+            {
+              "w": "próximo",
+              "inicio": 34.298,
+              "fim": 34.648
+            },
+            {
+              "w": "post,",
+              "inicio": 34.76,
+              "fim": 35.608
+            },
+            {
+              "w": "fica",
+              "inicio": 35.688,
+              "fim": 36.008
+            },
+            {
+              "w": "uma",
+              "inicio": 36.068,
+              "fim": 36.248
+            },
+            {
+              "w": "hora",
+              "inicio": 36.312,
+              "fim": 36.568
+            },
+            {
+              "w": "lá.",
+              "inicio": 36.675,
+              "fim": 36.968
+            }
+          ]
+        }
+      ]
     }
   ],
-  "legenda": "A primeira hora decide o resto.\n\nPublicar é só metade do post. A outra metade é estar lá quando as pessoas chegam: responder cada comentário, devolver com uma pergunta, levar a conversa para os stories.\n\nQuem publica e some deixa a conversa morrer ali. Quem fica transforma um comentário em relação.\n\nSalva para lembrar depois de publicar.",
+  "legenda": "A primeira hora decide o resto.\n\nPublicar não é o fim. É o começo. Quem publica e some deixa a conversa morrer ali.\n\nNa primeira hora: lê cada comentário, responde pelo nome, devolve uma pergunta. Cada resposta reabre o post, e quem comentou volta no próximo.\n\nSalva para lembrar depois de publicar.",
   "hashtags": [
     "#marketingorganico",
     "#engajamento",
     "#instagramparanegocios",
     "#estrategiadeconteudo",
     "#detmedia"
-  ]
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/08-primeira-hora/narracao.mp3",
+    "duracao": 36.96
+  }
 }
