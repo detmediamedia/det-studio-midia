@@ -40,7 +40,64 @@
             "texto": "todo dia",
             "pos": "topo-direita",
             "atraso": 0.8
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Postar",
+              "inicio": 0.336,
+              "fim": 0.48
+            },
+            {
+              "w": "todo",
+              "inicio": 0.56,
+              "fim": 0.88
+            },
+            {
+              "w": "dia",
+              "inicio": 0.96,
+              "fim": 1.2
+            },
+            {
+              "w": "pode",
+              "inicio": 1.264,
+              "fim": 1.52
+            },
+            {
+              "w": "estar",
+              "inicio": 1.573,
+              "fim": 1.84
+            },
+            {
+              "w": "te",
+              "inicio": 1.867,
+              "fim": 1.92
+            },
+            {
+              "w": "atrapalhando.",
+              "inicio": 1.96,
+              "fim": 2.96
+            },
+            {
+              "w": "Volume",
+              "inicio": 3.029,
+              "fim": 3.44
+            },
+            {
+              "w": "não",
+              "inicio": 3.54,
+              "fim": 3.84
+            },
+            {
+              "w": "é",
+              "inicio": 3.88,
+              "fim": 3.92
+            },
+            {
+              "w": "estratégia.",
+              "inicio": 3.968,
+              "fim": 4.64
+            }
+          ]
         }
       ]
     },
@@ -53,7 +110,69 @@
             "tipo": "risco",
             "texto": "Mais posts, mais alcance.",
             "troca": "Post que segura atenção."
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "A",
+              "inicio": 5.03,
+              "fim": 5.04
+            },
+            {
+              "w": "plataforma",
+              "inicio": 5.105,
+              "fim": 5.76
+            },
+            {
+              "w": "não",
+              "inicio": 5.78,
+              "fim": 5.84
+            },
+            {
+              "w": "conta",
+              "inicio": 5.92,
+              "fim": 6.32
+            },
+            {
+              "w": "quantos",
+              "inicio": 6.36,
+              "fim": 6.72
+            },
+            {
+              "w": "posts",
+              "inicio": 6.787,
+              "fim": 7.12
+            },
+            {
+              "w": "você",
+              "inicio": 7.184,
+              "fim": 7.44
+            },
+            {
+              "w": "fez.",
+              "inicio": 7.493,
+              "fim": 7.84
+            },
+            {
+              "w": "Conta",
+              "inicio": 7.968,
+              "fim": 8.68
+            },
+            {
+              "w": "quantos",
+              "inicio": 8.713,
+              "fim": 9.04
+            },
+            {
+              "w": "seguraram",
+              "inicio": 9.1,
+              "fim": 9.6
+            },
+            {
+              "w": "atenção.",
+              "inicio": 9.653,
+              "fim": 10.56
+            }
+          ]
         }
       ]
     },
@@ -78,7 +197,69 @@
                 "rotulo": "converte"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Atrai",
+              "inicio": 10.704,
+              "fim": 10.96
+            },
+            {
+              "w": "quem",
+              "inicio": 11.008,
+              "fim": 11.2
+            },
+            {
+              "w": "não",
+              "inicio": 11.24,
+              "fim": 11.36
+            },
+            {
+              "w": "conhece.",
+              "inicio": 11.413,
+              "fim": 12.24
+            },
+            {
+              "w": "Nutre",
+              "inicio": 12.32,
+              "fim": 12.64
+            },
+            {
+              "w": "quem",
+              "inicio": 12.688,
+              "fim": 12.88
+            },
+            {
+              "w": "já",
+              "inicio": 12.907,
+              "fim": 12.96
+            },
+            {
+              "w": "segue.",
+              "inicio": 13.053,
+              "fim": 13.76
+            },
+            {
+              "w": "Converte",
+              "inicio": 13.82,
+              "fim": 14.32
+            },
+            {
+              "w": "quem",
+              "inicio": 14.368,
+              "fim": 14.56
+            },
+            {
+              "w": "já",
+              "inicio": 14.64,
+              "fim": 14.8
+            },
+            {
+              "w": "confia.",
+              "inicio": 14.848,
+              "fim": 15.839
+            }
+          ]
         }
       ]
     },
@@ -105,7 +286,79 @@
             "texto": "cadência",
             "pos": "base-esquerda",
             "atraso": 1.4
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Se",
+              "inicio": 15.956,
+              "fim": 16.009
+            },
+            {
+              "w": "o",
+              "inicio": 16.049,
+              "fim": 16.089
+            },
+            {
+              "w": "post",
+              "inicio": 16.169,
+              "fim": 16.489
+            },
+            {
+              "w": "não",
+              "inicio": 16.549,
+              "fim": 16.729
+            },
+            {
+              "w": "tem",
+              "inicio": 16.769,
+              "fim": 16.889
+            },
+            {
+              "w": "papel,",
+              "inicio": 16.956,
+              "fim": 17.529
+            },
+            {
+              "w": "ele",
+              "inicio": 17.589,
+              "fim": 17.769
+            },
+            {
+              "w": "não",
+              "inicio": 17.829,
+              "fim": 18.009
+            },
+            {
+              "w": "sai.",
+              "inicio": 18.089,
+              "fim": 18.729
+            },
+            {
+              "w": "Consistência",
+              "inicio": 18.777,
+              "fim": 19.529
+            },
+            {
+              "w": "é",
+              "inicio": 19.609,
+              "fim": 19.689
+            },
+            {
+              "w": "cadência,",
+              "inicio": 19.749,
+              "fim": 20.489
+            },
+            {
+              "w": "não",
+              "inicio": 20.569,
+              "fim": 20.809
+            },
+            {
+              "w": "quantidade.",
+              "inicio": 20.867,
+              "fim": 21.529
+            }
+          ]
         }
       ]
     },
@@ -131,7 +384,64 @@
                 "texto": "o resto ganha espaço"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Abre",
+              "inicio": 21.737,
+              "fim": 21.849
+            },
+            {
+              "w": "seu",
+              "inicio": 21.909,
+              "fim": 22.089
+            },
+            {
+              "w": "calendário.",
+              "inicio": 22.135,
+              "fim": 22.729
+            },
+            {
+              "w": "Post",
+              "inicio": 22.841,
+              "fim": 23.289
+            },
+            {
+              "w": "sem",
+              "inicio": 23.369,
+              "fim": 23.609
+            },
+            {
+              "w": "papel,",
+              "inicio": 23.676,
+              "fim": 24.089
+            },
+            {
+              "w": "corta.",
+              "inicio": 24.185,
+              "fim": 24.729
+            },
+            {
+              "w": "O",
+              "inicio": 24.889,
+              "fim": 25.049
+            },
+            {
+              "w": "resto",
+              "inicio": 25.129,
+              "fim": 25.529
+            },
+            {
+              "w": "ganha",
+              "inicio": 25.589,
+              "fim": 25.849
+            },
+            {
+              "w": "espaço.",
+              "inicio": 25.929,
+              "fim": 26.689
+            }
+          ]
         }
       ]
     },
@@ -154,7 +464,59 @@
                 "rotulo": "corta o que sobra"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Salva",
+              "inicio": 27.164,
+              "fim": 27.369
+            },
+            {
+              "w": "esse",
+              "inicio": 27.417,
+              "fim": 27.609
+            },
+            {
+              "w": "vídeo.",
+              "inicio": 27.676,
+              "fim": 28.209
+            },
+            {
+              "w": "Revisa",
+              "inicio": 28.276,
+              "fim": 28.649
+            },
+            {
+              "w": "seu",
+              "inicio": 28.689,
+              "fim": 28.809
+            },
+            {
+              "w": "calendário.",
+              "inicio": 28.855,
+              "fim": 29.769
+            },
+            {
+              "w": "Corta",
+              "inicio": 29.833,
+              "fim": 30.129
+            },
+            {
+              "w": "o",
+              "inicio": 30.149,
+              "fim": 30.169
+            },
+            {
+              "w": "que",
+              "inicio": 30.189,
+              "fim": 30.249
+            },
+            {
+              "w": "sobra.",
+              "inicio": 30.329,
+              "fim": 30.969
+            }
+          ]
         }
       ]
     }
@@ -166,5 +528,9 @@
     "#marketingdeconteudo",
     "#engajamento",
     "#detmedia"
-  ]
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/04-postar-todo-dia/narracao.mp3",
+    "duracao": 31.28
+  }
 }

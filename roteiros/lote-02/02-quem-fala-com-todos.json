@@ -40,7 +40,64 @@
             "texto": "todo mundo",
             "pos": "topo-direita",
             "atraso": 0.8
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Quem",
+              "inicio": 0.058,
+              "fim": 0.08
+            },
+            {
+              "w": "fala",
+              "inicio": 0.2,
+              "fim": 0.48
+            },
+            {
+              "w": "com",
+              "inicio": 0.52,
+              "fim": 0.64
+            },
+            {
+              "w": "todos",
+              "inicio": 0.707,
+              "fim": 1.04
+            },
+            {
+              "w": "não",
+              "inicio": 1.08,
+              "fim": 1.2
+            },
+            {
+              "w": "é",
+              "inicio": 1.28,
+              "fim": 1.36
+            },
+            {
+              "w": "ouvido.",
+              "inicio": 1.413,
+              "fim": 2
+            },
+            {
+              "w": "Público",
+              "inicio": 2.08,
+              "fim": 2.48
+            },
+            {
+              "w": "amplo",
+              "inicio": 2.54,
+              "fim": 2.8
+            },
+            {
+              "w": "parece",
+              "inicio": 2.857,
+              "fim": 3.2
+            },
+            {
+              "w": "seguro.",
+              "inicio": 3.28,
+              "fim": 3.96
+            }
+          ]
         }
       ]
     },
@@ -53,7 +110,64 @@
             "tipo": "risco",
             "texto": "Fala com todo mundo.",
             "troca": "Fala com uma pessoa."
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Não",
+              "inicio": 4.29,
+              "fim": 4.32
+            },
+            {
+              "w": "é",
+              "inicio": 4.4,
+              "fim": 4.48
+            },
+            {
+              "w": "seguro.",
+              "inicio": 4.56,
+              "fim": 5.32
+            },
+            {
+              "w": "Mensagem",
+              "inicio": 5.376,
+              "fim": 5.92
+            },
+            {
+              "w": "pra",
+              "inicio": 5.94,
+              "fim": 6
+            },
+            {
+              "w": "todo",
+              "inicio": 6.064,
+              "fim": 6.32
+            },
+            {
+              "w": "mundo",
+              "inicio": 6.373,
+              "fim": 6.64
+            },
+            {
+              "w": "não",
+              "inicio": 6.68,
+              "fim": 6.8
+            },
+            {
+              "w": "chega",
+              "inicio": 6.88,
+              "fim": 7.2
+            },
+            {
+              "w": "em",
+              "inicio": 7.227,
+              "fim": 7.28
+            },
+            {
+              "w": "ninguém.",
+              "inicio": 7.32,
+              "fim": 7.76
+            }
+          ]
         }
       ]
     },
@@ -79,7 +193,69 @@
                 "texto": "ela se reconhece logo?"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Pra",
+              "inicio": 8.348,
+              "fim": 8.408
+            },
+            {
+              "w": "quem",
+              "inicio": 8.456,
+              "fim": 8.648
+            },
+            {
+              "w": "é",
+              "inicio": 8.728,
+              "fim": 8.808
+            },
+            {
+              "w": "isso?",
+              "inicio": 8.872,
+              "fim": 9.368
+            },
+            {
+              "w": "Qual",
+              "inicio": 9.416,
+              "fim": 9.608
+            },
+            {
+              "w": "problema",
+              "inicio": 9.652,
+              "fim": 10.008
+            },
+            {
+              "w": "ela",
+              "inicio": 10.048,
+              "fim": 10.168
+            },
+            {
+              "w": "tem?",
+              "inicio": 10.228,
+              "fim": 10.688
+            },
+            {
+              "w": "Ela",
+              "inicio": 10.781,
+              "fim": 11.048
+            },
+            {
+              "w": "se",
+              "inicio": 11.075,
+              "fim": 11.128
+            },
+            {
+              "w": "reconhece",
+              "inicio": 11.181,
+              "fim": 11.688
+            },
+            {
+              "w": "logo?",
+              "inicio": 11.752,
+              "fim": 12.088
+            }
+          ]
         }
       ]
     },
@@ -106,7 +282,64 @@
             "texto": "uma pessoa",
             "pos": "base-esquerda",
             "atraso": 1.2
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Escreve",
+              "inicio": 12.688,
+              "fim": 13.048
+            },
+            {
+              "w": "pra",
+              "inicio": 13.108,
+              "fim": 13.288
+            },
+            {
+              "w": "uma",
+              "inicio": 13.368,
+              "fim": 13.608
+            },
+            {
+              "w": "pessoa",
+              "inicio": 13.688,
+              "fim": 14.168
+            },
+            {
+              "w": "só.",
+              "inicio": 14.248,
+              "fim": 14.488
+            },
+            {
+              "w": "Quem",
+              "inicio": 14.595,
+              "fim": 14.888
+            },
+            {
+              "w": "se",
+              "inicio": 14.941,
+              "fim": 15.048
+            },
+            {
+              "w": "reconhece,",
+              "inicio": 15.101,
+              "fim": 15.848
+            },
+            {
+              "w": "para",
+              "inicio": 15.912,
+              "fim": 16.168
+            },
+            {
+              "w": "e",
+              "inicio": 16.288,
+              "fim": 16.408
+            },
+            {
+              "w": "lê.",
+              "inicio": 16.448,
+              "fim": 16.648
+            }
+          ]
         }
       ]
     },
@@ -131,7 +364,74 @@
                 "rotulo": "ela lembra"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Escolhe",
+              "inicio": 17.395,
+              "fim": 17.768
+            },
+            {
+              "w": "pra",
+              "inicio": 17.808,
+              "fim": 17.928
+            },
+            {
+              "w": "quem",
+              "inicio": 17.96,
+              "fim": 18.088
+            },
+            {
+              "w": "falar.",
+              "inicio": 18.168,
+              "fim": 18.768
+            },
+            {
+              "w": "Fala",
+              "inicio": 18.868,
+              "fim": 19.128
+            },
+            {
+              "w": "só",
+              "inicio": 19.235,
+              "fim": 19.448
+            },
+            {
+              "w": "com",
+              "inicio": 19.508,
+              "fim": 19.688
+            },
+            {
+              "w": "ela.",
+              "inicio": 19.768,
+              "fim": 20.009
+            },
+            {
+              "w": "E",
+              "inicio": 20.168,
+              "fim": 20.328
+            },
+            {
+              "w": "ela",
+              "inicio": 20.388,
+              "fim": 20.568
+            },
+            {
+              "w": "lembra",
+              "inicio": 20.648,
+              "fim": 21.048
+            },
+            {
+              "w": "de",
+              "inicio": 21.075,
+              "fim": 21.128
+            },
+            {
+              "w": "você.",
+              "inicio": 21.208,
+              "fim": 21.608
+            }
+          ]
         }
       ]
     },
@@ -154,7 +454,54 @@
                 "rotulo": "posicionamento"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Segue",
+              "inicio": 22.236,
+              "fim": 22.496
+            },
+            {
+              "w": "a",
+              "inicio": 22.536,
+              "fim": 22.576
+            },
+            {
+              "w": "Det.",
+              "inicio": 22.656,
+              "fim": 22.976
+            },
+            {
+              "w": "Toda",
+              "inicio": 23.056,
+              "fim": 23.296
+            },
+            {
+              "w": "semana,",
+              "inicio": 23.353,
+              "fim": 23.776
+            },
+            {
+              "w": "uma",
+              "inicio": 23.836,
+              "fim": 24.016
+            },
+            {
+              "w": "ideia",
+              "inicio": 24.096,
+              "fim": 24.416
+            },
+            {
+              "w": "de",
+              "inicio": 24.469,
+              "fim": 24.576
+            },
+            {
+              "w": "posicionamento.",
+              "inicio": 24.638,
+              "fim": 25.696
+            }
+          ]
         }
       ]
     }
@@ -166,5 +513,9 @@
     "#instagramparanegocios",
     "#branding",
     "#detmedia"
-  ]
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/02-quem-fala-com-todos/narracao.mp3",
+    "duracao": 25.68
+  }
 }

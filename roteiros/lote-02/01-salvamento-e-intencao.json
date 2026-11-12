@@ -40,7 +40,79 @@
             "texto": "um toque",
             "pos": "topo-direita",
             "atraso": 0.8
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Curtida",
+              "inicio": 0.269,
+              "fim": 0.64
+            },
+            {
+              "w": "é",
+              "inicio": 0.76,
+              "fim": 0.88
+            },
+            {
+              "w": "educação.",
+              "inicio": 0.94,
+              "fim": 1.88
+            },
+            {
+              "w": "Salvamento",
+              "inicio": 1.936,
+              "fim": 2.64
+            },
+            {
+              "w": "é",
+              "inicio": 2.72,
+              "fim": 2.8
+            },
+            {
+              "w": "intenção.",
+              "inicio": 2.86,
+              "fim": 3.52
+            },
+            {
+              "w": "Um",
+              "inicio": 3.707,
+              "fim": 4.08
+            },
+            {
+              "w": "custa",
+              "inicio": 4.16,
+              "fim": 4.56
+            },
+            {
+              "w": "um",
+              "inicio": 4.587,
+              "fim": 4.64
+            },
+            {
+              "w": "toque.",
+              "inicio": 4.72,
+              "fim": 5.12
+            },
+            {
+              "w": "O",
+              "inicio": 5.32,
+              "fim": 5.52
+            },
+            {
+              "w": "outro,",
+              "inicio": 5.587,
+              "fim": 6.08
+            },
+            {
+              "w": "uma",
+              "inicio": 6.12,
+              "fim": 6.24
+            },
+            {
+              "w": "decisão.",
+              "inicio": 6.32,
+              "fim": 6.96
+            }
+          ]
         }
       ]
     },
@@ -63,7 +135,54 @@
                 "linha": "Quero voltar a isso."
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Quem",
+              "inicio": 7.467,
+              "fim": 7.52
+            },
+            {
+              "w": "curte",
+              "inicio": 7.58,
+              "fim": 7.92
+            },
+            {
+              "w": "passou",
+              "inicio": 8,
+              "fim": 8.48
+            },
+            {
+              "w": "por",
+              "inicio": 8.52,
+              "fim": 8.64
+            },
+            {
+              "w": "ali.",
+              "inicio": 8.72,
+              "fim": 9.16
+            },
+            {
+              "w": "Quem",
+              "inicio": 9.227,
+              "fim": 9.44
+            },
+            {
+              "w": "salva",
+              "inicio": 9.56,
+              "fim": 10
+            },
+            {
+              "w": "quer",
+              "inicio": 10.096,
+              "fim": 10.48
+            },
+            {
+              "w": "voltar.",
+              "inicio": 10.528,
+              "fim": 11.2
+            }
+          ]
         }
       ]
     },
@@ -76,7 +195,69 @@
             "tipo": "risco",
             "texto": "Post bonito.",
             "troca": "Post que serve amanhã."
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Bonito",
+              "inicio": 11.57,
+              "fim": 11.92
+            },
+            {
+              "w": "não",
+              "inicio": 11.98,
+              "fim": 12.16
+            },
+            {
+              "w": "basta.",
+              "inicio": 12.2,
+              "fim": 12.88
+            },
+            {
+              "w": "Post",
+              "inicio": 12.944,
+              "fim": 13.2
+            },
+            {
+              "w": "salvo",
+              "inicio": 13.28,
+              "fim": 13.68
+            },
+            {
+              "w": "é",
+              "inicio": 13.76,
+              "fim": 13.84
+            },
+            {
+              "w": "o",
+              "inicio": 13.88,
+              "fim": 13.92
+            },
+            {
+              "w": "post",
+              "inicio": 14,
+              "fim": 14.32
+            },
+            {
+              "w": "que",
+              "inicio": 14.36,
+              "fim": 14.48
+            },
+            {
+              "w": "ainda",
+              "inicio": 14.52,
+              "fim": 14.72
+            },
+            {
+              "w": "serve",
+              "inicio": 14.8,
+              "fim": 15.2
+            },
+            {
+              "w": "amanhã.",
+              "inicio": 15.227,
+              "fim": 15.88
+            }
+          ]
         }
       ]
     },
@@ -101,7 +282,69 @@
                 "rotulo": "ideia"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Um",
+              "inicio": 16.227,
+              "fim": 16.24
+            },
+            {
+              "w": "passo",
+              "inicio": 16.304,
+              "fim": 16.64
+            },
+            {
+              "w": "a",
+              "inicio": 16.68,
+              "fim": 16.72
+            },
+            {
+              "w": "passo.",
+              "inicio": 16.784,
+              "fim": 17.32
+            },
+            {
+              "w": "Uma",
+              "inicio": 17.37,
+              "fim": 17.52
+            },
+            {
+              "w": "lista",
+              "inicio": 17.573,
+              "fim": 17.84
+            },
+            {
+              "w": "aplicável.",
+              "inicio": 17.907,
+              "fim": 18.72
+            },
+            {
+              "w": "Uma",
+              "inicio": 18.76,
+              "fim": 18.88
+            },
+            {
+              "w": "ideia",
+              "inicio": 18.96,
+              "fim": 19.36
+            },
+            {
+              "w": "que",
+              "inicio": 19.42,
+              "fim": 19.6
+            },
+            {
+              "w": "vale",
+              "inicio": 19.68,
+              "fim": 20
+            },
+            {
+              "w": "reler.",
+              "inicio": 20.06,
+              "fim": 20.72
+            }
+          ]
         }
       ]
     },
@@ -128,7 +371,59 @@
             "texto": "guardaria?",
             "pos": "base-esquerda",
             "atraso": 1.2
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Antes",
+              "inicio": 21.09,
+              "fim": 21.2
+            },
+            {
+              "w": "de",
+              "inicio": 21.253,
+              "fim": 21.36
+            },
+            {
+              "w": "publicar,",
+              "inicio": 21.406,
+              "fim": 22.08
+            },
+            {
+              "w": "pergunta:",
+              "inicio": 22.12,
+              "fim": 22.64
+            },
+            {
+              "w": "alguém",
+              "inicio": 22.8,
+              "fim": 23.28
+            },
+            {
+              "w": "guardaria",
+              "inicio": 23.32,
+              "fim": 23.84
+            },
+            {
+              "w": "isso?",
+              "inicio": 23.904,
+              "fim": 24.24
+            },
+            {
+              "w": "Se",
+              "inicio": 24.4,
+              "fim": 24.72
+            },
+            {
+              "w": "não,",
+              "inicio": 24.8,
+              "fim": 25.44
+            },
+            {
+              "w": "ajusta.",
+              "inicio": 25.507,
+              "fim": 26
+            }
+          ]
         }
       ]
     },
@@ -151,7 +446,54 @@
                 "rotulo": "volta"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Salva",
+              "inicio": 26.755,
+              "fim": 26.96
+            },
+            {
+              "w": "esse",
+              "inicio": 27.008,
+              "fim": 27.2
+            },
+            {
+              "w": "vídeo.",
+              "inicio": 27.267,
+              "fim": 27.72
+            },
+            {
+              "w": "E",
+              "inicio": 27.78,
+              "fim": 27.84
+            },
+            {
+              "w": "repara",
+              "inicio": 27.92,
+              "fim": 28.4
+            },
+            {
+              "w": "se",
+              "inicio": 28.453,
+              "fim": 28.56
+            },
+            {
+              "w": "você",
+              "inicio": 28.64,
+              "fim": 28.96
+            },
+            {
+              "w": "volta",
+              "inicio": 29.027,
+              "fim": 29.36
+            },
+            {
+              "w": "nele.",
+              "inicio": 29.44,
+              "fim": 30
+            }
+          ]
         }
       ]
     }
@@ -163,5 +505,9 @@
     "#estrategiadeconteudo",
     "#engajamento",
     "#detmedia"
-  ]
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/01-salvamento-e-intencao/narracao.mp3",
+    "duracao": 30
+  }
 }

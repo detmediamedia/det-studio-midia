@@ -23,18 +23,8 @@
         {
           "fala": "[excited] Você publica e some. É exatamente aí que o post morre.",
           "bloco": {
-            "tipo": "telefone",
-            "visual": {
-              "tipo": "pixabay",
-              "busca": "smartphone lying on table screen lighting up notifications",
-              "pixabay": {
-                "id": 202987,
-                "autor": "Natures_Embrace",
-                "url": "https://pixabay.com/videos/id-202987/",
-                "vertical": false
-              },
-              "arquivo": "assets/clips/08-primeira-hora/cena-01.mp4"
-            }
+            "tipo": "gancho",
+            "texto": "Você publica e *some*. É exatamente aí que o post morre."
           },
           "adesivo": {
             "texto": "publica e some",
@@ -97,7 +87,21 @@
               "inicio": 3.76,
               "fim": 4.081
             }
-          ]
+          ],
+          "_telefone_antigo": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "smartphone lying on table screen lighting up notifications",
+              "pixabay": {
+                "id": 202987,
+                "autor": "Natures_Embrace",
+                "url": "https://pixabay.com/videos/id-202987/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/08-primeira-hora/cena-01.mp4"
+            }
+          }
         }
       ]
     },

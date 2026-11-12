@@ -40,7 +40,69 @@
             "texto": "olá, somos a",
             "pos": "topo-direita",
             "atraso": 0.8
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Seu",
+              "inicio": 0.139,
+              "fim": 0.4
+            },
+            {
+              "w": "primeiro",
+              "inicio": 0.427,
+              "fim": 0.64
+            },
+            {
+              "w": "reels",
+              "inicio": 0.693,
+              "fim": 0.96
+            },
+            {
+              "w": "começa",
+              "inicio": 1.024,
+              "fim": 1.44
+            },
+            {
+              "w": "errado.",
+              "inicio": 1.48,
+              "fim": 2.24
+            },
+            {
+              "w": "Você",
+              "inicio": 2.32,
+              "fim": 2.64
+            },
+            {
+              "w": "se",
+              "inicio": 2.667,
+              "fim": 2.72
+            },
+            {
+              "w": "apresenta",
+              "inicio": 2.782,
+              "fim": 3.48
+            },
+            {
+              "w": "antes",
+              "inicio": 3.513,
+              "fim": 3.68
+            },
+            {
+              "w": "de",
+              "inicio": 3.707,
+              "fim": 3.76
+            },
+            {
+              "w": "qualquer",
+              "inicio": 3.804,
+              "fim": 4.16
+            },
+            {
+              "w": "coisa.",
+              "inicio": 4.227,
+              "fim": 4.64
+            }
+          ]
         }
       ]
     },
@@ -65,7 +127,54 @@
                 "rotulo": "dois segundos"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Ela",
+              "inicio": 5.344,
+              "fim": 5.442
+            },
+            {
+              "w": "chega.",
+              "inicio": 5.502,
+              "fim": 5.922
+            },
+            {
+              "w": "Quer",
+              "inicio": 6.029,
+              "fim": 6.322
+            },
+            {
+              "w": "resolver",
+              "inicio": 6.384,
+              "fim": 6.882
+            },
+            {
+              "w": "algo.",
+              "inicio": 6.946,
+              "fim": 7.282
+            },
+            {
+              "w": "Em",
+              "inicio": 7.415,
+              "fim": 7.682
+            },
+            {
+              "w": "dois",
+              "inicio": 7.73,
+              "fim": 7.922
+            },
+            {
+              "w": "segundos,",
+              "inicio": 7.984,
+              "fim": 8.642
+            },
+            {
+              "w": "decide.",
+              "inicio": 8.722,
+              "fim": 9.282
+            }
+          ]
         }
       ]
     },
@@ -78,7 +187,69 @@
             "tipo": "risco",
             "texto": "Olá, somos a…",
             "troca": "Abra com o problema dela."
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Olá,",
+              "inicio": 10.135,
+              "fim": 10.402
+            },
+            {
+              "w": "somos",
+              "inicio": 10.462,
+              "fim": 10.722
+            },
+            {
+              "w": "a",
+              "inicio": 10.762,
+              "fim": 10.802
+            },
+            {
+              "w": "empresa",
+              "inicio": 10.852,
+              "fim": 11.202
+            },
+            {
+              "w": "tal.",
+              "inicio": 11.282,
+              "fim": 11.722
+            },
+            {
+              "w": "É",
+              "inicio": 11.822,
+              "fim": 11.922
+            },
+            {
+              "w": "exatamente",
+              "inicio": 12.002,
+              "fim": 12.642
+            },
+            {
+              "w": "aqui",
+              "inicio": 12.69,
+              "fim": 12.882
+            },
+            {
+              "w": "que",
+              "inicio": 12.922,
+              "fim": 13.042
+            },
+            {
+              "w": "ela",
+              "inicio": 13.102,
+              "fim": 13.282
+            },
+            {
+              "w": "vai",
+              "inicio": 13.342,
+              "fim": 13.522
+            },
+            {
+              "w": "embora.",
+              "inicio": 13.562,
+              "fim": 14.282
+            }
+          ]
         }
       ]
     },
@@ -106,7 +277,54 @@
                 "linha": "O que ninguém mostra."
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Abre",
+              "inicio": 14.775,
+              "fim": 14.882
+            },
+            {
+              "w": "com",
+              "inicio": 14.922,
+              "fim": 15.042
+            },
+            {
+              "w": "pergunta.",
+              "inicio": 15.102,
+              "fim": 15.842
+            },
+            {
+              "w": "Abre",
+              "inicio": 15.922,
+              "fim": 16.162
+            },
+            {
+              "w": "com",
+              "inicio": 16.202,
+              "fim": 16.322
+            },
+            {
+              "w": "contraste.",
+              "inicio": 16.375,
+              "fim": 17.202
+            },
+            {
+              "w": "Abre",
+              "inicio": 17.255,
+              "fim": 17.442
+            },
+            {
+              "w": "com",
+              "inicio": 17.502,
+              "fim": 17.682
+            },
+            {
+              "w": "bastidor.",
+              "inicio": 17.746,
+              "fim": 18.402
+            }
+          ]
         }
       ]
     },
@@ -133,7 +351,79 @@
             "texto": "no mudo",
             "pos": "base-esquerda",
             "atraso": 1.2
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Grava",
+              "inicio": 19.109,
+              "fim": 19.362
+            },
+            {
+              "w": "o",
+              "inicio": 19.482,
+              "fim": 19.602
+            },
+            {
+              "w": "próximo.",
+              "inicio": 19.632,
+              "fim": 19.922
+            },
+            {
+              "w": "Assiste",
+              "inicio": 20.022,
+              "fim": 20.562
+            },
+            {
+              "w": "o",
+              "inicio": 20.602,
+              "fim": 20.642
+            },
+            {
+              "w": "começo",
+              "inicio": 20.69,
+              "fim": 21.042
+            },
+            {
+              "w": "no",
+              "inicio": 21.069,
+              "fim": 21.122
+            },
+            {
+              "w": "mudo.",
+              "inicio": 21.162,
+              "fim": 21.522
+            },
+            {
+              "w": "Se",
+              "inicio": 21.655,
+              "fim": 21.922
+            },
+            {
+              "w": "você",
+              "inicio": 21.986,
+              "fim": 22.242
+            },
+            {
+              "w": "sairia,",
+              "inicio": 22.322,
+              "fim": 23.042
+            },
+            {
+              "w": "ela",
+              "inicio": 23.082,
+              "fim": 23.202
+            },
+            {
+              "w": "também",
+              "inicio": 23.271,
+              "fim": 23.682
+            },
+            {
+              "w": "sai.",
+              "inicio": 23.762,
+              "fim": 24.082
+            }
+          ]
         }
       ]
     },
@@ -156,7 +446,54 @@
                 "rotulo": "revisa a abertura"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Salva",
+              "inicio": 24.95,
+              "fim": 25.21
+            },
+            {
+              "w": "esse",
+              "inicio": 25.258,
+              "fim": 25.45
+            },
+            {
+              "w": "vídeo.",
+              "inicio": 25.517,
+              "fim": 25.93
+            },
+            {
+              "w": "Antes",
+              "inicio": 26.05,
+              "fim": 26.49
+            },
+            {
+              "w": "de",
+              "inicio": 26.517,
+              "fim": 26.57
+            },
+            {
+              "w": "gravar,",
+              "inicio": 26.634,
+              "fim": 27.21
+            },
+            {
+              "w": "revisa",
+              "inicio": 27.29,
+              "fim": 27.73
+            },
+            {
+              "w": "a",
+              "inicio": 27.75,
+              "fim": 27.77
+            },
+            {
+              "w": "abertura.",
+              "inicio": 27.823,
+              "fim": 28.41
+            }
+          ]
         }
       ]
     }
@@ -168,5 +505,9 @@
     "#instagramparanegocios",
     "#marketingdeconteudo",
     "#detmedia"
-  ]
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/03-erro-do-primeiro-reels/narracao.mp3",
+    "duracao": 28.4
+  }
 }
