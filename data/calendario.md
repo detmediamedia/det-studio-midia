@@ -14,7 +14,7 @@ Status: ideia → roteiro → preview → pronto → agendado → postado
 | 2026-11-12 11:45 | qui | motion | topo | A primeira hora decide o resto. | agendado | roteiros/lote-01/08-primeira-hora.json | https://www.instagram.com/reel/DfpUSqvjla7/
 | 2026-11-13 12:00 | sex | animação | topo | Salvamento × curtida · "Curtida é educação. Salvamento é intenção." | agendado | roteiros/lote-02/01-salvamento-e-intencao.json | https://www.instagram.com/reel/Dfr_U5WDO7y/
 | 2026-11-14 12:00 | sáb | animação | topo | Nicho / falar com alguém · "Quem fala com todos não é ouvido." | agendado | roteiros/lote-02/02-quem-fala-com-todos.json | https://www.instagram.com/reel/Dfui3rwATNm/
-| 2026-11-15 12:00 | dom | animação | topo | Legenda que trabalha · "A legenda não é resumo do vídeo." | agendado | roteiros/lote-02/03-legenda-nao-e-resumo.json |
+| 2026-11-15 12:00 | dom | animação | topo | Legenda que trabalha · "A legenda não é resumo do vídeo." | agendado | roteiros/lote-02/03-legenda-nao-e-resumo.json | https://www.instagram.com/reel/DfxH2ibj-zt/
 | 2026-11-16 12:00 | seg | animação | topo | Trends com critério · "Nem toda trend é para a sua marca." | agendado | roteiros/lote-02/04-trend-com-criterio.json |
 | 2026-11-17 12:00 | ter | animação | topo | Formatos: reels × carrossel · "Reels atrai. Carrossel convence." | agendado | roteiros/lote-02/05-reels-e-carrossel.json |
 | 2026-11-17 | ter | **falado** | topo | Sócio: bastidor da pauta · "Como escolhemos o tema de cada post" | ideia | — |
