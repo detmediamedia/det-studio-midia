@@ -102,5 +102,17 @@
     "status": "postado",
     "link": "https://www.instagram.com/reel/DfpUSqvjla7/",
     "publicado_em": "2026-11-12T14:54:57.432Z"
+  },
+  {
+    "slug": "01-salvamento-e-intencao",
+    "roteiro": "roteiros/lote-02/01-salvamento-e-intencao.json",
+    "quando": "2026-11-22T14:45:00.000Z",
+    "status": "agendado"
+  },
+  {
+    "slug": "02-quem-fala-com-todos",
+    "roteiro": "roteiros/lote-02/02-quem-fala-com-todos.json",
+    "quando": "2026-11-23T14:45:00.000Z",
+    "status": "agendado"
   }
 ]

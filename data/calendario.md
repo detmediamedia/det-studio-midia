@@ -16,7 +16,7 @@ Status: ideia → roteiro → preview → pronto → agendado → postado
 | 2026-11-14 12:00 | sáb | animação | topo | Nicho / falar com alguém · "Quem fala com todos não é ouvido." | postado | roteiros/lote-02/02-quem-fala-com-todos.json | https://www.instagram.com/reel/Dfui3rwATNm/
 | 2026-11-15 12:00 | dom | animação | topo | Legenda que trabalha · "A legenda não é resumo do vídeo." | postado | roteiros/lote-02/03-legenda-nao-e-resumo.json | https://www.instagram.com/reel/DfxH2ibj-zt/
 | 2026-11-16 12:00 | seg | animação | topo | Trends com critério · "Nem toda trend é para a sua marca." | postado | roteiros/lote-02/04-trend-com-criterio.json | https://www.instagram.com/reel/Dfzrdq0jpN3/
-| 2026-11-17 11:45 | ter | motion | topo | Formatos: reels × carrossel · "Reels atrai. Carrossel convence." | agendado | roteiros/lote-02/05-reels-e-carrossel.json |
+| 2026-11-17 11:45 | ter | motion | topo | Formatos: reels × carrossel · "Reels atrai. Carrossel convence." | agendado | roteiros/lote-02/05-reels-e-carrossel.json | https://www.instagram.com/reel/Df2Rwg1iVKl/
 | 2026-11-17 | ter | **falado** | topo | Sócio: bastidor da pauta · "Como escolhemos o tema de cada post" | ideia | — |
 | 2026-11-18 11:45 | qua | motion | topo | Referência × identidade · "Copiar referência não é ter estilo." | agendado | roteiros/lote-02/06-referencia-nao-e-estilo.json |
 | 2026-11-19 11:45 | qui | motion | topo | Capa e grade do perfil · "A capa decide se alguém volta." | agendado | roteiros/lote-02/07-a-capa-decide.json |
