@@ -9,9 +9,9 @@
     "busca": "abstract gold particles black background",
     "opacidade": 0.2,
     "pixabay": {
-      "id": 14556,
-      "autor": "jeremiah7",
-      "url": "https://pixabay.com/videos/id-14556/",
+      "id": 3735,
+      "autor": "Skylent",
+      "url": "https://pixabay.com/videos/id-3735/",
       "vertical": false
     },
     "arquivo": "assets/clips/07-a-capa-decide/cena-fundo.mp4"
@@ -21,26 +21,142 @@
       "nome": "O erro",
       "cenas": [
         {
-          "fala": "[excited] Gostaram do seu vídeo. Abriram o perfil. E foram embora.",
+          "fala": "[excited] Gostaram do vídeo. Abriram o perfil. E foram embora.",
+          "bloco": {
+            "tipo": "gancho",
+            "texto": "Gostaram do vídeo. Abriram o perfil. E foram *embora*."
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Gostaram",
+              "inicio": 0.072,
+              "fim": 0.48
+            },
+            {
+              "w": "do",
+              "inicio": 0.507,
+              "fim": 0.56
+            },
+            {
+              "w": "vídeo.",
+              "inicio": 0.627,
+              "fim": 1.24
+            },
+            {
+              "w": "Abriram",
+              "inicio": 1.31,
+              "fim": 1.68
+            },
+            {
+              "w": "o",
+              "inicio": 1.8,
+              "fim": 1.92
+            },
+            {
+              "w": "perfil.",
+              "inicio": 1.954,
+              "fim": 2.4
+            },
+            {
+              "w": "E",
+              "inicio": 2.52,
+              "fim": 2.64
+            },
+            {
+              "w": "foram",
+              "inicio": 2.693,
+              "fim": 2.96
+            },
+            {
+              "w": "embora.",
+              "inicio": 3,
+              "fim": 3.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O perfil",
+      "cenas": [
+        {
+          "fala": "[confident] O vídeo trouxe a pessoa. O perfil decide se ela fica.",
           "bloco": {
             "tipo": "telefone",
             "visual": {
               "tipo": "pixabay",
               "busca": "scrolling instagram profile grid phone",
               "pixabay": {
-                "id": 1110,
-                "autor": "DistillVideos",
-                "url": "https://pixabay.com/videos/id-1110/",
+                "id": 3180,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-3180/",
                 "vertical": false
               },
-              "arquivo": "assets/clips/07-a-capa-decide/cena-01.mp4"
+              "arquivo": "assets/clips/07-a-capa-decide/cena-02.mp4"
             }
           },
           "adesivo": {
-            "texto": "foram embora",
+            "texto": "segunda impressão",
             "pos": "topo-direita",
             "atraso": 0.8
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "O",
+              "inicio": 4.188,
+              "fim": 4.288
+            },
+            {
+              "w": "vídeo",
+              "inicio": 4.321,
+              "fim": 4.488
+            },
+            {
+              "w": "trouxe",
+              "inicio": 4.552,
+              "fim": 4.888
+            },
+            {
+              "w": "a",
+              "inicio": 4.928,
+              "fim": 4.968
+            },
+            {
+              "w": "pessoa.",
+              "inicio": 5.037,
+              "fim": 5.608
+            },
+            {
+              "w": "O",
+              "inicio": 5.688,
+              "fim": 5.768
+            },
+            {
+              "w": "perfil",
+              "inicio": 5.825,
+              "fim": 6.168
+            },
+            {
+              "w": "decide",
+              "inicio": 6.248,
+              "fim": 6.728
+            },
+            {
+              "w": "se",
+              "inicio": 6.808,
+              "fim": 6.968
+            },
+            {
+              "w": "ela",
+              "inicio": 7.008,
+              "fim": 7.128
+            },
+            {
+              "w": "fica.",
+              "inicio": 7.208,
+              "fim": 7.928
+            }
+          ]
         }
       ]
     },
@@ -48,12 +164,119 @@
       "nome": "A virada",
       "cenas": [
         {
-          "fala": "[confident] O vídeo fez a pessoa chegar. A grade decide se ela fica.",
+          "fala": "[confident] E quem decide não é a bio. É a grade de capas.",
           "bloco": {
             "tipo": "risco",
             "texto": "O vídeo convenceu.",
             "troca": "A grade decide."
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "E",
+              "inicio": 8.256,
+              "fim": 8.28
+            },
+            {
+              "w": "quem",
+              "inicio": 8.29,
+              "fim": 8.328
+            },
+            {
+              "w": "decide",
+              "inicio": 8.397,
+              "fim": 8.808
+            },
+            {
+              "w": "não",
+              "inicio": 8.908,
+              "fim": 9.208
+            },
+            {
+              "w": "é",
+              "inicio": 9.288,
+              "fim": 9.367
+            },
+            {
+              "w": "a",
+              "inicio": 9.368,
+              "fim": 9.369
+            },
+            {
+              "w": "bio.",
+              "inicio": 9.448,
+              "fim": 9.768
+            },
+            {
+              "w": "É",
+              "inicio": 9.968,
+              "fim": 10.168
+            },
+            {
+              "w": "a",
+              "inicio": 10.208,
+              "fim": 10.248
+            },
+            {
+              "w": "grade",
+              "inicio": 10.341,
+              "fim": 10.808
+            },
+            {
+              "w": "de",
+              "inicio": 10.835,
+              "fim": 10.888
+            },
+            {
+              "w": "capas.",
+              "inicio": 10.968,
+              "fim": 11.448
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O detalhe",
+      "cenas": [
+        {
+          "fala": "[confident] Quase ninguém faz a próxima parte.",
+          "bloco": {
+            "tipo": "gancho",
+            "texto": "Quase ninguém faz a *próxima* parte.",
+            "sub": "três critérios"
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Quase",
+              "inicio": 12.068,
+              "fim": 12.255
+            },
+            {
+              "w": "ninguém",
+              "inicio": 12.295,
+              "fim": 12.655
+            },
+            {
+              "w": "faz",
+              "inicio": 12.715,
+              "fim": 12.895
+            },
+            {
+              "w": "a",
+              "inicio": 12.935,
+              "fim": 12.975
+            },
+            {
+              "w": "próxima",
+              "inicio": 13.035,
+              "fim": 13.455
+            },
+            {
+              "w": "parte.",
+              "inicio": 13.522,
+              "fim": 14.175
+            }
+          ]
         }
       ]
     },
@@ -81,7 +304,69 @@
                 "linha": "Reconhecível de longe."
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Título",
+              "inicio": 14.565,
+              "fim": 14.895
+            },
+            {
+              "w": "grande",
+              "inicio": 14.964,
+              "fim": 15.375
+            },
+            {
+              "w": "e",
+              "inicio": 15.455,
+              "fim": 15.535
+            },
+            {
+              "w": "legível.",
+              "inicio": 15.595,
+              "fim": 16.495
+            },
+            {
+              "w": "Uma",
+              "inicio": 16.595,
+              "fim": 16.895
+            },
+            {
+              "w": "ideia",
+              "inicio": 16.975,
+              "fim": 17.295
+            },
+            {
+              "w": "por",
+              "inicio": 17.335,
+              "fim": 17.455
+            },
+            {
+              "w": "capa.",
+              "inicio": 17.535,
+              "fim": 17.935
+            },
+            {
+              "w": "Um",
+              "inicio": 18.122,
+              "fim": 18.495
+            },
+            {
+              "w": "padrão",
+              "inicio": 18.575,
+              "fim": 19.055
+            },
+            {
+              "w": "sempre",
+              "inicio": 19.112,
+              "fim": 19.455
+            },
+            {
+              "w": "igual.",
+              "inicio": 19.522,
+              "fim": 20.175
+            }
+          ]
         }
       ]
     },
@@ -94,47 +379,78 @@
             "tipo": "telefone",
             "visual": {
               "tipo": "pixabay",
-              "busca": "hand scrolling photo gallery tablet close up",
+              "busca": "hand swiping smartphone screen close up bright",
               "pixabay": {
-                "id": 2294,
-                "autor": "Coverr-Free-Footage",
-                "url": "https://pixabay.com/videos/id-2294/",
+                "id": 47743,
+                "autor": "crew_jak",
+                "url": "https://pixabay.com/videos/id-47743/",
                 "vertical": false
               },
-              "arquivo": "assets/clips/07-a-capa-decide/cena-04.mp4"
+              "arquivo": "assets/clips/07-a-capa-decide/cena-06.mp4"
             }
           },
           "adesivo": {
             "texto": "de longe",
             "pos": "base-esquerda",
             "atraso": 1.2
-          }
-        }
-      ]
-    },
-    {
-      "nome": "O teste",
-      "cenas": [
-        {
-          "fala": "[confident] Abre seu perfil agora. Entende o que faz? Não? Ajusta as capas.",
-          "bloco": {
-            "tipo": "terminal",
-            "titulo": "~/det-media/perfil",
-            "linhas": [
-              {
-                "prefixo": ">",
-                "texto": "abrindo seu perfil"
-              },
-              {
-                "prefixo": "→",
-                "texto": "entende o que faz?"
-              },
-              {
-                "prefixo": "✓",
-                "texto": "não? ajusta as capas"
-              }
-            ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Capa",
+              "inicio": 20.625,
+              "fim": 20.735
+            },
+            {
+              "w": "solta",
+              "inicio": 20.795,
+              "fim": 21.135
+            },
+            {
+              "w": "confunde.",
+              "inicio": 21.199,
+              "fim": 22.015
+            },
+            {
+              "w": "Com",
+              "inicio": 22.075,
+              "fim": 22.255
+            },
+            {
+              "w": "padrão,",
+              "inicio": 22.319,
+              "fim": 22.815
+            },
+            {
+              "w": "o",
+              "inicio": 22.855,
+              "fim": 22.895
+            },
+            {
+              "w": "assunto",
+              "inicio": 22.955,
+              "fim": 23.375
+            },
+            {
+              "w": "fica",
+              "inicio": 23.439,
+              "fim": 23.695
+            },
+            {
+              "w": "claro",
+              "inicio": 23.775,
+              "fim": 24.175
+            },
+            {
+              "w": "de",
+              "inicio": 24.202,
+              "fim": 24.255
+            },
+            {
+              "w": "longe.",
+              "inicio": 24.319,
+              "fim": 24.735
+            }
+          ]
         }
       ]
     },
@@ -142,7 +458,7 @@
       "nome": "Fecho",
       "cenas": [
         {
-          "fala": "[confident] Salva esse vídeo e revisa sua grade hoje.",
+          "fala": "[confident] Agora você sabe por que foram embora. Salva e revisa sua grade.",
           "bloco": {
             "tipo": "fecho",
             "cta": "Salva este post",
@@ -153,17 +469,83 @@
                 "rotulo": "revisa"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Agora",
+              "inicio": 25.428,
+              "fim": 25.615
+            },
+            {
+              "w": "você",
+              "inicio": 25.679,
+              "fim": 25.935
+            },
+            {
+              "w": "sabe",
+              "inicio": 26.015,
+              "fim": 26.335
+            },
+            {
+              "w": "por",
+              "inicio": 26.375,
+              "fim": 26.495
+            },
+            {
+              "w": "que",
+              "inicio": 26.535,
+              "fim": 26.655
+            },
+            {
+              "w": "foram",
+              "inicio": 26.708,
+              "fim": 26.975
+            },
+            {
+              "w": "embora.",
+              "inicio": 27.035,
+              "fim": 27.535
+            },
+            {
+              "w": "Salva",
+              "inicio": 27.675,
+              "fim": 28.255
+            },
+            {
+              "w": "e",
+              "inicio": 28.375,
+              "fim": 28.495
+            },
+            {
+              "w": "revisa",
+              "inicio": 28.588,
+              "fim": 29.135
+            },
+            {
+              "w": "sua",
+              "inicio": 29.195,
+              "fim": 29.375
+            },
+            {
+              "w": "grade.",
+              "inicio": 29.442,
+              "fim": 30.095
+            }
+          ]
         }
       ]
     }
   ],
-  "legenda": "A capa decide se alguém volta.\n\nQuem gostou do vídeo abre o perfil e decide ali. Uma capa que trabalha tem título legível em tamanho pequeno, uma ideia só e um padrão que se reconhece na grade.\n\nCapa solta confunde. Com padrão, o assunto fica claro de longe.\n\nSalva e revisa sua grade hoje.",
+  "legenda": "Gostaram do vídeo. Abriram o perfil. E foram embora.\n\nO vídeo trouxe a pessoa. A grade decide se ela fica. Uma capa que trabalha tem título legível em tamanho pequeno, uma ideia só e um padrão que se reconhece de longe.\n\nCapa solta confunde. Com padrão, o assunto fica claro.\n\nSalva e revisa sua grade hoje.",
   "hashtags": [
     "#perfilprofissional",
     "#instagramparanegocios",
     "#marketingorganico",
     "#identidadevisual",
     "#detmedia"
-  ]
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/07-a-capa-decide/narracao.mp3",
+    "duracao": 30.08
+  }
 }

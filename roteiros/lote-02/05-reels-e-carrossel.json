@@ -9,38 +9,70 @@
     "busca": "abstract gold particles black background",
     "opacidade": 0.2,
     "pixabay": {
-      "id": 26007,
-      "autor": "motionstock",
-      "url": "https://pixabay.com/videos/id-26007/",
+      "id": 134822,
+      "autor": "Engin_Akyurt",
+      "url": "https://pixabay.com/videos/id-134822/",
       "vertical": false
     },
     "arquivo": "assets/clips/05-reels-e-carrossel/cena-fundo.mp4"
   },
   "capitulos": [
     {
-      "nome": "Os formatos",
+      "nome": "O erro",
       "cenas": [
         {
-          "fala": "[excited] Reels atrai. Carrossel convence. Cada um tem um trabalho.",
+          "fala": "[excited] Você usa reels pra convencer. É o formato errado.",
           "bloco": {
-            "tipo": "telefone",
-            "visual": {
-              "tipo": "pixabay",
-              "busca": "thumb scrolling vertical video feed phone",
-              "pixabay": {
-                "id": 131824,
-                "autor": "Marsel_beijing",
-                "url": "https://pixabay.com/videos/id-131824/",
-                "vertical": true
-              },
-              "arquivo": "assets/clips/05-reels-e-carrossel/cena-01.mp4"
-            }
+            "tipo": "gancho",
+            "texto": "Você usa reels pra *convencer*. É o formato errado."
           },
-          "adesivo": {
-            "texto": "cada um",
-            "pos": "topo-direita",
-            "atraso": 0.8
-          }
+          "fala_tempos_globais": [
+            {
+              "w": "Você",
+              "inicio": 0.202,
+              "fim": 0.24
+            },
+            {
+              "w": "usa",
+              "inicio": 0.34,
+              "fim": 0.64
+            },
+            {
+              "w": "reels",
+              "inicio": 0.707,
+              "fim": 1.04
+            },
+            {
+              "w": "pra",
+              "inicio": 1.08,
+              "fim": 1.2
+            },
+            {
+              "w": "convencer.",
+              "inicio": 1.264,
+              "fim": 1.92
+            },
+            {
+              "w": "É",
+              "inicio": 2.16,
+              "fim": 2.4
+            },
+            {
+              "w": "o",
+              "inicio": 2.44,
+              "fim": 2.48
+            },
+            {
+              "w": "formato",
+              "inicio": 2.53,
+              "fim": 2.88
+            },
+            {
+              "w": "errado.",
+              "inicio": 2.92,
+              "fim": 3.68
+            }
+          ]
         }
       ]
     },
@@ -48,35 +80,198 @@
       "nome": "O papel",
       "cenas": [
         {
-          "fala": "[confident] O reels chega em quem não conhece. O carrossel segura quem já parou.",
+          "fala": "[confident] Reels atrai quem não te conhece. Carrossel convence quem já parou.",
           "bloco": {
             "tipo": "cartoes",
             "itens": [
               {
                 "icone": "Clapperboard",
                 "titulo": "Reels",
-                "linha": "Chega em quem não te conhece."
+                "linha": "Atrai quem não te conhece."
               },
               {
                 "icone": "Layers",
                 "titulo": "Carrossel",
-                "linha": "Segura quem já parou."
+                "linha": "Convence quem já parou."
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Reels",
+              "inicio": 4.147,
+              "fim": 4.4
+            },
+            {
+              "w": "atrai",
+              "inicio": 4.46,
+              "fim": 4.72
+            },
+            {
+              "w": "quem",
+              "inicio": 4.768,
+              "fim": 4.96
+            },
+            {
+              "w": "não",
+              "inicio": 5.02,
+              "fim": 5.2
+            },
+            {
+              "w": "te",
+              "inicio": 5.253,
+              "fim": 5.36
+            },
+            {
+              "w": "conhece.",
+              "inicio": 5.4,
+              "fim": 6.08
+            },
+            {
+              "w": "Carrossel",
+              "inicio": 6.14,
+              "fim": 6.8
+            },
+            {
+              "w": "convence",
+              "inicio": 6.848,
+              "fim": 7.36
+            },
+            {
+              "w": "quem",
+              "inicio": 7.408,
+              "fim": 7.6
+            },
+            {
+              "w": "já",
+              "inicio": 7.707,
+              "fim": 7.92
+            },
+            {
+              "w": "parou.",
+              "inicio": 7.96,
+              "fim": 8.68
+            }
+          ]
         }
       ]
     },
     {
-      "nome": "A virada",
+      "nome": "O limite",
       "cenas": [
         {
-          "fala": "[confident] Formato é escolha, não é moda. Cada um entra numa hora.",
+          "fala": "[confident] Reels sozinho some no scroll. A combinação certa segura.",
           "bloco": {
-            "tipo": "risco",
-            "texto": "Um formato para tudo.",
-            "troca": "Um formato para cada trabalho."
-          }
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "phone scrolling",
+              "pixabay": {
+                "id": 169445,
+                "autor": "magicmore",
+                "url": "https://pixabay.com/videos/id-169445/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/05-reels-e-carrossel/cena-03.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "sozinho",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Reels",
+              "inicio": 9.187,
+              "fim": 9.36
+            },
+            {
+              "w": "sozinho",
+              "inicio": 9.44,
+              "fim": 9.92
+            },
+            {
+              "w": "some",
+              "inicio": 10,
+              "fim": 10.32
+            },
+            {
+              "w": "no",
+              "inicio": 10.347,
+              "fim": 10.4
+            },
+            {
+              "w": "scroll.",
+              "inicio": 10.469,
+              "fim": 11.04
+            },
+            {
+              "w": "A",
+              "inicio": 11.12,
+              "fim": 11.2
+            },
+            {
+              "w": "combinação",
+              "inicio": 11.248,
+              "fim": 11.84
+            },
+            {
+              "w": "certa",
+              "inicio": 11.936,
+              "fim": 12.4
+            },
+            {
+              "w": "segura.",
+              "inicio": 12.5,
+              "fim": 13.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O detalhe",
+      "cenas": [
+        {
+          "fala": "[confident] Agora o detalhe que muda tudo.",
+          "bloco": {
+            "tipo": "gancho",
+            "texto": "Agora o *detalhe* que muda tudo.",
+            "sub": "a semana"
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Agora",
+              "inicio": 14.213,
+              "fim": 14.4
+            },
+            {
+              "w": "o",
+              "inicio": 14.48,
+              "fim": 14.56
+            },
+            {
+              "w": "detalhe",
+              "inicio": 14.627,
+              "fim": 15.04
+            },
+            {
+              "w": "que",
+              "inicio": 15.08,
+              "fim": 15.2
+            },
+            {
+              "w": "muda",
+              "inicio": 15.28,
+              "fim": 15.52
+            },
+            {
+              "w": "tudo.",
+              "inicio": 15.6,
+              "fim": 16.24
+            }
+          ]
         }
       ]
     },
@@ -84,31 +279,93 @@
       "nome": "Na prática",
       "cenas": [
         {
-          "fala": "[confident] Quem parou no reels quer mais. O carrossel explica com calma, slide a slide.",
+          "fala": "[confident] Quem parou no reels quer mais. O carrossel explica, slide a slide.",
           "bloco": {
             "tipo": "telefone",
             "visual": {
               "tipo": "pixabay",
               "busca": "hand swiping through photos on smartphone",
               "pixabay": {
-                "id": 83865,
-                "autor": "SYG_Anime",
-                "url": "https://pixabay.com/videos/id-83865/",
+                "id": 8255,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-8255/",
                 "vertical": false
               },
-              "arquivo": "assets/clips/05-reels-e-carrossel/cena-04.mp4"
+              "arquivo": "assets/clips/05-reels-e-carrossel/cena-05.mp4"
             }
           },
           "adesivo": {
             "texto": "slide a slide",
             "pos": "base-esquerda",
-            "atraso": 1.4
-          }
+            "atraso": 1.2
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Quem",
+              "inicio": 16.613,
+              "fim": 16.64
+            },
+            {
+              "w": "parou",
+              "inicio": 16.7,
+              "fim": 17.04
+            },
+            {
+              "w": "no",
+              "inicio": 17.067,
+              "fim": 17.12
+            },
+            {
+              "w": "reels",
+              "inicio": 17.2,
+              "fim": 17.6
+            },
+            {
+              "w": "quer",
+              "inicio": 17.68,
+              "fim": 18
+            },
+            {
+              "w": "mais.",
+              "inicio": 18.08,
+              "fim": 18.6
+            },
+            {
+              "w": "O",
+              "inicio": 18.7,
+              "fim": 18.8
+            },
+            {
+              "w": "carrossel",
+              "inicio": 18.86,
+              "fim": 19.36
+            },
+            {
+              "w": "explica,",
+              "inicio": 19.4,
+              "fim": 20.2
+            },
+            {
+              "w": "slide",
+              "inicio": 20.26,
+              "fim": 20.56
+            },
+            {
+              "w": "a",
+              "inicio": 20.6,
+              "fim": 20.64
+            },
+            {
+              "w": "slide.",
+              "inicio": 20.707,
+              "fim": 21.12
+            }
+          ]
         }
       ]
     },
     {
-      "nome": "A semana",
+      "nome": "A combinação",
       "cenas": [
         {
           "fala": "[confident] Reels abre o assunto. Carrossel aprofunda o assunto. Stories puxa a conversa.",
@@ -128,7 +385,69 @@
                 "rotulo": "stories conversa"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Reels",
+              "inicio": 22.373,
+              "fim": 22.64
+            },
+            {
+              "w": "abre",
+              "inicio": 22.704,
+              "fim": 22.96
+            },
+            {
+              "w": "o",
+              "inicio": 23,
+              "fim": 23.04
+            },
+            {
+              "w": "assunto.",
+              "inicio": 23.1,
+              "fim": 23.8
+            },
+            {
+              "w": "Carrossel",
+              "inicio": 23.85,
+              "fim": 24.4
+            },
+            {
+              "w": "aprofunda",
+              "inicio": 24.56,
+              "fim": 25.2
+            },
+            {
+              "w": "o",
+              "inicio": 25.24,
+              "fim": 25.28
+            },
+            {
+              "w": "assunto.",
+              "inicio": 25.34,
+              "fim": 26.4
+            },
+            {
+              "w": "Stories",
+              "inicio": 26.48,
+              "fim": 27.04
+            },
+            {
+              "w": "puxa",
+              "inicio": 27.12,
+              "fim": 27.4
+            },
+            {
+              "w": "a",
+              "inicio": 27.42,
+              "fim": 27.44
+            },
+            {
+              "w": "conversa.",
+              "inicio": 27.5,
+              "fim": 28.4
+            }
+          ]
         }
       ]
     },
@@ -136,7 +455,7 @@
       "nome": "Fecho",
       "cenas": [
         {
-          "fala": "[confident] Segue a Det pra ver os dois em ação.",
+          "fala": "[confident] Agora você sabe quem convence. Segue a Det pra mais.",
           "bloco": {
             "tipo": "fecho",
             "cta": "Segue a Det",
@@ -147,17 +466,73 @@
                 "rotulo": "segue"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Agora",
+              "inicio": 28.989,
+              "fim": 29.202
+            },
+            {
+              "w": "você",
+              "inicio": 29.282,
+              "fim": 29.602
+            },
+            {
+              "w": "sabe",
+              "inicio": 29.666,
+              "fim": 29.922
+            },
+            {
+              "w": "quem",
+              "inicio": 29.986,
+              "fim": 30.242
+            },
+            {
+              "w": "convence.",
+              "inicio": 30.29,
+              "fim": 31.122
+            },
+            {
+              "w": "Segue",
+              "inicio": 31.182,
+              "fim": 31.442
+            },
+            {
+              "w": "a",
+              "inicio": 31.482,
+              "fim": 31.522
+            },
+            {
+              "w": "Det",
+              "inicio": 31.602,
+              "fim": 31.842
+            },
+            {
+              "w": "pra",
+              "inicio": 31.902,
+              "fim": 32.082
+            },
+            {
+              "w": "mais.",
+              "inicio": 32.146,
+              "fim": 32.562
+            }
+          ]
         }
       ]
     }
   ],
-  "legenda": "Reels atrai. Carrossel convence.\n\nO reels chega em quem ainda não te conhece. O carrossel segura quem já parou e explica com calma, slide a slide.\n\nNa mesma semana: reels abre o assunto, carrossel aprofunda, stories puxa a conversa. Formato é escolha, não é moda.\n\nSegue a Det para ver os dois em ação.",
+  "legenda": "Você usa reels para convencer. É o formato errado.\n\nReels atrai quem ainda não te conhece. Carrossel convence quem já parou e quer entender, slide a slide.\n\nNa mesma semana: reels abre o assunto, carrossel aprofunda, stories puxa a conversa.\n\nSegue a Det para mais.",
   "hashtags": [
     "#reels",
     "#carrossel",
     "#marketingorganico",
     "#estrategiadeconteudo",
     "#detmedia"
-  ]
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/05-reels-e-carrossel/narracao.mp3",
+    "duracao": 32.56
+  }
 }

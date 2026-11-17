@@ -23,18 +23,8 @@
         {
           "fala": "[excited] Seu primeiro reels começa errado. Você se apresenta antes de qualquer coisa.",
           "bloco": {
-            "tipo": "telefone",
-            "visual": {
-              "tipo": "pixabay",
-              "busca": "thumb scrolling social media feed smartphone close up",
-              "pixabay": {
-                "id": 1360,
-                "autor": "Activedia",
-                "url": "https://pixabay.com/videos/id-1360/",
-                "vertical": false
-              },
-              "arquivo": "assets/clips/03-erro-do-primeiro-reels/cena-01.mp4"
-            }
+            "tipo": "gancho",
+            "texto": "Seu primeiro reels começa *errado*. Você se apresenta antes de qualquer coisa."
           },
           "adesivo": {
             "texto": "olá, somos a",
@@ -102,7 +92,21 @@
               "inicio": 4.227,
               "fim": 4.64
             }
-          ]
+          ],
+          "_telefone_antigo": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "thumb scrolling social media feed smartphone close up",
+              "pixabay": {
+                "id": 1360,
+                "autor": "Activedia",
+                "url": "https://pixabay.com/videos/id-1360/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/03-erro-do-primeiro-reels/cena-01.mp4"
+            }
+          }
         }
       ]
     },

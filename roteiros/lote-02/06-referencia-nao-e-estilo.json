@@ -9,9 +9,9 @@
     "busca": "dark city lights bokeh night",
     "opacidade": 0.2,
     "pixabay": {
-      "id": 15493,
-      "autor": "drphuc",
-      "url": "https://pixabay.com/videos/id-15493/",
+      "id": 1001,
+      "autor": "Coverr-Free-Footage",
+      "url": "https://pixabay.com/videos/id-1001/",
       "vertical": false
     },
     "arquivo": "assets/clips/06-referencia-nao-e-estilo/cena-fundo.mp4"
@@ -21,26 +21,53 @@
       "nome": "O erro",
       "cenas": [
         {
-          "fala": "[excited] Copiar referência não é ter estilo. Perfis parecidos são esquecidos juntos.",
+          "fala": "[excited] Você copia a referência. Por isso ninguém lembra.",
           "bloco": {
-            "tipo": "telefone",
-            "visual": {
-              "tipo": "pixabay",
-              "busca": "scrolling photo grid on phone close up",
-              "pixabay": {
-                "id": 189018,
-                "autor": "choxyltd",
-                "url": "https://pixabay.com/videos/id-189018/",
-                "vertical": false
-              },
-              "arquivo": "assets/clips/06-referencia-nao-e-estilo/cena-01.mp4"
-            }
+            "tipo": "gancho",
+            "texto": "Você copia a referência. Por isso ninguém *lembra*."
           },
-          "adesivo": {
-            "texto": "parecidos",
-            "pos": "topo-direita",
-            "atraso": 0.8
-          }
+          "fala_tempos_globais": [
+            {
+              "w": "Você",
+              "inicio": 0.269,
+              "fim": 0.32
+            },
+            {
+              "w": "copia",
+              "inicio": 0.42,
+              "fim": 0.96
+            },
+            {
+              "w": "a",
+              "inicio": 1,
+              "fim": 1.04
+            },
+            {
+              "w": "referência.",
+              "inicio": 1.093,
+              "fim": 1.96
+            },
+            {
+              "w": "Por",
+              "inicio": 2.01,
+              "fim": 2.16
+            },
+            {
+              "w": "isso",
+              "inicio": 2.208,
+              "fim": 2.4
+            },
+            {
+              "w": "ninguém",
+              "inicio": 2.44,
+              "fim": 2.72
+            },
+            {
+              "w": "lembra.",
+              "inicio": 2.773,
+              "fim": 3.24
+            }
+          ]
         }
       ]
     },
@@ -48,12 +75,178 @@
       "nome": "A virada",
       "cenas": [
         {
-          "fala": "[confident] Da referência, não copia o formato. Pega o porquê por trás dele.",
+          "fala": "[confident] Perfis parecidos são esquecidos juntos. Copiar o formato não basta.",
           "bloco": {
             "tipo": "risco",
             "texto": "Copia o que funciona.",
             "troca": "Entende por que funciona."
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Perfis",
+              "inicio": 3.497,
+              "fim": 3.849
+            },
+            {
+              "w": "parecidos",
+              "inicio": 3.881,
+              "fim": 4.649
+            },
+            {
+              "w": "são",
+              "inicio": 4.689,
+              "fim": 4.809
+            },
+            {
+              "w": "esquecidos",
+              "inicio": 4.862,
+              "fim": 5.529
+            },
+            {
+              "w": "juntos.",
+              "inicio": 5.649,
+              "fim": 6.489
+            },
+            {
+              "w": "Copiar",
+              "inicio": 6.569,
+              "fim": 6.969
+            },
+            {
+              "w": "o",
+              "inicio": 7.009,
+              "fim": 7.049
+            },
+            {
+              "w": "formato",
+              "inicio": 7.109,
+              "fim": 7.529
+            },
+            {
+              "w": "não",
+              "inicio": 7.569,
+              "fim": 7.689
+            },
+            {
+              "w": "basta.",
+              "inicio": 7.729,
+              "fim": 8.329
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O que pegar",
+      "cenas": [
+        {
+          "fala": "[confident] Da referência, pega o porquê. Não o filtro.",
+          "bloco": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "smartphone lying on table screen lighting up notifications",
+              "pixabay": {
+                "id": 202987,
+                "autor": "Natures_Embrace",
+                "url": "https://pixabay.com/videos/id-202987/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/06-referencia-nao-e-estilo/cena-03.mp4"
+            }
+          },
+          "adesivo": {
+            "texto": "o porquê",
+            "pos": "topo-direita",
+            "atraso": 0.8
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Da",
+              "inicio": 8.629,
+              "fim": 8.656
+            },
+            {
+              "w": "referência,",
+              "inicio": 8.709,
+              "fim": 9.456
+            },
+            {
+              "w": "pega",
+              "inicio": 9.496,
+              "fim": 9.696
+            },
+            {
+              "w": "o",
+              "inicio": 9.736,
+              "fim": 9.776
+            },
+            {
+              "w": "porquê.",
+              "inicio": 9.836,
+              "fim": 10.496
+            },
+            {
+              "w": "Não",
+              "inicio": 10.576,
+              "fim": 10.816
+            },
+            {
+              "w": "o",
+              "inicio": 10.916,
+              "fim": 11.016
+            },
+            {
+              "w": "filtro.",
+              "inicio": 11.045,
+              "fim": 11.296
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "O detalhe",
+      "cenas": [
+        {
+          "fala": "[confident] Agora o detalhe que muda tudo.",
+          "bloco": {
+            "tipo": "gancho",
+            "texto": "Agora o *detalhe* que muda tudo.",
+            "sub": "identidade"
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Agora",
+              "inicio": 11.896,
+              "fim": 12.176
+            },
+            {
+              "w": "o",
+              "inicio": 12.216,
+              "fim": 12.256
+            },
+            {
+              "w": "detalhe",
+              "inicio": 12.323,
+              "fim": 12.736
+            },
+            {
+              "w": "que",
+              "inicio": 12.776,
+              "fim": 12.896
+            },
+            {
+              "w": "muda",
+              "inicio": 12.936,
+              "fim": 13.216
+            },
+            {
+              "w": "tudo.",
+              "inicio": 13.296,
+              "fim": 13.776
+            }
+          ]
         }
       ]
     },
@@ -63,22 +256,87 @@
         {
           "fala": "[confident] Entende por que funciona. Traduz pro seu tom. Deixa algo só seu.",
           "bloco": {
-            "tipo": "icones",
+            "tipo": "cartoes",
             "itens": [
               {
                 "icone": "Eye",
-                "rotulo": "entende"
+                "titulo": "Entende",
+                "linha": "Por que aquilo funciona."
               },
               {
                 "icone": "RefreshCw",
-                "rotulo": "traduz"
+                "titulo": "Traduz",
+                "linha": "Para o seu tom."
               },
               {
                 "icone": "Zap",
-                "rotulo": "algo seu"
+                "titulo": "Deixa algo seu",
+                "linha": "Em cada post."
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Entende",
+              "inicio": 14.131,
+              "fim": 14.416
+            },
+            {
+              "w": "por",
+              "inicio": 14.476,
+              "fim": 14.656
+            },
+            {
+              "w": "que",
+              "inicio": 14.696,
+              "fim": 14.816
+            },
+            {
+              "w": "funciona.",
+              "inicio": 14.896,
+              "fim": 15.736
+            },
+            {
+              "w": "Traduz",
+              "inicio": 15.776,
+              "fim": 16.096
+            },
+            {
+              "w": "pro",
+              "inicio": 16.156,
+              "fim": 16.336
+            },
+            {
+              "w": "seu",
+              "inicio": 16.396,
+              "fim": 16.576
+            },
+            {
+              "w": "tom.",
+              "inicio": 16.636,
+              "fim": 16.896
+            },
+            {
+              "w": "Deixa",
+              "inicio": 17.083,
+              "fim": 17.696
+            },
+            {
+              "w": "algo",
+              "inicio": 17.76,
+              "fim": 18.016
+            },
+            {
+              "w": "só",
+              "inicio": 18.123,
+              "fim": 18.336
+            },
+            {
+              "w": "seu.",
+              "inicio": 18.436,
+              "fim": 18.976
+            }
+          ]
         }
       ]
     },
@@ -93,42 +351,86 @@
               "tipo": "pixabay",
               "busca": "hands sketching drawing in notebook close up",
               "pixabay": {
-                "id": 10824,
-                "autor": "Coverr-Free-Footage",
-                "url": "https://pixabay.com/videos/id-10824/",
+                "id": 4952,
+                "autor": "klimkin",
+                "url": "https://pixabay.com/videos/id-4952/",
                 "vertical": false
               },
-              "arquivo": "assets/clips/06-referencia-nao-e-estilo/cena-04.mp4"
+              "arquivo": "assets/clips/06-referencia-nao-e-estilo/cena-06.mp4"
             }
           },
           "adesivo": {
             "texto": "seu jeito",
             "pos": "base-esquerda",
             "atraso": 1
-          }
-        }
-      ]
-    },
-    {
-      "nome": "No feed",
-      "cenas": [
-        {
-          "fala": "[confident] Cópia é bonita, mas é genérica. Identidade é reconhecida sem logo.",
-          "bloco": {
-            "tipo": "cartoes",
-            "itens": [
-              {
-                "icone": "RefreshCw",
-                "titulo": "Cópia",
-                "linha": "Bonito, mas genérico."
-              },
-              {
-                "icone": "Eye",
-                "titulo": "Identidade",
-                "linha": "Reconhecível sem o logo."
-              }
-            ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Ninguém",
+              "inicio": 19.286,
+              "fim": 19.536
+            },
+            {
+              "w": "lembra",
+              "inicio": 19.589,
+              "fim": 19.856
+            },
+            {
+              "w": "do",
+              "inicio": 19.909,
+              "fim": 20.016
+            },
+            {
+              "w": "filtro",
+              "inicio": 20.073,
+              "fim": 20.416
+            },
+            {
+              "w": "que",
+              "inicio": 20.436,
+              "fim": 20.496
+            },
+            {
+              "w": "você",
+              "inicio": 20.56,
+              "fim": 20.816
+            },
+            {
+              "w": "usou.",
+              "inicio": 20.869,
+              "fim": 21.216
+            },
+            {
+              "w": "Lembra",
+              "inicio": 21.376,
+              "fim": 21.776
+            },
+            {
+              "w": "do",
+              "inicio": 21.829,
+              "fim": 21.936
+            },
+            {
+              "w": "seu",
+              "inicio": 22.016,
+              "fim": 22.256
+            },
+            {
+              "w": "jeito",
+              "inicio": 22.336,
+              "fim": 22.656
+            },
+            {
+              "w": "de",
+              "inicio": 22.709,
+              "fim": 22.816
+            },
+            {
+              "w": "falar.",
+              "inicio": 22.856,
+              "fim": 23.296
+            }
+          ]
         }
       ]
     },
@@ -136,7 +438,7 @@
       "nome": "Fecho",
       "cenas": [
         {
-          "fala": "[confident] Salva esse vídeo antes de abrir a próxima referência.",
+          "fala": "[confident] Agora você sabe por que ninguém lembra. Salva esse vídeo.",
           "bloco": {
             "tipo": "fecho",
             "cta": "Salva este post",
@@ -147,17 +449,73 @@
                 "rotulo": "salva"
               }
             ]
-          }
+          },
+          "fala_tempos_globais": [
+            {
+              "w": "Agora",
+              "inicio": 23.864,
+              "fim": 24.184
+            },
+            {
+              "w": "você",
+              "inicio": 24.232,
+              "fim": 24.424
+            },
+            {
+              "w": "sabe",
+              "inicio": 24.504,
+              "fim": 24.824
+            },
+            {
+              "w": "por",
+              "inicio": 24.924,
+              "fim": 25.224
+            },
+            {
+              "w": "que",
+              "inicio": 25.264,
+              "fim": 25.384
+            },
+            {
+              "w": "ninguém",
+              "inicio": 25.464,
+              "fim": 25.864
+            },
+            {
+              "w": "lembra.",
+              "inicio": 25.944,
+              "fim": 26.344
+            },
+            {
+              "w": "Salva",
+              "inicio": 26.524,
+              "fim": 27.144
+            },
+            {
+              "w": "esse",
+              "inicio": 27.192,
+              "fim": 27.384
+            },
+            {
+              "w": "vídeo.",
+              "inicio": 27.437,
+              "fim": 28.024
+            }
+          ]
         }
       ]
     }
   ],
-  "legenda": "Copiar referência não é ter estilo. Perfis parecidos são esquecidos juntos.\n\nDa referência, pegue o porquê: entenda o que funciona, traduza para o seu tom, deixe algo seu em cada post.\n\nNinguém lembra do filtro. Lembra do jeito de falar. Identidade é ser reconhecido sem o logo.\n\nSalva antes da próxima referência.",
+  "legenda": "Copiar referência não é ter estilo. Perfis parecidos são esquecidos juntos.\n\nDa referência, pegue o porquê, não o filtro: entenda o que funciona, traduza para o seu tom, deixe algo seu em cada post.\n\nNinguém lembra do filtro que você usou. Lembra do seu jeito de falar.\n\nSalva antes da próxima referência.",
   "hashtags": [
     "#identidadevisual",
     "#branding",
     "#marketingorganico",
     "#instagramparanegocios",
     "#detmedia"
-  ]
+  ],
+  "narracao": {
+    "arquivo": "assets/voz/06-referencia-nao-e-estilo/narracao.mp3",
+    "duracao": 28
+  }
 }

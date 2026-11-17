@@ -23,18 +23,8 @@
         {
           "fala": "[excited] Quem fala com todos não é ouvido. Público amplo parece seguro.",
           "bloco": {
-            "tipo": "telefone",
-            "visual": {
-              "tipo": "pixabay",
-              "busca": "crowd of people walking city aerial view",
-              "pixabay": {
-                "id": 3627,
-                "autor": "Coverr-Free-Footage",
-                "url": "https://pixabay.com/videos/id-3627/",
-                "vertical": false
-              },
-              "arquivo": "assets/clips/02-quem-fala-com-todos/cena-01.mp4"
-            }
+            "tipo": "gancho",
+            "texto": "Quem fala com todos não é *ouvido*. Público amplo parece seguro."
           },
           "adesivo": {
             "texto": "todo mundo",
@@ -97,7 +87,21 @@
               "inicio": 3.28,
               "fim": 3.96
             }
-          ]
+          ],
+          "_telefone_antigo": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "crowd of people walking city aerial view",
+              "pixabay": {
+                "id": 3627,
+                "autor": "Coverr-Free-Footage",
+                "url": "https://pixabay.com/videos/id-3627/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/02-quem-fala-com-todos/cena-01.mp4"
+            }
+          }
         }
       ]
     },

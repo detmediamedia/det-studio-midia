@@ -23,18 +23,8 @@
         {
           "fala": "[excited] Postar todo dia pode estar te atrapalhando. Volume não é estratégia.",
           "bloco": {
-            "tipo": "telefone",
-            "visual": {
-              "tipo": "pixabay",
-              "busca": "hand scrolling instagram feed phone fast",
-              "pixabay": {
-                "id": 88686,
-                "autor": "Firmbee",
-                "url": "https://pixabay.com/videos/id-88686/",
-                "vertical": false
-              },
-              "arquivo": "assets/clips/04-postar-todo-dia/cena-01.mp4"
-            }
+            "tipo": "gancho",
+            "texto": "Postar todo dia pode estar te *atrapalhando*. Volume não é estratégia."
           },
           "adesivo": {
             "texto": "todo dia",
@@ -97,7 +87,21 @@
               "inicio": 3.968,
               "fim": 4.64
             }
-          ]
+          ],
+          "_telefone_antigo": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "hand scrolling instagram feed phone fast",
+              "pixabay": {
+                "id": 88686,
+                "autor": "Firmbee",
+                "url": "https://pixabay.com/videos/id-88686/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/04-postar-todo-dia/cena-01.mp4"
+            }
+          }
         }
       ]
     },

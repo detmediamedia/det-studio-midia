@@ -23,18 +23,8 @@
         {
           "fala": "[excited] Curtida é educação. Salvamento é intenção. Um custa um toque. O outro, uma decisão.",
           "bloco": {
-            "tipo": "telefone",
-            "visual": {
-              "tipo": "pixabay",
-              "busca": "finger tapping smartphone screen close up dark",
-              "pixabay": {
-                "id": 4948,
-                "autor": "klimkin",
-                "url": "https://pixabay.com/videos/id-4948/",
-                "vertical": false
-              },
-              "arquivo": "assets/clips/01-salvamento-e-intencao/cena-01.mp4"
-            }
+            "tipo": "gancho",
+            "texto": "Curtida é educação. *Salvamento* é intenção. Um custa um toque. O outro, uma decisão."
           },
           "adesivo": {
             "texto": "um toque",
@@ -112,7 +102,21 @@
               "inicio": 6.32,
               "fim": 6.96
             }
-          ]
+          ],
+          "_telefone_antigo": {
+            "tipo": "telefone",
+            "visual": {
+              "tipo": "pixabay",
+              "busca": "finger tapping smartphone screen close up dark",
+              "pixabay": {
+                "id": 4948,
+                "autor": "klimkin",
+                "url": "https://pixabay.com/videos/id-4948/",
+                "vertical": false
+              },
+              "arquivo": "assets/clips/01-salvamento-e-intencao/cena-01.mp4"
+            }
+          }
         }
       ]
     },
@@ -357,11 +361,11 @@
             "tipo": "telefone",
             "visual": {
               "tipo": "pixabay",
-              "busca": "hand holding phone reading at night",
+              "busca": "hand holding smartphone scrolling screen close up",
               "pixabay": {
-                "id": 101795,
-                "autor": "Nick_the_Photographer",
-                "url": "https://pixabay.com/videos/id-101795/",
+                "id": 735,
+                "autor": "elchao",
+                "url": "https://pixabay.com/videos/id-735/",
                 "vertical": false
               },
               "arquivo": "assets/clips/01-salvamento-e-intencao/cena-05.mp4"
