@@ -18,7 +18,7 @@ Status: ideia → roteiro → preview → pronto → agendado → postado
 | 2026-11-16 12:00 | seg | animação | topo | Trends com critério · "Nem toda trend é para a sua marca." | postado | roteiros/lote-02/04-trend-com-criterio.json | https://www.instagram.com/reel/Dfzrdq0jpN3/
 | 2026-11-17 11:45 | ter | motion | topo | Formatos: reels × carrossel · "Reels atrai. Carrossel convence." | agendado | roteiros/lote-02/05-reels-e-carrossel.json | https://www.instagram.com/reel/Df2Rwg1iVKl/
 | 2026-11-17 | ter | **falado** | topo | Sócio: bastidor da pauta · "Como escolhemos o tema de cada post" | ideia | — |
-| 2026-11-18 11:45 | qua | motion | topo | Referência × identidade · "Copiar referência não é ter estilo." | agendado | roteiros/lote-02/06-referencia-nao-e-estilo.json |
+| 2026-11-18 11:45 | qua | motion | topo | Referência × identidade · "Copiar referência não é ter estilo." | agendado | roteiros/lote-02/06-referencia-nao-e-estilo.json | https://www.instagram.com/reel/Df41AZQk_pw/
 | 2026-11-19 11:45 | qui | motion | topo | Capa e grade do perfil · "A capa decide se alguém volta." | agendado | roteiros/lote-02/07-a-capa-decide.json |
 | 2026-11-19 | qui | **falado** | topo | Sócio: diagnóstico rápido · "O que eu olharia no seu perfil em trinta segundos" | ideia | — |
 | 2026-11-20 12:00 | sex | motion | topo | O erro no primeiro reels das empresas | agendado | roteiros/lote-01/03-erro-do-primeiro-reels.json |
