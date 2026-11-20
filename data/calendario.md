@@ -21,7 +21,7 @@ Status: ideia → roteiro → preview → pronto → agendado → postado
 | 2026-11-18 11:45 | qua | motion | topo | Referência × identidade · "Copiar referência não é ter estilo." | agendado | roteiros/lote-02/06-referencia-nao-e-estilo.json | https://www.instagram.com/reel/Df41AZQk_pw/
 | 2026-11-19 11:45 | qui | motion | topo | Capa e grade do perfil · "A capa decide se alguém volta." | agendado | roteiros/lote-02/07-a-capa-decide.json | https://www.instagram.com/reel/Df7bW2tHNjd/
 | 2026-11-19 | qui | **falado** | topo | Sócio: diagnóstico rápido · "O que eu olharia no seu perfil em trinta segundos" | ideia | — |
-| 2026-11-20 12:00 | sex | motion | topo | O erro no primeiro reels das empresas | agendado | roteiros/lote-01/03-erro-do-primeiro-reels.json |
+| 2026-11-20 12:00 | sex | motion | topo | O erro no primeiro reels das empresas | agendado | roteiros/lote-01/03-erro-do-primeiro-reels.json | https://www.instagram.com/reel/Df-ADupFRiF/
 | 2026-11-21 12:00 | sáb | motion | topo | Postar todo dia pode estar te atrapalhando. | agendado | roteiros/lote-01/04-postar-todo-dia.json |
 | 2026-11-22 11:45 | dom | motion | topo | Salvamento × curtida (refeito em motion; a versão de cartelas saiu em 13/11) | agendado | roteiros/lote-02/01-salvamento-e-intencao.json |
 | 2026-11-23 11:45 | seg | motion | topo | Falar com alguém (refeito em motion; a versão de cartelas saiu em 14/11) | agendado | roteiros/lote-02/02-quem-fala-com-todos.json |
